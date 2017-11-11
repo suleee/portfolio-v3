@@ -1,0 +1,90 @@
+/* //footer */
+
+footer {
+	background: #181818;
+	color: white;
+	padding: 90px 0;
+}
+
+footer p {
+	color: white;
+}
+
+footer h3 {
+	color: white;
+}
+
+.footer-bar {
+	border-bottom: 2px solid white;
+	width: 30px;
+}
+
+.footer-contact-container {
+	display: flex;
+	justify-content: center;
+	margin-top: 35px;
+}
+
+.footer-contact-container div {
+	width: 200px;
+	text-align: center;
+}
+
+.sns-icons .fa {
+	margin-top: 15px;
+	padding: 0 10px;
+}
+
+.fa-mobile {
+	font-size: 200px;
+}
+
+.contact-form-container {
+	margin: 0 auto;
+	max-width: 726px;
+}
+
+#subject {
+	width: 720px;
+	border: 1px solid #565656;
+	background: #181818;
+}
+
+#email {
+	margin-left: 10px;
+}
+
+input:focus,
+textarea:focus {
+	outline: none;
+	color: #dd674f;
+}
+
+.sumbit-btn {
+	background: #dd674f;
+	border: none;
+	width: 100px;
+	height: 35px;
+	margin-top: 20px;
+}
+
+.inputs {
+	max-width: 728px;
+}
+
+.input-container {
+	margin: 35px 0 10px 0;
+	height: 35px;
+	border: 1px solid #565656;
+	background: #181818;
+}
+
+.sumbit-btn-container {
+	text-align: center;
+}
+
+input::placeholder,
+textarea::placeholder {
+	padding-left: 10px;
+	padding-top: 10px;
+}

@@ -1,0 +1,185 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	margin: 0;
+}
+
+h2 {
+	font-size: 24px;
+	font-weight: 400;
+	margin: 35px 0;
+	text-transform: uppercase;
+}
+h2 span{
+	color: #272727;
+}
+
+p {
+	color: #4f4f4f;
+}
+
+h3 {
+	font-size: 14px;
+	font-weight: 700;
+	text-transform: uppercase;
+	margin: auto 0;
+	text-align: center;
+}
+
+h4 {
+	font-size: 18px;
+	font-weight: 600;
+	margin: 15px 0;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
+
+
+
+.main-section {
+	text-align: center;
+	max-width: 690px;
+	line-height: 24px;
+	margin: 90px auto;
+}
+
+.main-section p {
+	margin: 35px 0;
+}
+
+.bar {
+	border-bottom: 2px solid black;
+	width: 30px;
+	margin: 0 auto;
+	padding-bottom: 10px;
+}
+
+.skill-section {
+	background: #f0f0f0;
+	padding: 90px 0;
+}
+
+.skill-section02 {
+	text-align: center;
+}
+
+.skill-container {
+	display: flex;
+	justify-content: space-between;
+	padding-top: 35px;
+	max-width: 990px;
+	margin: auto;
+}
+
+.skill-single-container {
+	background: white;
+	width: 300px;
+	height: 270px;
+	text-align: center;
+	padding-top: 35px;
+}
+
+.skill-single-container p {
+	max-width: 200px;
+	line-height: 24px;
+	margin: auto;
+	margin-top: 25px;
+}
+
+.btn {
+	width: 145px;
+	height: 32px;
+	padding-top: 6px;
+	background: #272727;
+	margin: auto;
+}
+.btn:hover {
+	background: #dd674f;
+}
+
+.btn02 a {
+	color: white;
+	text-decoration: none;
+	padding-left: 40px;
+}
+
+.btn a {
+	color: white;
+	font-size: 14px;
+	text-decoration: none;
+}
+
+.buttons {
+	display: flex;
+	justify-content: space-around;
+	max-width: 428px;
+	margin: auto;
+}
+
+.pink-bar {
+	border-bottom: 2px solid #ef7c8b;
+	width: 30px;
+	margin: 0 auto;
+}
+
+.work-section {
+	margin-bottom: 90px;
+}
+
+.work-section h3 {
+	margin-top: 90px;
+}
+
+.work-list {
+	list-style: none;
+	display: flex;
+	max-width: 700px;
+	justify-content: space-between;
+	margin: auto;
+	margin-top: 35px;
+}
+
+.work-list li {
+	border: 1px solid #6d6d6d;
+	padding: 5px 10px;
+}
+
+.work-list li:hover {
+	border: 1px solid #ef7c8b;
+	color: #ef7c8b;
+}
+
+.works-container {
+	text-align: center;
+	margin-top: 35px;
+}
+
+/* .section04 {
+	margin-top: 90px;
+	background: linear-gradient(90deg, #f8f8f8, #f1f1f1);
+} */
+
+.works-container .aloha {
+	display: inline-block;
+	position: relative;
+}
+
+.aloha_hover {
+	position: absolute;
+	text-align: center;
+	background: rgba(71, 29, 23, 0.95);
+	width: 100%;
+	height: 100%;
+}
+
+.aloha_hover p {
+	color: white;
+	padding-top: 35%;
+	margin-bottom: 30px;
+	font-size: 20px;
+	font-weight: 300;
+	letter-spacing: 1.2px;
+}

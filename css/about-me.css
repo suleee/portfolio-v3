@@ -1,0 +1,141 @@
+h5{
+    font-weight: 700;
+    margin: 30px 0 10px 0px;
+}
+.ex-section {
+    padding: 90px 0;
+    background: #f0f0f0;
+}
+
+.about-me {
+    max-width: 750px;
+    margin: 35px auto;
+}
+
+.about-me p {
+    line-height: 24px;
+}
+
+.logos {
+    margin-top: 35px;
+    /* filter: grayscale(1); */
+}
+
+.linked-logo {
+    width: 96px;
+    padding-right: 20px;
+}
+
+.wix-logo {
+    width: 85px;
+    padding-left: 20px;
+}
+
+.ror-container {
+    background: white;
+    max-width: 900px;
+    margin: 35px auto;
+    padding: 20px 30px;
+    box-shadow: 3px 3px 4px rgba(0, 0, 0, .2);
+}
+
+.ror-container li {
+    line-height: 24px;
+}
+
+.date {
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.company {
+    font-size: 18px;
+}
+
+.position {
+    color: #e65678;
+    font-size: 24px;
+}
+
+.section05 {
+    padding: 90px 0;
+}
+
+.wp {
+    width: 30px;
+}
+
+.web-p-container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    max-width: 900px;
+    margin: auto;
+    justify-content: space-between;
+}
+
+.web-p-single-container {
+    width: 30%;
+    padding: 30px 0;
+}
+
+.web-p-single-container span {
+    font-weight: 700;
+}
+
+.web-title {
+    text-align: center;
+}
+
+.text {
+    height: 220px;
+    line-height: 24px;
+}
+
+.git-link a {
+    color: #FF5163;
+    font-size: 14px;
+}
+
+.git-link {
+    text-align: center;
+}
+
+.logo {
+    margin-top: 35px;
+}
+
+.des-me-section{
+	background: #f0f0f0;
+	padding: 90px 0;
+}
+
+.am-skill-section{
+    background: white;
+    padding-bottom: 60px;
+}
+
+.role{
+    max-width: 800px;
+    margin: auto;
+    padding-bottom: 30px;
+}
+
+.job-title{
+    max-width: 855px;
+    margin: auto;
+    padding-top: 20px;
+}
+
+.job-title p{
+    padding-bottom: 20px;
+}
+
+
+.am-wp-bar{
+        margin-bottom: 20px;
+}
+.lang{
+    margin-top: 20px;
+
+}

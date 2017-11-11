@@ -1,0 +1,26 @@
+.aloha-btns{
+    display: flex;
+}
+.sp-sub-title{
+    text-align: center;
+}
+.aloha-lang{
+    border: 1px solid #d4d4d4;
+    width: 300px;
+    padding: 10px 0;
+    margin: auto;
+}
+
+h6{
+    margin: 35px 0;
+    font-size: 24px;
+}
+.aloha-btns{
+    max-width: 500px;
+    margin: 35px auto;
+    text-align: center;
+}
+
+.aloha-section1{
+    text-align: center;
+}

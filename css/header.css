@@ -1,0 +1,57 @@
+.menu-container {
+	background: #191919;
+}
+
+.menu {
+	display: flex;
+	width: 100%;
+	font-size: 14px;
+	max-width: 990px;
+	height: 80px;
+	margin: 0 auto;
+}
+
+li a:hover {
+	color: #4f4f4f;
+}
+
+.pink-bar-top {
+	visibility: hidden;
+}
+
+.pink-bar-top:hover {
+	visibility: visible;
+}
+
+.menu-bar {
+	color: #616161;
+}
+
+.top-logo {
+	width: 45%;
+	color: white;
+}
+
+.top-logo img {
+	margin-top: 12px;
+	position: absolute;
+}
+
+.menu-list {
+	margin-top: 33px;
+	color: white;
+	list-style: none;
+	width: 55%;
+	display: flex;
+	justify-content: space-between;
+}
+
+.top-logo span{
+	font-weight: 100;
+	top: 42%;
+    left: 13%;
+    position: relative;
+}
+.top-logo span:hover{
+	color: #dd674f;
+}
