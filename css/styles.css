@@ -28,7 +28,7 @@ h3 {
 }
 
 h4 {
-	font-size: 18px;
+	font-size: 14px;
 	font-weight: 600;
 	margin: 15px 0;
 }
@@ -156,21 +156,6 @@ a {
 	background: #dd674f;
 }
 
-
-/* .btn02 a {
-	color: white;
-	text-decoration: none;
-	padding-left: 40px;
-} */
-
-
-/*
-.btn a {
-	color: white;
-	font-size: 14px;
-	text-decoration: none;
-} */
-
 .buttons {
 	display: flex;
 	justify-content: space-around;
@@ -217,11 +202,6 @@ a {
 	margin-top: 35px;
 }
 
-
-/* .section04 {
-	margin-top: 90px;
-	background: linear-gradient(90deg, #f8f8f8, #f1f1f1);
-} */
 
 .works-container .aloha {
 	display: inline-block;

@@ -1,11 +1,13 @@
-h5{
+h5 {
     font-weight: 700;
     margin: 30px 0 10px 0px;
 }
-.am-main-section{
+
+.am-main-section {
     text-align: center;
     margin: 90px 0;
 }
+
 .ex-section {
     padding: 90px 0;
     background: #f0f0f0;
@@ -69,22 +71,41 @@ h5{
     width: 30px;
 }
 
+.in {
+    width: 22px;
+}
+
 .web-p-container {
-    display: flex;
-    flex-wrap: wrap;
     width: 100%;
-    max-width: 900px;
+    min-width: 260px;
     margin: auto;
-    justify-content: space-between;
+}
+
+@media all and (min-width: 600px) {
+    .web-p-container {
+        display: flex;
+        max-width: 900px;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
 }
 
 .web-p-single-container {
-    width: 30%;
-    padding: 30px 0;
+    min-width: 300px;
+    padding: 30px 30px;
+}
+
+@media all and (min-width: 600px) {
+    .web-p-single-container {
+        min-width: 250px;
+        width: 30%;
+        padding: 50px 0;
+    }
 }
 
 .web-p-single-container span {
     font-weight: 700;
+    color: black;
 }
 
 .web-title {
@@ -92,14 +113,21 @@ h5{
 }
 
 .text {
-    height: 220px;
+    height: 180px;
     line-height: 24px;
+}
+
+@media all and (min-width: 600px) {
+    .text {
+        height: 220px;
+    }
 }
 
 .git-link a {
     color: #FF5163;
     font-size: 14px;
 }
+
 .git-link a:hover {
     color: white;
 }
@@ -112,55 +140,56 @@ h5{
     border-radius: 9px;
     padding: 8px 0;
 }
-.git-link:hover{
-   background: #FF5163;
+
+.git-link:hover {
+    background: #FF5163;
 }
 
 .logo {
     margin-top: 35px;
 }
 
-.des-me-section{
-	background: #f0f0f0;
-	padding: 90px 0;
+.des-me-section {
+    background: #f0f0f0;
+    padding: 90px 0;
 }
 
-.am-skill-section{
+.am-skill-section {
     background: white;
     padding-bottom: 60px;
 }
 
-.role{
+.role {
     max-width: 800px;
     margin: auto;
-    padding-bottom: 30px;
+    padding: 0 20px 30px 20px;
 }
 
-.job-title{
+.job-title {
     max-width: 855px;
     margin: auto;
     padding-top: 20px;
 }
 
-.job-title p{
+.job-title p {
     padding-bottom: 20px;
 }
 
-
-.am-wp-bar{
-        margin-bottom: 20px;
+.am-wp-bar {
+    margin-bottom: 20px;
 }
-.lang{
+
+.lang {
     margin-top: 20px;
-
-}
-.ep-btn{
-
+    font-size: 14px;
 }
 
-.expandContent, .reduceContent{
+.expandContent,
+.reduceContent {
     text-align: center;
 }
-.expandContent a, .reduceContent a {
+
+.expandContent a,
+.reduceContent a {
     padding: 10px 20px;
 }
