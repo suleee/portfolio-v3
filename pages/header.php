@@ -27,7 +27,7 @@
     <nav class="menu-container">
         <div class="menu">
             <div class="top-logo">
-                <a href="index.php"><img src="img/j-menu-logo.png" alt="logo"><span>zisulee.com</span></a>
+                <a href="index.php"><img src="img/j-menu-logo-white.png" alt="logo"><span>zisulee.com</span></a>
 				</div>
             <ul class="menu-list">
                 <li><a href="about-me.php">About</a>

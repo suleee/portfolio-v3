@@ -34,8 +34,8 @@ li a:hover {
 }
 
 .top-logo img {
-	margin-top: 11px;
-	width: 3%;
+	margin-top: 13px;
+    width: 34px;
 	position: absolute;
 }
 
@@ -51,7 +51,7 @@ li a:hover {
 .top-logo span{
 	font-weight: 100;
 	top: 42%;
-    left: 10%;
+	left: 35px;
     position: relative;
 }
 .top-logo span:hover{
