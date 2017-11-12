@@ -57,3 +57,8 @@ li a:hover {
 .top-logo span:hover{
 	color: #60acaa;
 }
+.menu-bar-hover{
+	border-bottom: 2px solid #60acaa;
+margin-top: 20px;
+width: 30px;
+}

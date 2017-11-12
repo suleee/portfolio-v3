@@ -87,6 +87,6 @@
             </div>
         </section>
     </section>
-
+    <?php include( './pages/web-project.php' ); ?>
 <!-- footer -->
 <?php include( './pages/footer.php' ); ?>

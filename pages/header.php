@@ -11,7 +11,8 @@
     <link rel="stylesheet" type=text/css href="css/reset.css">
 	<link rel="stylesheet" type=text/css href="css/styles.css">
 	<link rel="stylesheet" type=text/css href="css/header.css">
-	<link rel="stylesheet" type=text/css href="css/footer.css">
+    <link rel="stylesheet" type=text/css href="css/footer.css">
+    <link rel="stylesheet" type=text/css href="css/web-projects.css">
     <link rel="stylesheet" type=text/css href="css/about-me.css">
     <link rel="stylesheet" type=text/css href="css/aloha.css">
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,700,700i" rel="stylesheet">
@@ -30,15 +31,16 @@
                 <a href="index.php"><img src="img/j-menu-logo-white.png" alt="logo"><span>zisulee.com</span></a>
 				</div>
             <ul class="menu-list">
-                <li><a href="about-me.php">About</a>
-                    <div class="pink-bar pink-bar-top"></div>
+            <li class="menu-hover"><a href="work.php">Work</a>
+                    <div class="menu-bar-hover" style="display:none"></div>
                 </li>
                 <li class="menu-bar">|</li>
-                <li><a href="work.php">Work</a></li>
+                <li class="menu-hover"><a href="about-me.php">About</a>
+                <div class="menu-bar-hover" style="display:none"></div></li>
                 <li class="menu-bar">|</li>
-                <li><a href="contact.php">Contact</a></li>
+                <li class="menu-hover"><a href="contact.php">Contact</a><div class="menu-bar-hover" style="display:none"></div></li>
                 <li class="menu-bar">|</li>
-                <li><a href="http://jaejisu.wixsite.com/jisulee">Blog</a></li>
+                <li class="menu-hover"><a href="http://jaejisu.wixsite.com/jisulee">Blog</a><div class="menu-bar-hover" style="display:none"></div></li>
             </ul>
         </div>
     </nav>

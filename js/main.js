@@ -8,13 +8,19 @@ $(function () {
       $(this).find(".aloha_hover").hide();
     });
 
+//menu hover
+$('.menu-hover').hover(function () {
+  $(this).find(".menu-bar-hover").show();
+});
+$('.menu-hover').mouseleave(function () {
+  $(this).find(".menu-bar-hover").hide();
+});
 
     $(document).ready(function() {
       function close_accordion_section() {
         $('.accordion .accordion-section-title').removeClass('active');
         $('.accordion .accordion-section-content').slideUp(300).removeClass('open');
     }
-
 
       $('.accordion-section-title').click(function(e) {
           // Grab current anchor value

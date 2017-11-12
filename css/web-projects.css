@@ -1,0 +1,53 @@
+
+.git-link{
+    font-size: 14px;
+}
+
+.git-link:hover {
+    color: white;
+}
+.git-btn{
+    text-align: center;
+}
+.git-link {
+    width: 135px;
+    text-align: center;
+    margin: auto;
+    border-radius: 9px;
+    padding: 8px 20px;
+}
+
+.git-link-g {
+    border: 1px solid #8a939a;
+    color: #8a939a;
+}
+.git-link-g:hover {
+    background: #8a939a;
+}
+
+.git-link-b {
+    border: 1px solid #0ca2ff;
+    color: #0ca2ff;
+}
+
+.git-link-b:hover {
+    background: #0ca2ff;
+}
+
+.git-link-pp {
+    border: 1px solid #796eff;
+    color: #796eff;
+}
+
+.git-link-pp:hover {
+    background: #796eff;
+}
+
+.git-link-p {
+    border: 1px solid #FF5163;
+    color: #FF5163;
+}
+
+.git-link-p:hover {
+    background: #FF5163;
+}
