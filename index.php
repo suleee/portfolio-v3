@@ -12,8 +12,8 @@
                 for 6 months. I have had many opportunities to work upon a variety projects. I greatly enjoy designing and
                 programming in the digital space.</p>
             <div class="buttons">
-                <div class="btn"><a href="contact.php">Contact Me</a></div>
-                <div class="btn"><a href="about-me.php">Learn More</a></div>
+                <div class="btn01"><a href="contact.php">Contact Me</a></div>
+                <div class="btn02"><a href="about-me.php">Learn More</a></div>
             </div>
         </section>
 
@@ -60,29 +60,30 @@
             <div class="works-container">
                 <div class="aloha">
                     <div class="aloha_hover hover01">
-                        <p>Promotion Banners</p>
-                        <a class="btn" href="aloha.php">see more</a>
+                        <p class="hover-l">HTML, CSS, JavaScript, Photoshop</p>
+                        <p class="hover-t">Aloha responsive website</p>
+                        <a class="btn03" href="aloha.php">veiw more</a>
                     </div>
                     <img src="img/work02.png" alt="work02">
                 </div>
                 <div class="aloha">
                     <div class="aloha_hover hover02">
-                        <p>Promotion Banners</p>
-                        <a class="btn" href="banners.php">see more</a>
+                    <p class="hover-l">HTML, CSS, JavaScript, Photoshop</p>
+                    <p class="hover-t">Aloha responsive website</p>
+                    <a class="btn03" href="aloha.php">veiw more</a>
                     </div>
                     <img src="img/work02.png" alt="work02">
                 </div>
                 <div class="aloha">
                     <div class="aloha_hover hover03">
-                        <p>Promotion Banners</p>
-                        <a class="btn" href="banners.php">see more</a>
+                    <p class="hover-l">HTML, CSS, JavaScript, Photoshop</p>
+                    <p class="hover-t">Aloha responsive website</p>
+                    <a class="btn03" href="aloha.php">veiw more</a>
                     </div>
                     <img src="img/work02.png" alt="work02">
                 </div>
-                <!-- <img src="img/work02.png" alt="work02"> -->
-                <!-- <img src="img/work02.png" alt="work02"> -->
             </div>
-            <div class="btn btn02"><a href="work.php">view more</a></div>
+            <div class="btn"><a href="work.php">view more</a></div>
 
         </section>
     </section>

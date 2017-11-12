@@ -3,7 +3,7 @@
 
 
 <section class="container">
-        <section class="main-section">
+        <section class="am-main-section">
             <h3>About Me</h3>
              <div class="bar"></div>
             <img src="img/j-logo.png" class="logo" alt="logo">
@@ -116,7 +116,7 @@
                         </ul>
                     </ul>
                 </div>
-                <div class="ror-container">
+                <div class="ror-container" id="here">
                 <div class="job-title">
                     <p class="date">Dec. 2015 - Sept. 2016</p>
                     <p class="company">Septeni Global (Korea)</p>
@@ -142,6 +142,12 @@
                         </ul>
                     </ul>
                 </div>
+                <div class="expandContent">
+        <a href="#here" class="ep-btn btn">View More Content</a>
+            </div>
+
+                <div class="showMe" style="display:none">
+
                 <div class="ror-container">
                 <div class="job-title">
                     <p class="date">March 2015 - Nov. 2015</p>
@@ -219,7 +225,10 @@
                     </ul>
                 </div>
             </div>
-
+            <div class="reduceContent">
+            <a href="#here" style="display:none" class="ep-btn02 btn">Hide Content</a>
+</div>
+</div>
         </section>
 
 

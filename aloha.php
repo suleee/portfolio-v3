@@ -2,7 +2,7 @@
 <?php include( './pages/header.php' );?>
 
 
-<section class="work-section aloha-section1">
+<section class="aloha-section1">
 
                 <h3>Portfolio</h3>
                 <div class="bar"></div>
@@ -17,8 +17,8 @@
                 <img src="img/aloha-img.png" alt="aloha-img">
                 </section>
 
-            <section>
-            <div>
+            <section class="aloha-section2">
+
             <p>This is a responsive website for the client: the Aloha Apparel Co. The website build with HTML, CSS components, and interactive JS. A responsive web design implemented using the mobile first approach. Languages: HTML5, CSS3, JavaScript & jQuery </p>
             <p>
             Goal Point
@@ -29,7 +29,7 @@
                 <li>Make appropriate use of paragraph, heading, and list elements</li>
                 <li>Update the the cart icon in the top-right corner of the header every time the user clicks the “Add to Cart” button for a product</li>
             </p>
-            </div>
+
         </section>
 
 

@@ -2,6 +2,10 @@ h5{
     font-weight: 700;
     margin: 30px 0 10px 0px;
 }
+.am-main-section{
+    text-align: center;
+    margin: 90px 0;
+}
 .ex-section {
     padding: 90px 0;
     background: #f0f0f0;
@@ -44,17 +48,17 @@ h5{
 }
 
 .date {
-    font-size: 18px;
+    font-size: 14px;
     font-weight: 700;
 }
 
 .company {
-    font-size: 18px;
+    font-size: 14px;
 }
 
 .position {
     color: #e65678;
-    font-size: 24px;
+    font-size: 20px;
 }
 
 .section05 {
@@ -96,9 +100,20 @@ h5{
     color: #FF5163;
     font-size: 14px;
 }
+.git-link a:hover {
+    color: white;
+}
 
 .git-link {
+    border: 1px solid #FF5163;
+    width: 135px;
     text-align: center;
+    margin: auto;
+    border-radius: 9px;
+    padding: 8px 0;
+}
+.git-link:hover{
+   background: #FF5163;
 }
 
 .logo {
@@ -138,4 +153,14 @@ h5{
 .lang{
     margin-top: 20px;
 
+}
+.ep-btn{
+
+}
+
+.expandContent, .reduceContent{
+    text-align: center;
+}
+.expandContent a, .reduceContent a {
+    padding: 10px 20px;
 }
