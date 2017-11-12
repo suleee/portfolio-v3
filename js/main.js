@@ -9,17 +9,52 @@ $(function () {
     });
 
 
+    $(document).ready(function() {
+      function close_accordion_section() {
+        $('.accordion .accordion-section-title').removeClass('active');
+        $('.accordion .accordion-section-content').slideUp(300).removeClass('open');
+    }
 
-  $('.expandContent').click(function () {
-    $('.showMe').toggle();
-    $('.ep-btn').hide();
-    $('.ep-btn02').show();
-  });
 
-  $('.ep-btn02').click(function () {
-    $('.showMe').hide();
-    $('.ep-btn02').hide();
-    $('.ep-btn').show();
+      $('.accordion-section-title').click(function(e) {
+          // Grab current anchor value
+          var currentAttrValue = $(this).attr('href');
+
+          if($(e.target).is('.active')) {
+              close_accordion_section();
+          }else {
+              close_accordion_section();
+
+              // Add active class to section title
+              $(this).addClass('active');
+              $(this).hide();
+              $('.reduce-content').show();
+              // Open up the hidden content panel
+              $('.accordion ' + currentAttrValue).slideDown(300).addClass('open');
+          }
+
+          e.preventDefault();
+      });
+
+      $('.reduce-content').click(function(e) {
+        // Grab current anchor value
+        var currentAttrValue = $(this).attr('href');
+
+        if($(e.target).is('.active')) {
+            close_accordion_section();
+        }else {
+            close_accordion_section();
+
+            // Add active class to section title
+            $(this).addClass('active');
+            $(this).hide();
+            $('.accordion-section-title').show();
+            // Open up the hidden content panel
+            $('. accordion-section-content' + currentAttrValue).slideUp(300).addClass('open');
+        }
+
+        e.preventDefault();
+    });
   });
 
 

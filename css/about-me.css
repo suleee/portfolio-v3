@@ -225,12 +225,12 @@ h5 {
     font-size: 14px;
 }
 
-.expandContent,
-.reduceContent {
-    text-align: center;
-}
 
-.expandContent a,
-.reduceContent a {
-    padding: 10px 20px;
-}
+
+
+.accordion {
+    overflow:hidden;}
+    .accordion-section-content {
+        padding:15px;
+        display:none;
+    }

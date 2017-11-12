@@ -13,6 +13,9 @@ footer p {
 footer h3 {
 	color: white;
 }
+form{
+	text-align: center;
+}
 
 .footer-bar {
 	border-bottom: 2px solid white;
@@ -45,10 +48,16 @@ footer h3 {
 }
 
 #message {
-	width: 700px;
+	min-width: 300px;
 	border-radius: 3px;
 	border: 1px solid #565656;
 	background: #181818;
+}
+
+@media all and (min-width: 600px) {
+	#message {
+		width: 700px;
+	}
 }
 
 #email {
@@ -61,7 +70,7 @@ textarea:focus {
 	color: #dd674f;
 }
 
-.sumbit-btn-container button{
+.sumbit-btn-container button {
 	background: #dd674f;
 	border: none;
 	width: 100px;
