@@ -41,21 +41,28 @@ a {
 .main-section {
 	text-align: center;
 	line-height: 24px;
-	margin: 10px 0 30px 0;
+	margin: 10px 0 50px 0;
 	/* background-image: url("../img/main-bg02.png");
 	background: linear-gradient(45deg, #349b98, #65cb99); */
-	background: linear-gradient(45deg, #349b98, #65cb99), url("../img/main-bg.png") no-repeat center;
+	background: url("../img/main-bg02.png") no-repeat center;
+	background-size: cover;
 }
-.main-section h2 span{
+
+.main-section h2 span {
 	color: white;
 }
-
 .main-section p {
 	margin: 35px auto;
-	max-width: 690px;
+	min-width: 260px;
+	padding: 0 10px;
 	color: black;
 }
-
+@media all and (min-width: 600px) {
+.main-section p {
+	max-width: 696px;
+	padding: 0%;
+}
+}
 .main-section img {
 	margin-top: 80px;
 }
@@ -77,19 +84,32 @@ a {
 }
 
 .skill-container {
-	display: flex;
-	justify-content: space-between;
 	padding-top: 35px;
 	max-width: 990px;
 	margin: auto;
 }
 
+@media all and (min-width: 600px) {
+	.skill-container {
+		display: flex;
+		justify-content: space-between;
+	}
+}
+
 .skill-single-container {
 	background: white;
-	width: 300px;
+	width: 260px;
 	height: 270px;
 	text-align: center;
 	padding-top: 35px;
+	margin: 15px auto;
+}
+
+@media all and (min-width: 600px) {
+	.skill-single-container {
+		width: 300px;
+		text-align: center;
+	}
 }
 
 .skill-single-container p {
@@ -107,9 +127,8 @@ a {
 	margin: auto;
 	border-radius: 10px;
 }
-.btn01:hover {
 
-}
+.btn01:hover {}
 
 .btn01 a {
 	color: black;
@@ -129,7 +148,7 @@ a {
 	padding: 10px 0;
 	background: #272727;
 	border-radius: 3px;
-	margin: auto;
+	margin: 25px auto;
 	text-align: center;
 }
 
@@ -143,6 +162,8 @@ a {
 	text-decoration: none;
 	padding-left: 40px;
 } */
+
+
 /*
 .btn a {
 	color: white;
@@ -220,21 +241,25 @@ a {
 	font-weight: 300;
 	letter-spacing: 1.2px;
 }
-.hover-l{
+
+.hover-l {
 	padding: 23px 0;
 	background: rgba(0, 0, 0, 0.95);
 	font-size: 14px;
 }
-.hover-t{
- margin: 40px 0 50px 0;
- font-size: 18px;
+
+.hover-t {
+	margin: 40px 0 50px 0;
+	font-size: 18px;
 }
-.btn03{
+
+.btn03 {
 	border: 1px solid white;
 	padding: 8px 25px 8px 25px;
 	border-radius: 3px;
 	font-weight: 400;
 }
+
 .btn03:hover {
 	color: black;
 	background: white;

@@ -1,13 +1,14 @@
 .menu-container {
 	background: #191919;
+	padding: 0 5%;
 }
 
 .menu {
 	display: flex;
 	width: 100%;
 	font-size: 14px;
-	max-width: 990px;
-	height: 80px;
+
+	height: 60px;
 	margin: 0 auto;
 }
 
@@ -33,12 +34,13 @@ li a:hover {
 }
 
 .top-logo img {
-	margin-top: 12px;
+	margin-top: 11px;
+	width: 3%;
 	position: absolute;
 }
 
 .menu-list {
-	margin-top: 33px;
+	margin-top: 24px;
 	color: white;
 	list-style: none;
 	width: 55%;
@@ -49,7 +51,7 @@ li a:hover {
 .top-logo span{
 	font-weight: 100;
 	top: 42%;
-    left: 13%;
+    left: 10%;
     position: relative;
 }
 .top-logo span:hover{

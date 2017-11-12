@@ -39,6 +39,30 @@
                 </div>
                 <img src="img/work02.png" alt="work02">
             </div>
+            <div class="aloha">
+                <div class="aloha_hover hover03">
+                <p class="hover-l">HTML, CSS, JavaScript, Photoshop</p>
+                <p class="hover-t">Aloha responsive website</p>
+                <a class="btn03" href="aloha.php">veiw more</a>
+                </div>
+                <img src="img/work02.png" alt="work02">
+            </div>
+            <div class="aloha">
+                <div class="aloha_hover hover03">
+                <p class="hover-l">HTML, CSS, JavaScript, Photoshop</p>
+                <p class="hover-t">Aloha responsive website</p>
+                <a class="btn03" href="aloha.php">veiw more</a>
+                </div>
+                <img src="img/work02.png" alt="work02">
+            </div>
+            <div class="aloha">
+                <div class="aloha_hover hover03">
+                <p class="hover-l">HTML, CSS, JavaScript, Photoshop</p>
+                <p class="hover-t">Aloha responsive website</p>
+                <a class="btn03" href="aloha.php">veiw more</a>
+                </div>
+                <img src="img/work02.png" alt="work02">
+            </div>
         </div>
             <!-- <div class="btn btn02"><a href="">view more</a></div> -->
 
