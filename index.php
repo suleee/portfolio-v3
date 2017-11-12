@@ -8,7 +8,7 @@
             <h2><span>Creative</span> thinking</h2>
             <h3>A little about me</h3>
             <div class="bar"></div>
-            <p> My name is Jisu Lee. I have been working as a web graphic designer for 6 years and working as a freelancer developer
+            <p> My name is Jisu Lee. I have been working as a web graphic designer over 5years and working as a freelancer developer
                 for 6 months. I have had many opportunities to work upon a variety projects. I greatly enjoy designing and
                 programming in the digital space.</p>
             <div class="buttons">

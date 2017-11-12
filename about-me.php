@@ -24,7 +24,7 @@
                 <div class="bar"></div>
             </div>
             <div class="about-me">
-                <p>I have over 6 years of experience in building high quality website/app using the principle and techniques
+                <p>I have over 5years of experience in building high quality website/app using the principle and techniques
                     of user experience. I adapt at finding user needs articulating ideas through stories and visuals task
                     flows and delivering beautiful final designs. In my current and past experiences in different kind of
                     industries help me to hone a key design eye while I am able to build and design pages that are visually
