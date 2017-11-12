@@ -2,6 +2,18 @@ h5 {
     font-weight: 700;
     margin: 30px 0 10px 0px;
 }
+.profile-pic{
+    justify-content: space-between;
+    width: 300px;
+    margin: auto;
+    padding-bottom: 35px;
+}
+/* .my-pic{
+    width: 100px;
+    border-radius: 100px;
+        background: linear-gradient( to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.5) 100%), url(../img/jisu.jpg)no-repeat;
+    background-size: contain, cover;
+} */
 
 .am-main-section {
     text-align: center;
@@ -22,10 +34,10 @@ h5 {
     line-height: 24px;
 }
 
-.logos {
+/* .logos {
     margin-top: 35px;
     /* filter: grayscale(1); */
-}
+
 
 .linked-logo {
     width: 96px;

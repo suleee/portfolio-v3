@@ -6,7 +6,10 @@
         <section class="am-main-section">
             <h3>About Me</h3>
              <div class="bar"></div>
+            <div class="profile-pic">
             <img src="img/j-logo.png" class="logo" alt="logo">
+            <img src="img/jisu.png" class="logo" alt="logo">
+</div>
             <div class="logos">
                 <a href="https://www.linkedin.com/in/jisu-lee-02834364/">
                 <img src="img/linkedin-logo-transparent-png-16.png" class="linked-logo" alt="linkedin-logo">
