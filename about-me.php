@@ -250,7 +250,7 @@
                     <!-- <p><span>language:</span> HTML, CSS, Sass, Javascript, jQuery, Wordpress, PHP</p> -->
                     </p>
                 </div>
-                    <div class="git-link"><a href="https://github.com/suleee/catalyst-winter-2017">View in GitHub</a></div>
+                    <div class="git-link git-link-b"><a href="https://github.com/suleee/catalyst-winter-2017">View in GitHub</a></div>
                 </div>
                 <div class="web-p-single-container">
                     <div class="web-title"><img src="img/ajs-logo-color.png" class="wp" alt="wordpress">
@@ -259,7 +259,7 @@
                     <div class="text"><p>Single web app which includes a home and registration page, an alien encounters and reports page and
                         a blog page. </p>
                     <p class="lang"><span>language:</span> Angular2 JS, CSS3/SASS and Typescript</p></div>
-                    <div class="git-link"><a href="https://github.com/suleee/MarsColonyApp">View in GitHub</a></div>
+                    <div class="git-link git-link-p"><a href="https://github.com/suleee/MarsColonyApp">View in GitHub</a></div>
                 </div>
                 <div class="web-p-single-container">
                     <div class="web-title"><img src="img/wordpress-icon-color.png" class="wp" alt="wordpress">
@@ -268,7 +268,7 @@
                     <div class="text"><p>Custom theme with custom post types, a custom taxonomy, custom widgets, and a custom plugin.
                     </p>
                     <p class="lang"> <span>language:</span> HTML, CSS, Sass, Javascript, jQuery, Wordpress, PHP</p></div>
-                    <div class="git-link"><a href="https://github.com/suleee/Inhabitent_project4">View in GitHub</a></div>
+                    <div class="git-link git-link-b"><a href="https://github.com/suleee/Inhabitent_project4">View in GitHub</a></div>
                 </div>
                 <div class="web-p-single-container">
                     <div class="web-title"><img src="img/nyt-t-logo.png" class="wp in" alt="wordpress">
@@ -278,7 +278,7 @@
                         the user selected in the drop down select box.
                     </p>
                     <p class="lang"><span>language:</span> HTML5, CSS3, JavaScript, jQuery and AJAX/JSON API</p></div>
-                    <div class="git-link"><a href="https://github.com/suleee/Instanews-App">View in GitHub</a></div>
+                    <div class="git-link git-link-g"><a href="https://github.com/suleee/Instanews-App">View in GitHub</a></div>
 
                 </div>
                 <div class="web-p-single-container">
@@ -288,16 +288,16 @@
                     <div class="text"><p>Custom theme with custom post types, a custom taxonomy, custom widgets, and a custom plugin.
                     </p>
                     <p class="lang"><span>language:</span> HTML, CSS, Sass, Javascript, jQuery, Wordpress, PHP</p></div>
-                    <div class="git-link"><a href="https://github.com/suleee/gradusone">View in GitHub</a></div>
+                    <div class=" git-link git-link-b"><a href="https://github.com/suleee/gradusone">View in GitHub</a></div>
                 </div>
                  <div class="web-p-single-container">
-                    <div class="web-title"><img src="img/resp-icon-color.png" class="wp" alt="wordpress">
+                    <div class="web-title"><img src="img/resp-icon-color.png" class="wp" alt="responsiceweb">
                     <h4>Aloha | Responsive Web</h4></div>
                     <!-- <div class="pink-bar am-wp-bar"></div> -->
                     <div class="text"><p>A responsive web design implemented using the mobile first approach.
                     </p>
                     <p class="lang"><span>language:</span> HTML5, CSS3, JavaScript and jQuery</p></div>
-                    <div class="git-link"><a href="https://github.com/suleee/Aloha-Responsive-Website"> View in GitHub</a></div>
+                    <div class="git-link git-link-pp"><a href="https://github.com/suleee/Aloha-Responsive-Website"> View in GitHub</a></div>
 
                 </div>
 

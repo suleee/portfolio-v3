@@ -21,51 +21,25 @@
                     <p class="hover-t">Aloha responsive website</p>
                     <a class="btn03" href="aloha.php">veiw more</a>
                 </div>
-                <img src="img/work02.png" alt="work02">
+                <img src="img/aloha-tn.png" alt="work02">
             </div>
             <div class="aloha">
                 <div class="aloha_hover hover02">
                 <p class="hover-l">HTML, CSS, JavaScript, Photoshop</p>
-                <p class="hover-t">Aloha responsive website</p>
+                <p class="hover-t">Pong Game</p>
                 <a class="btn03" href="aloha.php">veiw more</a>
                 </div>
-                <img src="img/work02.png" alt="work02">
+                <img src="img/pong-tn.png" alt="work02">
             </div>
             <div class="aloha">
                 <div class="aloha_hover hover03">
-                <p class="hover-l">HTML, CSS, JavaScript, Photoshop</p>
-                <p class="hover-t">Aloha responsive website</p>
+                <p class="hover-l">Photoshop, InVision</p>
+                <p class="hover-t">Fishing Hero website</p>
                 <a class="btn03" href="aloha.php">veiw more</a>
                 </div>
-                <img src="img/work02.png" alt="work02">
-            </div>
-            <div class="aloha">
-                <div class="aloha_hover hover03">
-                <p class="hover-l">HTML, CSS, JavaScript, Photoshop</p>
-                <p class="hover-t">Aloha responsive website</p>
-                <a class="btn03" href="aloha.php">veiw more</a>
-                </div>
-                <img src="img/work02.png" alt="work02">
-            </div>
-            <div class="aloha">
-                <div class="aloha_hover hover03">
-                <p class="hover-l">HTML, CSS, JavaScript, Photoshop</p>
-                <p class="hover-t">Aloha responsive website</p>
-                <a class="btn03" href="aloha.php">veiw more</a>
-                </div>
-                <img src="img/work02.png" alt="work02">
-            </div>
-            <div class="aloha">
-                <div class="aloha_hover hover03">
-                <p class="hover-l">HTML, CSS, JavaScript, Photoshop</p>
-                <p class="hover-t">Aloha responsive website</p>
-                <a class="btn03" href="aloha.php">veiw more</a>
-                </div>
-                <img src="img/work02.png" alt="work02">
+                <img src="img/fish-tn.png" alt="work02">
             </div>
         </div>
-            <!-- <div class="btn btn02"><a href="">view more</a></div> -->
-
         </section>
     </section>
 

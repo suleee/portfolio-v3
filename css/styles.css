@@ -51,18 +51,21 @@ a {
 .main-section h2 span {
 	color: white;
 }
+
 .main-section p {
 	margin: 35px auto;
 	min-width: 260px;
 	padding: 0 10px;
 	color: black;
 }
+
 @media all and (min-width: 600px) {
-.main-section p {
-	max-width: 696px;
-	padding: 0%;
+	.main-section p {
+		max-width: 696px;
+		padding: 0%;
+	}
 }
-}
+
 .main-section img {
 	margin-top: 80px;
 }
@@ -119,29 +122,34 @@ a {
 	margin-top: 25px;
 }
 
-.btn01 {
+.m-btn {
 	width: 145px;
 	height: 32px;
 	padding-top: 6px;
-	background: white;
 	margin: auto;
 	border-radius: 10px;
 }
 
-.btn01:hover {}
-
-.btn01 a {
+.btn01 {
+	background: white;
 	color: black;
 }
 
-.btn02 {
-	width: 145px;
-	height: 32px;
-	padding-top: 6px;
-	border: 1px solid white;
-	margin: auto;
-	border-radius: 10px;
+.btn01:hover {
+	background: black;
+color: white;
 }
+
+
+.btn02 {
+	border: 1px solid white;
+	color: black;
+}
+.btn02:hover {
+	background: white;
+	color: black;
+}
+
 
 .btn {
 	width: 145px;
@@ -201,7 +209,6 @@ a {
 	text-align: center;
 	margin-top: 35px;
 }
-
 
 .works-container .aloha {
 	display: inline-block;

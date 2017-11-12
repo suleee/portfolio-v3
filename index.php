@@ -12,9 +12,51 @@
                 for 6 months. I have had many opportunities to work upon a variety projects. I greatly enjoy designing and
                 programming in the digital space.</p>
             <div class="buttons">
-                <div class="btn01"><a href="contact.php">Contact Me</a></div>
-                <div class="btn02"><a href="about-me.php">Learn More</a></div>
+            <a href="contact.php"><div class="m-btn btn01">Contact Me</div></a>
+            <a href="about-me.php"><div class="m-btn btn02">Learn More</div></a>
             </div>
+        </section>
+
+
+        <section class="work-section">
+            <div>
+                <h3>Portfolio</h3>
+                <div class="bar"></div>
+            </div>
+            <!-- <ul class="work-list">
+                <li>All</li>
+                <li>UI/UX design</li>
+                <li>web development</li>
+                <li>Web product pages</li>
+                <li>graphics</li>
+            </ul> -->
+            <div class="works-container">
+                <div class="aloha">
+                    <div class="aloha_hover hover01">
+                        <p class="hover-l">HTML, CSS, JavaScript, Photoshop</p>
+                        <p class="hover-t">Aloha responsive website</p>
+                        <a class="btn03" href="aloha.php">veiw more</a>
+                    </div>
+                    <img src="img/aloha-tn.png" alt="work02">
+                </div>
+                <div class="aloha">
+                    <div class="aloha_hover hover02">
+                    <p class="hover-l">HTML, CSS, JavaScript, Photoshop</p>
+                    <p class="hover-t">Pong Game</p>
+                    <a class="btn03" href="aloha.php">veiw more</a>
+                    </div>
+                    <img src="img/pong-tn.png" alt="work02">
+                </div>
+                <div class="aloha">
+                    <div class="aloha_hover hover03">
+                    <p class="hover-l">Photoshop, InVision</p>
+                    <p class="hover-t">Fishing Hero website</p>
+                    <a class="btn03" href="aloha.php">veiw more</a>
+                    </div>
+                    <img src="img/fish-tn.png" alt="work02">
+                </div>
+            </div>
+            <div class="btn"><a href="work.php">view more</a></div>
         </section>
 
         <section class="skill-section">
@@ -43,48 +85,6 @@
                     <p>Microsoft PowerPoint, Word, Excel, JIRA, Confluence, Proma</p>
                 </div>
             </div>
-        </section>
-
-        <section class="work-section">
-            <div>
-                <h3>Portfolio</h3>
-                <div class="bar"></div>
-            </div>
-            <!-- <ul class="work-list">
-                <li>All</li>
-                <li>UI/UX design</li>
-                <li>web development</li>
-                <li>Web product pages</li>
-                <li>graphics</li>
-            </ul> -->
-            <div class="works-container">
-                <div class="aloha">
-                    <div class="aloha_hover hover01">
-                        <p class="hover-l">HTML, CSS, JavaScript, Photoshop</p>
-                        <p class="hover-t">Aloha responsive website</p>
-                        <a class="btn03" href="aloha.php">veiw more</a>
-                    </div>
-                    <img src="img/work02.png" alt="work02">
-                </div>
-                <div class="aloha">
-                    <div class="aloha_hover hover02">
-                    <p class="hover-l">HTML, CSS, JavaScript, Photoshop</p>
-                    <p class="hover-t">Aloha responsive website</p>
-                    <a class="btn03" href="aloha.php">veiw more</a>
-                    </div>
-                    <img src="img/work02.png" alt="work02">
-                </div>
-                <div class="aloha">
-                    <div class="aloha_hover hover03">
-                    <p class="hover-l">HTML, CSS, JavaScript, Photoshop</p>
-                    <p class="hover-t">Aloha responsive website</p>
-                    <a class="btn03" href="aloha.php">veiw more</a>
-                    </div>
-                    <img src="img/work02.png" alt="work02">
-                </div>
-            </div>
-            <div class="btn"><a href="work.php">view more</a></div>
-
         </section>
     </section>
 
