@@ -22,15 +22,15 @@
         <div class="contact-form-container">
             <form action="/action_page.php">
                 <div clas="inputs">
-                <input class="input-container" type="text" id="fname" name="firstname" placeholder="Your name">
-                <input class="input-container" type="text" id="email" name="lastname" placeholder="Your email">
+                <input class="input-container" type="text" id="name" name="firstname" placeholder="Your name">
+                <input class="input-container" type="text" id="email" name="email" placeholder="Your email">
                 </div>
 
                 <div>
-                <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+                <textarea id="message" name="message" placeholder="Enter your message here" style="height:200px"></textarea>
                 </div>
                 <div class="sumbit-btn-container">
-                <input class="sumbit-btn" type="submit" value="Submit">
+                <button id="submit" class="submit" type="submit" value="Submit"></button>
                 </div>
             </form>
         </div>

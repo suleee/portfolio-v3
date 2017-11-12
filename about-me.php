@@ -246,10 +246,11 @@
                     <div class="text"><p>This is a community project that is synthesized everything I have learned throughout the semester to best decide how to tackle the assigned project. It must incorporate all of the best practices I have learned about HTML, CSS, SASS, Javascript/jQuery, and PHP.
                         <!-- Also learn how to use Git for version control and team
                         collaboration. -->
-                    </p>
+
                     <!-- <p><span>language:</span> HTML, CSS, Sass, Javascript, jQuery, Wordpress, PHP</p> -->
-                    </div>
-                    <div class="git-link"><a href="">View in GitHub</a></div>
+                    </p>
+                </div>
+                    <div class="git-link"><a href="https://github.com/suleee/catalyst-winter-2017">View in GitHub</a></div>
                 </div>
                 <div class="web-p-single-container">
                     <div class="web-title"><img src="img/ajs-logo.png" class="wp" alt="wordpress">
@@ -258,7 +259,7 @@
                     <div class="text"><p>Single web app which includes a home and registration page, an alien encounters and reports page and
                         a blog page. </p>
                     <p class="lang"><span>language:</span> Angular2 JS, CSS3/SASS and Typescript</p></div>
-                    <div class="git-link"><a href="">View in GitHub</a></div>
+                    <div class="git-link"><a href="https://github.com/suleee/MarsColonyApp">View in GitHub</a></div>
                 </div>
                 <div class="web-p-single-container">
                     <div class="web-title"><img src="img/wordpress-icon.png" class="wp" alt="wordpress">
@@ -267,7 +268,7 @@
                     <div class="text"><p>Custom theme with custom post types, a custom taxonomy, custom widgets, and a custom plugin.
                     </p>
                     <p class="lang"> <span>language:</span> HTML, CSS, Sass, Javascript, jQuery, Wordpress, PHP</p></div>
-                    <div class="git-link"><a href="">View in GitHub</a></div>
+                    <div class="git-link"><a href="https://github.com/suleee/Inhabitent_project4">View in GitHub</a></div>
                 </div>
                 <div class="web-p-single-container">
                     <div class="web-title"><img src="img/nyt-t-logo.png" class="wp" alt="wordpress">
@@ -277,7 +278,7 @@
                         the user selected in the drop down select box.
                     </p>
                     <p class="lang"><span>language:</span> HTML5, CSS3, JavaScript, jQuery and AJAX/JSON API</p></div>
-                    <div class="git-link"><a href="">View in GitHub</a></div>
+                    <div class="git-link"><a href="https://github.com/suleee/Instanews-App">View in GitHub</a></div>
 
                 </div>
                 <div class="web-p-single-container">
@@ -287,7 +288,7 @@
                     <div class="text"><p>Custom theme with custom post types, a custom taxonomy, custom widgets, and a custom plugin.
                     </p>
                     <p class="lang"><span>language:</span> HTML, CSS, Sass, Javascript, jQuery, Wordpress, PHP</p></div>
-                    <div class="git-link"><a href="">View in GitHub</a></div>
+                    <div class="git-link"><a href="https://github.com/suleee/gradusone">View in GitHub</a></div>
                 </div>
                  <div class="web-p-single-container">
                     <div class="web-title"><img src="img/resp-icon.png" class="wp" alt="wordpress">
@@ -296,7 +297,7 @@
                     <div class="text"><p>A responsive web design implemented using the mobile first approach.
                     </p>
                     <p class="lang"><span>language:</span>HTML5, CSS3, JavaScript and jQuery</p></div>
-                    <div class="git-link"><a href=""> View in GitHub</a></div>
+                    <div class="git-link"><a href="https://github.com/suleee/Aloha-Responsive-Website"> View in GitHub</a></div>
 
                 </div>
 
