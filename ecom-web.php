@@ -20,7 +20,7 @@
             <section class="ws-section2">
 
             <p>This is a responsive e-commerce website that implemented using the mobile first approach.</p>
-            <p>
+
 </section>
     <section class="sc-images">
         <!-- <p>Strong Current Color Scheme</p> -->

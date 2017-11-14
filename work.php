@@ -33,9 +33,9 @@
             </div>
             <div class="aloha">
                 <div class="aloha_hover hover03">
-                <p class="hover-l">Photoshop, InVision</p>
+                <p class="hover-l">Photoshop</p>
                 <p class="hover-t">Disney Promotion Banner</p>
-                <a class="btn03" href="aloha.php">veiw more</a>
+                <a class="btn03" href="disney-b.php">veiw more</a>
                 </div>
                 <img src="img/d-tn.jpg" alt="work02">
             </div>
@@ -75,14 +75,14 @@
                 </div>
                 <img src="img/pong-tn.png" alt="work02">
             </div>
-            <div class="aloha">
+            <!-- <div class="aloha">
                 <div class="aloha_hover hover03">
                 <p class="hover-l">Photoshop, InVision</p>
                 <p class="hover-t">Fishing Hero website</p>
                 <a class="btn03" href="aloha.php">veiw more</a>
                 </div>
                 <img src="img/fish-tn.png" alt="work02">
-            </div>
+            </div> -->
 
         </div>
 
