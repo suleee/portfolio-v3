@@ -2,12 +2,15 @@ h5 {
     font-weight: 700;
     margin: 30px 0 10px 0px;
 }
-.profile-pic{
+
+.profile-pic {
     justify-content: space-between;
     width: 300px;
     margin: auto;
     padding-bottom: 35px;
 }
+
+
 /* .my-pic{
     width: 100px;
     border-radius: 100px;
@@ -34,10 +37,10 @@ h5 {
     line-height: 24px;
 }
 
+
 /* .logos {
     margin-top: 35px;
     /* filter: grayscale(1); */
-
 
 .linked-logo {
     width: 96px;
@@ -135,7 +138,6 @@ h5 {
     }
 }
 
-
 .logo {
     margin-top: 35px;
 }
@@ -175,12 +177,28 @@ h5 {
     font-size: 14px;
 }
 
-
-
-
 .accordion {
-    overflow:hidden;}
-    .accordion-section-content {
-        padding:15px;
-        display:none;
-    }
+    overflow: hidden;
+}
+
+.accordion-section-content {
+    padding: 15px;
+    display: none;
+}
+.accordion-section a{
+    border: 1px solid #8a939a;
+    color: #8a939a;
+    padding: 8px 20px;
+    border-radius: 5px;
+    font-size: 14px;
+}
+.view-btn{
+    margin: 11px 0;
+}
+.arrow-icon{
+    width: 10px;
+}
+
+.down-arrow{
+    transform: scaleY(-1);
+}

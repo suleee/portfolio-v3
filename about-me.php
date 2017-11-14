@@ -84,7 +84,7 @@
                     <p class="position">UI/UX designer</p>
 
                 </div>
-                    <a href="#accordion-1" class="accordion-section-title ep-btn" style="color:black">View More Content</a>
+                    <div class="view-btn"><a href="#accordion-1" class="accordion-section-title ep-btn" > View More<img src="img/arrow.png" class="arrow-icon" alt="arrow"></a></div>
                     <ul class="role accordion-section-content" id="accordion-1">
                         <li>Create wireframes, storyboards, user flows, process flows, interaction prototypes, and site maps
                             to communicate interaction and design ideas.</li>
@@ -99,7 +99,6 @@
                         <li>Follow style guides while also being resourceful and proactive in discovering new paths to success.</li>
                         <li>Communication with CM and provide quality control over concepts and projects</li>
                     </ul>
-                    <a href="#accordion-1"class="reduce-content" style="display:none; color:black">Hide Content</a>
 
                 </div>
 
@@ -107,7 +106,8 @@
                 <div class="job-title">
                     <p class="date">Oct. 2016 - July 2017</p>
                     <p class="position">Freelance UI/UX Designer/ Web Developer</p>
-                    <a href="#accordion-2" class="accordion-section-title ep-btn" style="color:black">View More Content</a>
+                    </div>
+                    <div class="view-btn"><a href="#accordion-2" class="accordion-section-title ep-btn" >View More<img src="img/arrow.png" class="arrow-icon" alt="arrow"></a></div>
                     <ul class="role accordion-section-content" id="accordion-2">
                         <li>Setting a design direction and vision based on a project brief, creating a visual direction, communicating
                             concepts and rationale, and iterating on design and showing my progression from concept to final
@@ -125,19 +125,16 @@
                             </li>
                         </ul>
                     </ul>
-                    <a href="#accordion-2"class="reduce-content" style="display:none; color:black">Hide Content</a>
                 </div>
-</div>
-                <!-- <div class="ror-container" id="here3">
+
+                <div class="accordion-section ror-container" id="accordion-3">
                 <div class="job-title">
                     <p class="date">Dec. 2015 - Sept. 2016</p>
                     <p class="company">Septeni Global (Korea)</p>
                     <p class="position">Creative Director</p>
-                    <div class="expandContent">
-        <a href="#here3" class="ep-btn">View More Content</a>
-            </div>
-</div>
-<ul class="role showMe" style="display:none">
+                    </div>
+                    <div class="view-btn"><a href="#accordion-3" class="accordion-section-title ep-btn" >View More<img src="img/arrow.png" class="arrow-icon" alt="arrow"></a></div>
+                    <ul class="role accordion-section-content" id="accordion-3">
                         <li>Insure the timely development and execution of plans, campaigns, and projects to assure earnings,
                             growth, and profit goals are achieved</li>
                         <li>Conduct user research competitive analyses, and ideation sessions to hep inform design decisions
@@ -148,7 +145,6 @@
                             to final work</li>
                         <li>Communication with clients and provide quality control over concepts and projects</li>
 
-
                         <h5> projects</h5>
                         <ul>
                             <li>In charge of Disney Magical Dice marketing banners for North America </li>
@@ -156,21 +152,17 @@
                             <li>In charge of Marvel Future Fighter marketing banners for North America </li>
                         </ul>
                     </ul>
-                    <div class="reduceContent">
-            <a href="#here3" style="display:none" class="ep-btn02">Hide Content</a>
-</div>
-                </div> -->
-<!--
-                <div class="ror-container" id="here4">
+
+                </div>
+
+                <div class="accordion-section ror-container" id="accordion-4">
                 <div class="job-title">
                     <p class="date">March 2015 - Nov. 2015</p>
                     <p class="company">95 (Korea)</p>
                     <p class="position">Web Content Planner</p>
-                    <div class="expandContent">
-        <a href="#here4" class="ep-btn">View More Content</a>
-            </div>
-</div>
-<ul class="role showMe" style="display:none">
+                    </div>
+                    <div class="view-btn"><a href="#accordion-4" class="accordion-section-title ep-btn" >View More<img src="img/arrow.png" class="arrow-icon" alt="arrow"></a></div>
+                    <ul class="role accordion-section-content" id="accordion-4">
                         <li>Gather UX requirements from customer input, user research and other sources. </li>
                         <li>Create storyboards and presentations of the user experience and key use cases with Low, Medium and
                             Hi-Fidelity Mock-ups and wireframes. </li>
@@ -184,20 +176,16 @@
 
                         </ul>
                     </ul>
-                    <div class="reduceContent">
-            <a href="#here4" style="display:none" class="ep-btn02">Hide Content</a>
-</div>
                 </div>
-                <div class="ror-container" id="here5">
+
+                <div class="accordion-section ror-container" id="accordion-5">
                 <div class="job-title">
                     <p class="date">March 2013 - Jan. 2015 </p>
                     <p class="company">Smilegate West (Toronto Canada)</p>
                     <p class="position">Web Designer</p>
-                    <div class="expandContent">
-        <a href="#here5" class="ep-btn">View More Content</a>
-            </div>
-</div>
-<ul class="role showMe" style="display:none">
+                    </div>
+                    <div class="view-btn"><a href="#accordion-5" class="accordion-section-title ep-btn" >View More<img src="img/arrow.png" class="arrow-icon" alt="arrow"></a></div>
+                    <ul class="role accordion-section-content" id="accordion-5">
                         <li>Brainstorm, wireframes and share ideas with the team and increase quality output execution</li>
                         <li>Conduct user research competitive analyses, and ideation sessions to hep inform design decisions
                             with product management team. </li>
@@ -223,20 +211,16 @@
                             <li>In charge of Faraway Kingdom (app game) </li>
                         </ul>
                     </ul>
-                    <div class="reduceContent">
-            <a href="#here5" style="display:none" class="ep-btn02">Hide Content</a>
-</div>
                 </div>
-                <div class="ror-container" id="here6">
+
+                <div class="accordion-section ror-container" id="accordion-6">
                 <div class="job-title">
                     <p class="date">Jan. 2012 - March 2013</p>
                     <p class="company">OGPlanet (Vancouver Canada)</p>
                     <p class="position">Web Designer</p>
-                    <div class="expandContent">
-        <a href="#here6" class="ep-btn">View More Content <img src="img/arrow.png" class="arrow"></a>
-            </div>
-</div>
-<ul class="role showMe" style="display:none">
+                    </div>
+                    <div class="view-btn"><a href="#accordion-6" class="accordion-section-title ep-btn" >View More<img src="img/arrow.png" class="arrow-icon" alt="arrow"></a></div>
+                    <ul class="role accordion-section-content" id="accordion-6">
                         <li>Brainstorm and share ideas with the team and increase quality output execution</li>
                         <li>Communicate with producers and participate in the discussion on the game site projects</li>
                         <li>Understand projects work process and scope and be able to work in a fast-paced environment</li>
@@ -251,11 +235,9 @@
                             it into better quality of product</li>
                         <li>Support and work closely with other designers</li>
                     </ul>
-                    <div class="reduceContent">
-            <a href="#here6" style="display:none" class="ep-btn02">Hide Content<img src="img/arrow.png" class="arrow"></a>
-</div>
+                    <!-- <a href="#accordion-6"class="reduce-content" style="display:none; color:black">Hide Content<img src="img/arrow.png" class="arrow-icon down-arrow" alt="arrow"></a> -->
                 </div>
-            </div> -->
+            </div>
 
         </section>
 
