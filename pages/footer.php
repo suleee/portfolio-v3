@@ -3,15 +3,15 @@
         <h3>get in touch</h3>
         <div class="bar footer-bar"></div>
         <div class="footer-contact-container">
-            <div>
+            <div class="jisu-email">
                 <i class="fa fa-envelope-o" aria-hidden="true"></i>
                 <p>ejisulee@gmail.com</p>
             </div>
-            <div>
+            <div class="jisu-phone">
                <img src="img/phone-icon.png" alt="phone-icon">
                 <p>778 862 4745</p>
             </div>
-            <div>
+            <div class="jisu-sns">
             <img src="img/share.png" alt="share">
                 <div class="sns-icons">
                 <a href="http://jaejisu.wixsite.com/jisulee"><i class="fa fa-link" aria-hidden="true"></i></a>

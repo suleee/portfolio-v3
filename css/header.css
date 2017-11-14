@@ -29,11 +29,16 @@ li a:hover {
 .menu-bar {
 	color: rgba(0, 0, 0, .8);
 }
-
 .top-logo {
-	width: 60%;
+	width: 45%;
 	color: white;
 }
+@media all and (min-width: 600px) {
+	.top-logo {
+		width: 60%;
+	}
+}
+
 
 .top-logo img {
 	margin-top: 8px;
@@ -70,11 +75,18 @@ li a:hover {
 	margin-top: 20px;
 	width: 30px;
 }
+
+.contact-container{
+    text-align: center;
+	padding-top: 25px;
+	padding-left: 5px;
+
+}
+@media all and (min-width: 600px) {
 .contact-container{
 	width: 10%;
-    text-align: center;
-    padding-top: 25px;
-    padding-left: 48px;
+	padding-left: 48px;
+}
 }
 .contact-container a{
 	margin-top: 10px;
