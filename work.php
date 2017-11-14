@@ -27,10 +27,38 @@
                 <div class="aloha_hover hover03">
                 <p class="hover-l">Photoshop, InVision</p>
                 <p class="hover-t">E-commerce website</p>
+                <a class="btn03" href="ecom-web.php">veiw more</a>
+                </div>
+                <img src="img/sc/sc-tn.jpg" alt="work02">
+            </div>
+            <div class="aloha">
+                <div class="aloha_hover hover03">
+                <p class="hover-l">Photoshop, InVision</p>
+                <p class="hover-t">Disney Promotion Banner</p>
                 <a class="btn03" href="aloha.php">veiw more</a>
                 </div>
-                <img src="img/" alt="work02">
+                <img src="img/d-tn.jpg" alt="work02">
             </div>
+
+            <div class="aloha">
+                <div class="aloha_hover hover03">
+                <p class="hover-l">Photoshop, InVision, Sketch</p>
+                <p class="hover-t">Free to Stream App</p>
+                <a class="btn03" href="app.php">veiw more</a>
+                </div>
+                <img src="img/fsa/fsa-tn.png" alt="work02">
+            </div>
+
+            <!-- <div class="aloha">
+                <div class="aloha_hover hover03">
+                <p class="hover-l">Photoshop, InVision</p>
+                <p class="hover-t"></p>
+                <a class="btn03" href="aloha.php">veiw more</a>
+                </div>
+                <img src="img/ms-tn.jpg" alt="work02">
+            </div> -->
+
+
             <div class="aloha">
                 <div class="aloha_hover hover03">
                 <p class="hover-l">Photoshop, InVision</p>

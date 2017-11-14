@@ -1,7 +1,8 @@
-.ws-section1{
+.ws-section1 {
     text-align: center;
     margin: 150px 0 35px 0;
 }
+
 .ws-btns {
     display: flex;
 }
@@ -46,8 +47,15 @@ h6 {
     color: #4f4f4f;
 }
 
-.sub-title{
-   color: black;
-   font-weight: 500;
-   margin-top: 45px;
+.sub-title {
+    color: black;
+    font-weight: 500;
+    margin-top: 45px;
+}
+
+.ws-btns .btn {
+    background: #1e1e1e;
+}
+.ws-btns .btn:hover {
+    background: #454545;
 }

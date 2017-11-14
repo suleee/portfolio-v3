@@ -5,7 +5,7 @@
         <div class="footer-contact-container">
             <div>
                 <i class="fa fa-envelope-o" aria-hidden="true"></i>
-                <p>ejisulee@gamil.com</p>
+                <p>ejisulee@gmail.com</p>
             </div>
             <div>
                <img src="img/phone-icon.png" alt="phone-icon">
