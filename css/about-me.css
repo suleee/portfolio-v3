@@ -195,6 +195,9 @@ h5 {
 .view-btn{
     margin: 11px 0;
 }
+.view-btn img{
+ width: 10px;
+}
 .arrow-icon{
     width: 10px;
 }
