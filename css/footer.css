@@ -32,16 +32,25 @@ form{
 	width: 200px;
 	text-align: center;
 }
+.footer-contact-container img {
+	width: 20px;
+}
 
 .sns-icons .fa {
 	margin-top: 15px;
 	padding: 0 10px;
 }
-
-.fa-mobile {
-	font-size: 200px;
+.sns-icons .fa:hover{
+	color: #FF5163;
 }
 
+.fa-mobile {
+	font-size: 500px;
+}
+.footer-contact-container p{
+	margin-top: 15px;
+
+}
 .contact-form-container {
 	margin: 0 auto;
 	max-width: 726px;
@@ -72,10 +81,14 @@ textarea:focus {
 
 .sumbit-btn-container button {
 	background: #dd674f;
+	border-radius: 5px;
 	border: none;
 	width: 100px;
 	height: 35px;
 	margin-top: 20px;
+}
+.sumbit-btn-container button:hover {
+	background: #FF5163;
 }
 
 .inputs {

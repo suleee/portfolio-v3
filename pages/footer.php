@@ -3,18 +3,21 @@
         <h3>get in touch</h3>
         <div class="bar footer-bar"></div>
         <div class="footer-contact-container">
-            <div><i class="fa fa-envelope-o" aria-hidden="true"></i>
+            <div>
+                <i class="fa fa-envelope-o" aria-hidden="true"></i>
                 <p>ejisulee@gamil.com</p>
             </div>
             <div>
-                <i class="fa fa-mobile" aria-hidden="true"></i>
+               <img src="img/phone-icon.png" alt="phone-icon">
                 <p>778 862 4745</p>
             </div>
             <div>
-                <i class="fa fa-link" aria-hidden="true"></i>
-                <div class="sns-icons"><i class="fa fa-github" aria-hidden="true"></i>
-                    <i class="fa fa-behance" aria-hidden="true"></i>
-                    <i class="fa fa-linkedin" aria-hidden="true"></i></div>
+            <img src="img/share.png" alt="share">
+                <div class="sns-icons">
+                <a href="http://jaejisu.wixsite.com/jisulee"><i class="fa fa-link" aria-hidden="true"></i></a>
+                <a href="https://github.com/suleee"><i class="fa fa-github" aria-hidden="true"></i></a>
+                    <a href="https://www.behance.net/jisuelee"><i class="fa fa-behance" aria-hidden="true"></i></a>
+                    <a href="https://www.linkedin.com/in/jisu-lee-02834364/?trk=nav_responsive_tab_profile"><i class="fa fa-linkedin" aria-hidden="true"></i></a></div>
             </div>
         </div>
 
@@ -30,7 +33,7 @@
                 <textarea id="message" name="message" placeholder="Enter your message here" style="height:200px"></textarea>
                 </div>
                 <div class="sumbit-btn-container">
-                <button id="submit" class="submit" type="submit" value="Submit"></button>
+                <button id="submit" class="submit" type="submit" value="Submit">Submit</button>
                 </div>
             </form>
         </div>

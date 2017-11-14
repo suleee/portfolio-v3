@@ -37,14 +37,17 @@ a {
 	text-decoration: none;
 	color: white;
 }
-
+.container{
+	margin-top: 70px;
+}
 .main-section {
 	text-align: center;
 	line-height: 24px;
 	margin: 10px 0 50px 0;
-	/* background-image: url("../img/main-bg02.png");
-	background: linear-gradient(45deg, #349b98, #65cb99); */
 	background: url("../img/main-bg02.png") no-repeat center;
+	min-height: 500px;
+	/* Create the parallax scrolling effect */
+	background-attachment: fixed;
 	background-size: cover;
 }
 
@@ -137,19 +140,18 @@ a {
 
 .btn01:hover {
 	background: black;
-color: white;
+	color: white;
 }
-
 
 .btn02 {
 	border: 1px solid white;
 	color: black;
 }
+
 .btn02:hover {
 	background: white;
 	color: black;
 }
-
 
 .btn {
 	width: 145px;
@@ -171,7 +173,6 @@ color: white;
 	margin: auto;
 	padding-bottom: 60px;
 }
-
 
 .work-section {
 	margin-bottom: 90px;

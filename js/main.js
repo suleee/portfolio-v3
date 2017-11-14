@@ -45,31 +45,6 @@ $(document).ready(function () {
 
 
 
-
-
-    //   $('.reduce-content').click(function (e) {
-    //     // Grab current anchor value
-    //     var currentAttrValue = $(this).attr('href');
-
-    //     if ($(e.target).is('.active')) {
-    //       close_accordion_section();
-    //     } else {
-    //       close_accordion_section();
-
-    //       // Add active class to section title
-    //       $(this).addClass('active');
-    //       $('.reduce-content').hide();
-    //       $('.accordion-section-title').show();
-    //       // Open up the hidden content panel
-    //       $('. accordion-section-content' + currentAttrValue).slideUp(300).addClass('open');
-    //     }
-
-    //     e.preventDefault();
-    //   });
-    // });
-
-
-
     $("#submit").click(function () {
       var name = $("#name").val();
       var email = $("#email").val();
