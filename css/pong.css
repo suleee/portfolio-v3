@@ -1,0 +1,25 @@
+.color-bar{
+display: flex;
+width: 500px;
+margin: auto;
+}
+
+.color-bar div{
+    width: 100px;
+    height: 20px;
+}
+.cb1{
+    background: #2b9ea0;
+}
+.cb2{
+    background: #e0f7ff;
+}
+.cb3{
+    background: #ffa500;
+}
+.cb4{
+    background: #ffc0cb;
+}
+.cb5{
+    background: #02333e;
+}

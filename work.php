@@ -27,7 +27,7 @@
                 <div class="aloha_hover hover02">
                 <p class="hover-l">HTML, CSS, JavaScript, Photoshop</p>
                 <p class="hover-t">Pong Game</p>
-                <a class="btn03" href="aloha.php">veiw more</a>
+                <a class="btn03" href="pong-game.php">veiw more</a>
                 </div>
                 <img src="img/pong-tn.png" alt="work02">
             </div>

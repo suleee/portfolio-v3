@@ -1,0 +1,53 @@
+.ws-section1{
+    text-align: center;
+    margin: 150px 0 35px 0;
+}
+.ws-btns {
+    display: flex;
+}
+
+.sp-sub-title {
+    text-align: center;
+}
+
+.ws-lang {
+    border-radius: 3px;
+    border: 1px solid #d4d4d4;
+    width: 300px;
+    padding: 10px 0;
+    margin: auto;
+}
+
+h6 {
+    margin: 35px 0;
+    font-size: 24px;
+}
+
+.ws-btns {
+    max-width: 400px;
+    margin: 30px auto;
+    text-align: center;
+}
+
+.ws-section2 {
+    max-width: 750px;
+    margin: auto;
+    padding-bottom: 35px;
+}
+
+.ws-section2 p {
+    line-height: 24px;
+}
+
+.ws-section2 ul {
+    margin-top: 15px;
+    line-height: 30px;
+    padding-left: 30px;
+    color: #4f4f4f;
+}
+
+.sub-title{
+   color: black;
+   font-weight: 500;
+   margin-top: 45px;
+}
