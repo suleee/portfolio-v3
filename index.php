@@ -5,7 +5,7 @@
 <section class="container">
         <section class="main-section">
             <img src="img/j-logo.png" alt="logo">
-            <h2><span>Creative</span> thinking</h2>
+            <h2><span>Hello</span></h2>
             <h3>A little about me</h3>
             <div class="bar"></div>
             <p> My name is Jisu Lee. I have been working as a web graphic designer over 5years and working as a freelancer developer
@@ -31,31 +31,32 @@
                 <li>graphics</li>
             </ul> -->
             <div class="works-container">
-                <div class="aloha">
-                    <div class="aloha_hover hover01">
-                        <p class="hover-l">HTML, CSS, JavaScript, Photoshop</p>
-                        <p class="hover-t">Aloha responsive website</p>
-                        <a class="btn03" href="aloha.php">veiw more</a>
-                    </div>
-                    <img src="img/aloha-tn.png" alt="work02">
-                </div>
-                <div class="aloha">
-                    <div class="aloha_hover hover02">
+            <div class="aloha">
+                <div class="aloha_hover hover01">
                     <p class="hover-l">HTML, CSS, JavaScript, Photoshop</p>
-                    <p class="hover-t">Pong Game</p>
+                    <p class="hover-t">Aloha responsive website</p>
                     <a class="btn03" href="aloha.php">veiw more</a>
-                    </div>
-                    <img src="img/pong-tn.png" alt="work02">
                 </div>
-                <div class="aloha">
-                    <div class="aloha_hover hover03">
-                    <p class="hover-l">Photoshop, InVision</p>
-                    <p class="hover-t">Fishing Hero website</p>
-                    <a class="btn03" href="aloha.php">veiw more</a>
-                    </div>
-                    <img src="img/fish-tn.png" alt="work02">
-                </div>
+                <img src="img/aloha-tn.png" alt="work02">
             </div>
+            <div class="aloha">
+                <div class="aloha_hover hover03">
+                <p class="hover-l">Photoshop, InVision</p>
+                <p class="hover-t">E-commerce website</p>
+                <a class="btn03" href="aloha.php">veiw more</a>
+                </div>
+                <img src="img/" alt="work02">
+            </div>
+            <div class="aloha">
+                <div class="aloha_hover hover03">
+                <p class="hover-l">Photoshop, InVision</p>
+                <p class="hover-t">CrossFire Update page</p>
+                <a class="btn03" href="cf-event-p.php">veiw more</a>
+                </div>
+                <img src="img/cf-tn.jpg" alt="work02">
+            </div>
+        </div>
+
             <div class="btn"><a href="work.php">view more</a></div>
         </section>
 

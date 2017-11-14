@@ -31,18 +31,18 @@
         <div class="menu">
             <div class="top-logo">
                 <a href="index.php"><img src="img/j-menu-logo-white.png" alt="logo"><span>zisulee.com</span></a>
-				</div>
+                </div>
+            <!-- <div> -->
             <ul class="menu-list">
             <li class="menu-hover"><a href="work.php">Work</a>
                     <div class="menu-bar-hover" style="display:none"></div>
                 </li>
-                <li class="menu-bar">|</li>
                 <li class="menu-hover"><a href="about-me.php">About</a>
                 <div class="menu-bar-hover" style="display:none"></div></li>
-                <li class="menu-bar">|</li>
-                <li class="menu-hover"><a href="contact.php">Contact</a><div class="menu-bar-hover" style="display:none"></div></li>
-                <li class="menu-bar">|</li>
+
                 <li class="menu-hover"><a href="http://jaejisu.wixsite.com/jisulee">Blog</a><div class="menu-bar-hover" style="display:none"></div></li>
             </ul>
-        </div>
+            <div class="contact-container"><a href="contact.php">Contact</a></div>
+</div>
+        <!-- </div> -->
     </nav>

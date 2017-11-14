@@ -1,7 +1,7 @@
 .color-bar{
 display: flex;
 width: 500px;
-margin: auto;
+margin: 50px auto;
 }
 
 .color-bar div{
@@ -22,4 +22,12 @@ margin: auto;
 }
 .cb5{
     background: #02333e;
+}
+
+.pong-section3{
+    text-align: center;
+}
+.pong-image3 img{
+    width: 500px;
+    margin-bottom: 90px;
 }

@@ -6,7 +6,12 @@ $(document).ready(function () {
     },
     function () {
       $(this).find(".aloha_hover").hide();
+    },
+    function () {
+      $(this).find(".aloha_hover").hide();
+
     });
+
 
   //menu hover
   $('.menu-hover').hover(function () {

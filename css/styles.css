@@ -12,6 +12,7 @@ h2 {
 }
 
 h2 span {
+	font-size: 40px;
 	color: #272727;
 }
 
@@ -37,13 +38,13 @@ a {
 	text-decoration: none;
 	color: white;
 }
-.container{
+/* .container{
 	margin-top: 70px;
-}
+} */
 .main-section {
 	text-align: center;
 	line-height: 24px;
-	margin: 10px 0 50px 0;
+	margin: 0px 0 50px 0;
 	background: url("../img/main-bg02.png") no-repeat center;
 	min-height: 500px;
 	/* Create the parallax scrolling effect */
@@ -70,7 +71,7 @@ a {
 }
 
 .main-section img {
-	margin-top: 80px;
+	margin-top: 120px;
 }
 
 .bar {
@@ -130,36 +131,26 @@ a {
 	height: 32px;
 	padding-top: 6px;
 	margin: auto;
-	border-radius: 10px;
-}
-
-.btn01 {
-	background: white;
-	color: black;
-}
-
-.btn01:hover {
+	border-radius: 20px;
 	background: black;
 	color: white;
 }
 
-.btn02 {
-	border: 1px solid white;
-	color: black;
-}
 
-.btn02:hover {
+.m-btn:hover {
 	background: white;
 	color: black;
 }
 
+
+
 .btn {
 	width: 145px;
-	padding: 10px 0;
-	background: #272727;
-	border-radius: 3px;
-	margin: 25px auto;
-	text-align: center;
+    padding: 15px 0;
+    background: #00d08c;
+    border-radius: 30px;
+    margin: 25px auto;
+    text-align: center;
 }
 
 .btn:hover {
@@ -174,7 +165,10 @@ a {
 	padding-bottom: 60px;
 }
 
+/* portfolio thumbnails section */
+
 .work-section {
+	padding-top: 70px;
 	margin-bottom: 90px;
 }
 

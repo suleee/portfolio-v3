@@ -1,16 +1,15 @@
 .menu-container {
-	background: #191919;
+	background: rgba(255, 255, 255, .2);
 	position: fixed;
 	z-index: 1;
-    top: 0;
-    width: 100%;
+	top: 0;
+	width: 100%;
 }
 
 .menu {
 	display: flex;
 	padding: 0 5%;
 	font-size: 14px;
-
 	height: 60px;
 	margin: 0 auto;
 }
@@ -28,17 +27,17 @@ li a:hover {
 }
 
 .menu-bar {
-	color: #616161;
+	color: rgba(0, 0, 0, .8);
 }
 
 .top-logo {
-	width: 45%;
+	width: 60%;
 	color: white;
 }
 
 .top-logo img {
-	margin-top: 13px;
-    width: 34px;
+	margin-top: 8px;
+    width: 47px;
 	position: absolute;
 }
 
@@ -46,22 +45,44 @@ li a:hover {
 	margin-top: 24px;
 	color: white;
 	list-style: none;
-	width: 54%;
+	width: 30%;
 	display: flex;
 	justify-content: space-between;
 }
 
-.top-logo span{
+.menu-list a {
+	color: black;
+}
+
+.top-logo span {
 	font-weight: 100;
 	top: 42%;
-	left: 35px;
-    position: relative;
+	left: 55px;
+	position: relative;
 }
-.top-logo span:hover{
-	color: #60acaa;
+
+.top-logo span:hover {
+	color: black;
 }
-.menu-bar-hover{
-	border-bottom: 2px solid #60acaa;
-margin-top: 20px;
-width: 30px;
+
+.menu-bar-hover {
+	border-bottom: 2px solid black;
+	margin-top: 20px;
+	width: 30px;
 }
+.contact-container{
+	width: 10%;
+    text-align: center;
+    padding-top: 25px;
+    padding-left: 48px;
+}
+.contact-container a{
+	margin-top: 10px;
+    padding: 10px 20px;
+    background: #00d08c;
+    border-radius: 20px;
+}
+.contact-container a:hover{
+	background: white;
+	color: black;
+   }
