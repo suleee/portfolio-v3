@@ -19,7 +19,7 @@
 
             <section class="ws-section2">
 
-            <p>Free to Stream App is the online directory that you can watch your favourite tv shows. It really easy to navigate what the user is looking for through easy-to-use filtering menu. Just choose lanuage and the type of media user want to stream, and the site will give all the reviews and information.</p>
+            <p>Free to Stream App is the online directory that you can watch your favorite tv shows. It really easy to navigate what the user is looking for through easy-to-use filtering menu. Just choose language and the type of media user wants to stream, and the site will give all the reviews and information.</p>
             <p>
 </section>
     <section class="sc-images">
