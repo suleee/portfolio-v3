@@ -198,9 +198,6 @@ h5 {
 .view-btn img{
  width: 10px;
 }
-.arrow-icon{
-    width: 10px;
-}
 
 .down-arrow{
     transform: scaleY(-1);
