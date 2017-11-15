@@ -1,6 +1,6 @@
 <section class="section05">
             <div>
-                <h3>web proejcts</h3>
+                <h3>Development Proejcts</h3>
                 <div class="bar"></div>
             </div>
             <div class="web-p-container">
