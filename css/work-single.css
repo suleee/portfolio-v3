@@ -59,3 +59,14 @@ h6 {
 .ws-btns .btn:hover {
     background: #454545;
 }
+.ws-section1 img, .ws-section2, .aloha-image img, .sc-images img, .cf-img2, .pong-section3 img, .pong-image3 img{
+    width: 300px;
+}
+@media all and (min-width: 600px) {
+    .ws-section1 img, .ws-section2, .aloha-image img, .sc-images img, .pong-section3 img, .cf-img2, .pong-image3 img{
+        width: 774px;
+    }
+    .cf-gif{
+        width: 600px;
+    }
+}

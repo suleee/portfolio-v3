@@ -27,7 +27,12 @@ margin: 50px auto;
 .pong-section3{
     text-align: center;
 }
+
+.pong-image3 img{
+    margin-bottom: 90px;
+}
+@media all and (min-width: 600px) {
 .pong-image3 img{
     width: 500px;
     margin-bottom: 90px;
-}
+}}

@@ -48,3 +48,17 @@
 </div>
         <!-- </div> -->
     </nav>
+
+<!-- <button class="hamburger">&#9776;</button>
+<button class="cross">&#735;</button>
+</header>
+
+<div class="menu">
+  <ul>
+    <a href="#"><li>LINK ONE</li></a>
+    <a href="#"><li>LINK TWO</li></a>
+    <a href="#"><li>LINK THREE</li></a>
+    <a href="#"><li>LINK FOUR</li></a>
+    <a href="#"><li>LINK FIVE</li></a>
+  </ul>
+</div> -->

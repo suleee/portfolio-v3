@@ -1,6 +1,10 @@
-.cf-img2{
-    width: 600px;
+
+@media all and (min-width: 600px) {
+    .cf-img2{
+        width: 600px;
+    }
 }
+
 
 .cf-section2{
     text-align: center;

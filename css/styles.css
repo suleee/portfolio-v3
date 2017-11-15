@@ -198,7 +198,13 @@ a {
 
 .works-container {
 	text-align: center;
-	margin-top: 35px;
+
+    margin: 45px auto;
+}
+@media all and (min-width: 600px) {
+	.works-container {
+		max-width: 910px;
+	}
 }
 
 .works-container .aloha {
@@ -241,4 +247,10 @@ a {
 .btn03:hover {
 	color: black;
 	background: white;
+}
+
+
+
+.works-container img{
+width: 300px;
 }
