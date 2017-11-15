@@ -32,6 +32,7 @@ h5 {
 .about-me {
     max-width: 750px;
     margin: 35px auto;
+    padding: 0 20px;
 }
 
 .about-me p {
