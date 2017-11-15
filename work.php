@@ -2,7 +2,7 @@
 <?php include( './pages/header.php' );?>
 
 
-<section class="work-section">
+<section class="work-section work-section-sub">
             <div>
                 <h3>Portfolio</h3>
                 <div class="bar"></div>
