@@ -41,8 +41,6 @@
                 </li>
                 <li class="menu-hover"><a href="about-me.php">About</a>
                 <div class="menu-bar-hover" style="display:none"></div></li>
-
-                <li class="menu-hover"><a href="http://jaejisu.wixsite.com/jisulee">Blog</a><div class="menu-bar-hover" style="display:none"></div></li>
             </ul>
             <div class="contact-container"><a href="contact.php">Contact</a></div>
 </div>
