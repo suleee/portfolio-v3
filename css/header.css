@@ -98,11 +98,17 @@ li a:hover {
 }
 }
 .contact-container a{
+	margin-left: 20px;	
 	margin-top: 10px;
     padding: 10px 20px;
     background: #00d08c;
     border-radius: 20px;
 }
+@media all and (min-width: 600px) {
+	.contact-container a{
+		margin-left: 0px;
+	}
+	}
 .contact-container a:hover{
 	background: white;
 	color: black;
