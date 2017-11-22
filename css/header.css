@@ -37,7 +37,8 @@ li a:hover {
 	color: rgba(0, 0, 0, .8);
 }
 .top-logo {
-	width: 35%;
+	padding-left: 15px;
+	width: 50%;
 	color: white;
 }
 @media all and (min-width: 600px) {
