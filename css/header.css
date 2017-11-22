@@ -44,6 +44,7 @@ li a:hover {
 @media all and (min-width: 600px) {
 	.top-logo {
 		width: 70%;
+		padding-left: 0;
 	}
 }
 
