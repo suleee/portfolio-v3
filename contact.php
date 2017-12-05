@@ -2,7 +2,7 @@
 <?php include( './pages/header.php' );?>
 
 
-<section class="container">
+<!-- <section class="container">
 <div id="after_submit"></div>
 <form id="contact_form" action="#" method="POST" enctype="multipart/form-data">
   <div class="row">
@@ -16,13 +16,13 @@
     <span id="email_validation" class="error_message"></span>
   </div>
   <div class="row">
-    <label class="required" for="message">Your message:</label><br />
+    <label class="required" for="message" ></label><br />
     <textarea id="message" class="input" name="message" rows="7" cols="30"></textarea><br />
     <span id="message_validation" class="error_message"></span>
   </div>
     
     <input id="submit_button" type="submit" value="Send email" />
 </form>
-</section>
+</section> -->
 <!-- footer -->
 <?php include( './pages/footer.php' ); ?>

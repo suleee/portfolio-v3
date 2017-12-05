@@ -22,22 +22,28 @@
         </div>
 
 
-        <div class="contact-form-container">
+      
+        <div class="container">  
+        <form id="contact" action="" method="post">
+          <!-- <h3>Quick Contact</h3>
+          <h4>Contact us today, and get reply with in 24 hours!</h4> -->
+          <fieldset>
+            <input placeholder="Your name" type="text" tabindex="1" required autofocus>
+          </fieldset>
+          <fieldset>
+            <input placeholder="Your Email Address" type="email" tabindex="2" required>
+          </fieldset>
+          <fieldset>
+            <textarea placeholder="Type your Message Here...." tabindex="5" required></textarea>
+          </fieldset>
+          <fieldset>
+            <button name="submit" type="submit" id="contact-submit" data-submit="...Sending">Submit</button>
+          </fieldset>
+        </form>
        
-            <!-- <form action="/action_page.php">
-                <div clas="inputs">
-                <input class="input-container" type="text" id="name" name="firstname" placeholder="Your name">
-                <input class="input-container" type="text" id="email" name="email" placeholder="Your email">
-                </div>
-
-                <div>
-                <textarea id="message" name="message" placeholder="Enter your message here" style="height:200px"></textarea>
-                </div>
-                <div class="sumbit-btn-container">
-                <button id="submit" class="submit" type="submit" value="Submit">Submit</button>
-                </div>
-            </form> -->
-        </div>
+        
+      </div>
+        
     </footer>
 
 
