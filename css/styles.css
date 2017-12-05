@@ -61,6 +61,7 @@ a {
 	min-width: 260px;
 	padding: 0 10px;
 	color: black;
+	padding: 0% 20px;
 }
 
 @media all and (min-width: 600px) {
@@ -199,6 +200,7 @@ a {
 .works-container {
 	text-align: center;
 
+    
     margin: 45px auto;
 }
 @media all and (min-width: 600px) {
@@ -210,6 +212,7 @@ a {
 .works-container .aloha {
 	display: inline-block;
 	position: relative;
+	margin-bottom: 30px;
 }
 
 .aloha_hover {

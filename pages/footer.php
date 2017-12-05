@@ -23,7 +23,8 @@
 
 
         <div class="contact-form-container">
-            <form action="/action_page.php">
+       
+            <!-- <form action="/action_page.php">
                 <div clas="inputs">
                 <input class="input-container" type="text" id="name" name="firstname" placeholder="Your name">
                 <input class="input-container" type="text" id="email" name="email" placeholder="Your email">
@@ -35,7 +36,7 @@
                 <div class="sumbit-btn-container">
                 <button id="submit" class="submit" type="submit" value="Submit">Submit</button>
                 </div>
-            </form>
+            </form> -->
         </div>
     </footer>
 
