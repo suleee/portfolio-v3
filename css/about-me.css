@@ -101,9 +101,10 @@ h5 {
 @media all and (min-width: 600px) {
     .web-p-container {
         display: flex;
+        
         max-width: 900px;
         flex-wrap: wrap;
-        justify-content: space-between;
+        justify-content: center;
     }
 }
 
@@ -115,8 +116,8 @@ h5 {
 @media all and (min-width: 600px) {
     .web-p-single-container {
         min-width: 250px;
-        width: 30%;
-        padding: 50px 0;
+        width: 25%;
+        padding: 50px 20px;
     }
 }
 
@@ -136,7 +137,7 @@ h5 {
 
 @media all and (min-width: 600px) {
     .text {
-        height: 220px;
+        height: 250px;
     }
 }
 
