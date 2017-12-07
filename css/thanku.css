@@ -14,13 +14,16 @@
     margin-top: 20px;
     margin-left: 20%;
 }
+.th-text-container p:hover{
+    background: #dd674f;
+}
 
 @media all and (min-width: 600px) {
     .th-text-container p{
-        margin-left: 39%;
+        margin-left: 40%;
     }
 }
-@media all and (min-width: 1400px) {
+@media all and (min-width: 1300px) {
     .th-text-container p{
         margin-left: 43%;
     }
