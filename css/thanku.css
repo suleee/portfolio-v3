@@ -1,0 +1,30 @@
+.th-text-container{
+    margin: 230px 10%;
+    text-align: center;
+
+}
+
+.th-text-container p{
+    background: #ff5163;
+    color: white;
+    height: 34px;
+    width: 160px;
+    border-radius: 7px;
+    padding-top: 20px;
+    margin-top: 20px;
+    margin-left: 20%;
+}
+
+@media all and (min-width: 600px) {
+    .th-text-container p{
+        margin-left: 39%;
+    }
+}
+@media all and (min-width: 1400px) {
+    .th-text-container p{
+        margin-left: 43%;
+    }
+}
+.th-text-container p:hover{
+    background: #ff5163;
+}
