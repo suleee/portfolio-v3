@@ -8,8 +8,8 @@
             <h2><span>Hello</span></h2>
             <h3>A little about me</h3>
             <div class="bar"></div>
-            <p> My name is Romi J Lee. I have had many opportunities to work upon a variety projects. I greatly enjoy designing and
-                programming in the digital space.</p>
+            <p> 
+            My name is Romi J Lee. I have had many opportunities to work on a variety projects. I greatly enjoy designing and programming in the digital space.</p>
             <div class="buttons">
             <a href="contact.php"><div class="m-btn btn01">Contact Me</div></a>
             <a href="about-me.php"><div class="m-btn btn02">Learn More</div></a>
