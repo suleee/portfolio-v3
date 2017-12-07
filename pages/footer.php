@@ -28,7 +28,7 @@
           <!-- <h3>Quick Contact</h3>
           <h4>Contact us today, and get reply with in 24 hours!</h4> -->
           <fieldset>
-            <input placeholder="Your name" type="text" tabindex="1" name="name" required autofocus>
+            <input placeholder="Your name" type="text" tabindex="1" name="name">
           </fieldset>
           <fieldset>
             <input placeholder="Your Email Address" type="email" name="email" tabindex="2" required>
