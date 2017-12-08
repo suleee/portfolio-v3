@@ -117,12 +117,10 @@
 <li>Experience maintaining and updating WordPress websites</li>
 <li>Experience with project documentation and architectural/development planning</li>
 <li>Solid experience with Git</li>
-<li>Experience working with WordPress plugins<li>
+<li>Experience working with WordPress plugins</li>
 <li>Knowledge of best practices for site security and a passionate commitment to maintaining the health of digital assets</li>
 <li>Some experience working with our core tool set: Gulp, GitHub</li>
 <li>Create email template with HTML and css</li>
-                      
-                      
                         <li>Setting a design direction and vision based on a project brief, creating a visual direction, communicating
                             concepts and rationale, and iterating on design and showing my progression from concept to final
                             design.
