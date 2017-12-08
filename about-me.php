@@ -23,7 +23,7 @@
 
         <section class="des-me-section">
             <div>
-                <h3>UI/UX Designer</h3>
+                <h3>Front-end devloper and UI/UX Designer</h3>
                 <div class="bar"></div>
             </div>
             <div class="about-me">
@@ -107,20 +107,33 @@
                 <div class="accordion-section ror-container" id="accordion-2">
                 <div class="job-title">
                     <p class="date">Oct. 2016 - July 2017</p>
-                    <p class="position">Freelance UI/UX Designer/ Web Developer</p>
+                    <p class="position">Freelance designer and WP Developer</p>
                     </div>
                     <div class="view-btn"><a href="#accordion-2" class="accordion-section-title ep-btn" >View More</a></div>
                     <ul class="role accordion-section-content" id="accordion-2">
+                    <li>Working knowledge of Javascript, HTML5, CSS3 skills</li>
+<li>Creating WordPress site from scratch</li>
+<li>Extensive experience developing custom WordPress themes and functionality with PHP</li>
+<li>Experience maintaining and updating WordPress websites</li>
+<li>Experience with project documentation and architectural/development planning</li>
+<li>Solid experience with Git</li>
+<li>Experience working with WordPress plugins<li>
+<li>Knowledge of best practices for site security and a passionate commitment to maintaining the health of digital assets</li>
+<li>Some experience working with our core tool set: Gulp, GitHub</li>
+<li>Create email template with HTML and css</li>
+                      
+                      
                         <li>Setting a design direction and vision based on a project brief, creating a visual direction, communicating
                             concepts and rationale, and iterating on design and showing my progression from concept to final
                             design.
                         </li>
+    
                         <li>Create mobile-first, responsive web design with Sketch, InVision, Photoshop </li>
                         <li>Transfer the design to HTML and CSS</li>
                         <li>Communication with clients and provide quality control over concepts and projects</li>
                         <h5> projects</h5>
                         <ul>
-                            <li>GradusOne WordPress responsive website </li>
+                            <li>TR Canada, GradusOne, Catalyst WordPress responsive website </li>
                             <li>UI/UX design for golf instructor website </li>
                             <li>Shot Point Application UI design for Andrew Mackee Company </li>
                             <li> Website, landing, migration page, and other marketing banners for Vertigo’s new launching game
