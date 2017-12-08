@@ -86,7 +86,7 @@
             </div> -->
 
         </div>
-
+        <?php include( './pages/web-project.php' ); ?>
     </section>
 
 
