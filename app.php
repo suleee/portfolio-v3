@@ -14,7 +14,8 @@
             <div class="btn"><a href="https://invis.io/K8CY586MY">view prototype</a></div>
             <!-- <div class="btn disable"><a href="">view the site</a></div> -->
             </div>
-                <img src="img/fsa/fsa-img.png" alt="aloha-img">
+                <!-- <img src="img/fsa/fsa-img.png" alt="img"> -->
+                <img src="img/fsa/streamapp-image.png" alt="img">
                 </section>
 
             <section class="ws-section2">
