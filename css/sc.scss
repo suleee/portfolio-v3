@@ -15,7 +15,6 @@
     }
  
     .styleguide-container {
-       
         display: flex;
         justify-content: space-around;
         flex-wrap: wrap;
@@ -24,9 +23,11 @@
         border-top: 1px solid #dce0e5;
         border-bottom: 1px solid #dce0e5;
     }
-  
+    .styleguide-img , .img-container{
+        width: 48%;
+    }
     .styleguide-img img {
-        width: 350px;
+        width: 100%;
         box-shadow: 1px 1px 6px 0px rgba(0, 0, 0 ,.2);
     }
     .sc-images p {
@@ -34,10 +35,22 @@
         color: black;
         font-weight: 500;
     }
-    .ps-container{
-        h3{
-            margin-bottom: 10px;
+  
+
+    .wireframe-container, .contentpart-container{
+        display: flex;
+        justify-content: space-around;
+       
+   
+        img{
+            width: 100%;
         }
-        margin: 20px 0;
+
+    }
+    .contentpart-container{
+        background: #F6F6F6;
+        border-top: 1px solid #dce0e5;
+        border-bottom: 1px solid #dce0e5;
+        padding: 80px 20px;
     }
 }

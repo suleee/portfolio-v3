@@ -21,20 +21,21 @@
             <div class="ws-section2">
             <div class="section2-thumb"><img src="img/sc/sc-imac.png"></div>
             <div class="section2-text">
-            <p>TThis is a responsive e-commerce website that implemented using the mobile first approach.
+            <p>Strong Current needed a vibrant update to their aging website to strengthen their online presence.</p>
              
             <div class="ps-container">
-                <h3>Problem and Sloution</h3>
+                <h3>Sloution</h3>
              <ul>
-                <li>The company want to update the website with new layout and adding more content.</li> 
-                <li>The previous website does not have information about the e-commerce description which  </li>
+                <li>user experience design</li>
+                <li>user interface design</li> 
+                <li> interaction design</li>
             </ul>
             <div>
-            <ul class="main-text-list">
+            <!-- <ul class="main-text-list">
             <li>Strategic Direction</li>
             <li>UX</li>
             <li>UI</li>
-            </ul>
+            </ul> -->
             </div>
             </div>
             </div>
@@ -46,10 +47,21 @@
             <div class="styleguide-img"><img src="img/sc/sitemap.jpg" class="sc-map" alt=""></div>
             <div class="styleguide-img"><img src="img/sc/style_guide.jpg" class="sc-style" alt=""></div>
             
-</div>
-            <div class="ws-section4 sc-images">
+        </div>
+        
+        <div class="wireframe-container">
+            <div class="img-container"><img src="img/sc/wireframe-strongCurrent-login.jpg"></div>
+            <div class="img-container"><img src="img/sc/wireframe-strongCurrent-main.jpg"></div>
+        </div>
+
+        <div class="contentpart-container">
+            <div class="img-container"><img src="img/sc/sc-color.jpg"></div>
+            <div class="img-container"><img src="img/sc/sc-tablet.jpg"></div>
+        </div>
+
+        <div class="ws-section4 sc-images">
             <img src="img/sc/sc-full.jpg" alt="">
-</div>
+        </div>
             <div class="btn"><a href="https://invis.io/SGCN2AVY5">view prototype</a></div>
             </section>
 <!-- footer -->

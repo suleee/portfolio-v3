@@ -93,8 +93,6 @@ $(document).ready(function() {
     });
   });
 
-
-
   $(window).scroll(function(event){
 
     var yOffset = window.pageYOffset;
@@ -103,8 +101,7 @@ $(document).ready(function() {
       $("nav").addClass('active');
     }else{
       $("nav").removeClass('active');
-    }
-  
+    }  
   });
 
 

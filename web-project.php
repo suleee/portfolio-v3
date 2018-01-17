@@ -2,15 +2,16 @@
 <?php include( './pages/header.php' );?>
 
 <section class="section05 web-pro-container">
-<div class="main-section">
-        
+    <div class="main-section">
+        <div class="main-text"> 
+               <h1>Web Development Proejcts</h1>
+            </div>
         </div>
 
-        
-            <div>
-                <h3>Development Proejcts</h3>
+            <!-- <div>
+                <h3></h3>
                 <div class="bar"></div>
-            </div>
+            </div> -->
             <div class="web-p-container">
             <div class="web-p-single-container">
                     <div class="web-title"><img src="img/wordpress-icon-color.png" class="wp" alt="wordpress">

@@ -1,4 +1,4 @@
-.work-section {
+.work-section, .works-container {
     .main-section {
         text-align: center;
         line-height: 24px;
@@ -7,6 +7,9 @@
         /* Create the parallax scrolling effect */
         background-attachment: fixed;
         background-size: cover;
+    }
+    .main-text{
+        padding: 140px 0 80px 0;
     }
     .p-th-span{
         color: grey;

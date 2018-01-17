@@ -10,25 +10,27 @@
     <link rel="shortcut icon" type="image/ico" href="img/favicon.ico" />
     <link rel="stylesheet" type=text/css href="css/reset.css">
 	<link rel="stylesheet" type=text/css href="css/style.css">
-	<!-- <link rel="stylesheet" type=text/css href="css/header.css">
-    <link rel="stylesheet" type=text/css href="css/footer.css">
-    <link rel="stylesheet" type=text/css href="css/web-projects.css">
-    <link rel="stylesheet" type=text/css href="css/about-me.css">
-    <link rel="stylesheet" type=text/css href="css/work-single.css">
-    <link rel="stylesheet" type=text/css href="css/aloha.css">
-    <link rel="stylesheet" type=text/css href="css/pong.css">
-    <link rel="stylesheet" type=text/css href="css/sc.css">
-    <link rel="stylesheet" type=text/css href="css/cf.css">
-    <link rel="stylesheet" type=text/css href="css/thanku.css"> -->
+
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Merriweather:300,300i,400,400i,700,700i,900,900i" rel="stylesheet">
-
+    <link href="//cdn.rawgit.com/noelboss/featherlight/1.7.12/release/featherlight.min.css" type="text/css" rel="stylesheet" />
+    <style>
+        .featherlight-content {
+            height: 50%;
+            width: 50%;
+        }
+    </style>
     <!-- icon link -->
     <script src="https://use.fontawesome.com/1679034438.js"></script>
 </head>
 
 <body>
+<?php
+    if($_GET['no'] == 1) {
+        echo '';
+    } else {
 
+?>
     <nav class="menu-container">
         <div class="menu">
             <div class="top-logo">
@@ -36,16 +38,17 @@
                 </div>
             <!-- <div> -->
             <ul class="menu-list">
-            <li class="menu-hover"><a href="work.php">Work</a>
-                    <div class="menu-bar-hover" style="display:none"></div>
-                </li>
+                <li class="menu-hover"><a href="work.php">Work</a></li>
                 <li class="menu-hover"><a href="web-project.php">Dev. Work</a>
-                <div class="menu-bar-hover" style="display:none"></div></li>
-
+                <!-- <div class="menu-bar-hover" style="display:none"></div></li> -->
                 <li class="menu-hover"><a href="about-me.php">My Story</a>
-                <div class="menu-bar-hover" style="display:none"></div></li>
             </ul>
-            <div class="contact-container"><a href="">Contact</a></div>
+            <div class="contact-container">
+                <a href="#" data-featherlight="popup.php?no=1 .main" data-featherlight-iframe-height="800px" data-featherlight-iframe-width="800px">Contact</a>
+            </div>
 </div>
         <!-- </div> -->
     </nav>
+<?php 
+    }
+?>

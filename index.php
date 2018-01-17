@@ -7,13 +7,12 @@
                <h1>Creative Touch and Technical Knowhow</h1>
                <p>I'm Jisu, UI/UX designer & web developer in Vancouver, Canada. I work with dynamic teams to deliver solutions that help people work smarter.</p>
             <div class="buttons">
-            <a href="contact.php"><div class="m-btn btn01">Contact Me</div></a>
+            <a href="#" data-featherlight="popup.php?no=1 .main" data-featherlight-iframe-height="800px" data-featherlight-iframe-width="800px"><div class="m-btn btn01">Contact</div></a>
             <a href="about-me.php"><div class="m-btn btn02">Learn More</div></a>
             </div>
             </div>
 </div>
 
-        <div class="work-section">
             <div class="works-container">
 
             <div class="aloha">
@@ -74,7 +73,7 @@
                 </div>
             </div>
 </div>
-</div>
+
 </section>
 <!-- footer -->
 <?php include( './pages/footer.php' ); ?>
