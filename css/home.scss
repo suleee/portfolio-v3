@@ -1,0 +1,214 @@
+    body {
+        font-family: 'Open Sans', sans-serif;
+        font-size: 16px;
+        margin: 0;
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        font-family: 'Merriweather', serif;
+    }
+
+    h1 {
+        line-height: 55px;
+        margin: 0 auto;
+        max-width: 543px;
+        font-size: 45px;
+        color: white;
+    }
+
+    h2 {
+        font-size: 24px;
+        font-weight: 400;
+        margin: 35px 0;
+        text-transform: uppercase;
+    }
+
+    h2 span {
+        font-size: 40px;
+        color: #272727;
+    }
+
+    p {
+        color: #4f4f4f;
+    }
+
+    a {
+        text-decoration: none;
+        color: white;
+    }
+
+    .mainpage-container .main-section {
+        text-align: center;
+        line-height: 24px;
+        margin: 0px 0 50px 0;
+        background: url("../img/main-bg02.png") no-repeat center;
+        min-height: 500px;
+        /* Create the parallax scrolling effect */
+        background-attachment: fixed;
+        background-size: cover;
+    }
+
+    .mainpage-container,
+    .work-section {
+        .main-text {
+            padding-top: 150px;
+        }
+        .main-section h2 span {
+            color: white;
+        }
+        .main-section p {
+            margin: 35px auto;
+            min-width: 260px;
+            padding: 0 10px;
+            color: black;
+            padding: 0% 20px;
+            @media all and (min-width: 600px) {
+                max-width: 696px;
+                padding: 0%;
+            }
+        }
+        .main-section img {
+            margin-top: 120px;
+        }
+        .bar {
+            border-bottom: 2px solid black;
+            width: 30px;
+            margin: 0 auto;
+            padding-bottom: 10px;
+        }
+        .m-btn {
+            width: 145px;
+            height: 32px;
+            padding-top: 6px;
+            margin: auto;
+            border: 2px solid;
+            color: white;
+        }
+        .m-btn:hover {
+            border: 2px solid white;
+            background: white;
+            color: black;
+        }
+        .btn {
+            width: 145px;
+            padding: 15px 0;
+            background: #00d08c;
+            border-radius: 30px;
+            margin: 25px auto;
+            text-align: center;
+        }
+        .btn:hover {
+            background: #454545;
+        }
+        .buttons {
+            display: flex;
+            justify-content: space-around;
+            max-width: 428px;
+            margin: auto;
+            padding-bottom: 60px;
+        }
+        /* portfolio thumbnails section */
+        .work-section {
+            margin-bottom: 90px;
+        }
+        .work-list {
+            list-style: none;
+            display: flex;
+            max-width: 700px;
+            justify-content: space-between;
+            margin: auto;
+            margin-top: 35px;
+        }
+        .work-list li {
+            border: 1px solid #6d6d6d;
+            padding: 5px 10px;
+        }
+        .work-list li:hover {
+            border: 1px solid #ef7c8b;
+            color: #ef7c8b;
+        }
+        .works-container {
+            text-align: center;
+            margin: 45px auto;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            @media all and (min-width: 600px) {
+                max-width: 950px;
+                width: 100%;
+            }
+            .aloha {
+                display: inline-block;
+                position: relative;
+                margin: 0 10px 10px 30px;
+                @media all and (min-width: 600px) {
+                    width: 50%;
+                }
+                @media all and (min-width: 900px) {
+                    width: 28%;
+                }
+            }
+            .aloha img {
+                max-width: 100%;
+            }
+            .aloha_hover {
+                position: absolute;
+                text-align: center;
+                background: rgba(0, 0, 0, 0.8);
+                width: 100%;
+                height: 100%;
+            }
+        }
+        .aloha_hover p {
+            color: white;
+            font-weight: 300;
+            letter-spacing: 1.2px;
+        }
+        .hover-l {
+            padding: 23px 0;
+            background: rgba(0, 0, 0, 0.95);
+            font-size: 14px;
+        }
+        .hover-t {
+            margin: 40px 0 50px 0;
+            font-size: 18px;
+        }
+        .btn03 {
+            border: 1px solid white;
+            padding: 8px 25px 8px 25px;
+            border-radius: 3px;
+            font-weight: 400;
+        }
+        .btn03:hover {
+            color: black;
+            background: white;
+        }
+        /* .works-container img{
+width: 300px;
+} */
+        .work-section .main-section {
+            min-height: 200px;
+        }
+    }
+
+    .thumb {
+        position: relative;
+        overflow: hidden;
+    }
+
+    .thumb img {
+        max-width: 100%;
+        transition: all 0.3s;
+    }
+
+    .aloha:hover 
+        img {
+            transform: scale(1.03);
+        
+      
+    }

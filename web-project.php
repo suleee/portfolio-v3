@@ -1,4 +1,12 @@
-<section class="section05">
+<!-- head -->
+<?php include( './pages/header.php' );?>
+
+<section class="section05 web-pro-container">
+<div class="main-section">
+        
+        </div>
+
+        
             <div>
                 <h3>Development Proejcts</h3>
                 <div class="bar"></div>
@@ -84,3 +92,5 @@
 
             </div>
         </section>
+        <!-- footer -->
+<?php include( './pages/footer.php' ); ?>

@@ -1,3 +1,16 @@
+.aboutme-container {
+    .main-section {
+        text-align: center;
+        line-height: 24px;
+        margin: 0px 0 50px 0;
+        background: url("../img/main-bg02.png") no-repeat center;
+        /* Create the parallax scrolling effect */
+        background-attachment: fixed;
+        background-size: cover;
+        height: 120px;
+    }
+}
+
 h5 {
     font-weight: 700;
     margin: 30px 0 10px 0px;
@@ -10,14 +23,6 @@ h5 {
     margin: auto;
     padding-bottom: 35px;
 }
-
-
-/* .my-pic{
-    width: 100px;
-    border-radius: 100px;
-        background: linear-gradient( to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.5) 100%), url(../img/jisu.jpg)no-repeat;
-    background-size: contain, cover;
-} */
 
 .am-main-section {
     text-align: center;
@@ -38,11 +43,6 @@ h5 {
 .about-me p {
     line-height: 24px;
 }
-
-
-/* .logos {
-    margin-top: 35px;
-    /* filter: grayscale(1); */
 
 .linked-logo {
     width: 96px;
@@ -76,13 +76,12 @@ h5 {
 }
 
 .position {
-    color: #e65678;
+    font-family: 'Merriweather', serif;
     font-size: 20px;
+    color: #3195C2;
 }
 
-.section05 {
-    padding: 90px 0;
-}
+
 
 .wp {
     width: 30px;
@@ -96,12 +95,8 @@ h5 {
     width: 100%;
     min-width: 260px;
     margin: auto;
-}
-
-@media all and (min-width: 600px) {
-    .web-p-container {
+    @media all and (min-width: 600px) {
         display: flex;
-        
         max-width: 900px;
         flex-wrap: wrap;
         justify-content: center;
@@ -111,10 +106,7 @@ h5 {
 .web-p-single-container {
     min-width: 300px;
     padding: 30px 30px;
-}
-
-@media all and (min-width: 600px) {
-    .web-p-single-container {
+    @media all and (min-width: 600px) {
         min-width: 250px;
         width: 25%;
         padding: 50px 20px;
@@ -133,10 +125,7 @@ h5 {
 .text {
     height: 180px;
     line-height: 24px;
-}
-
-@media all and (min-width: 600px) {
-    .text {
+    @media all and (min-width: 600px) {
         height: 250px;
     }
 }
@@ -146,7 +135,7 @@ h5 {
 }
 
 .des-me-section {
-    background: #f0f0f0;
+    // background: #f0f0f0;
     padding: 90px 0;
 }
 
@@ -188,20 +177,32 @@ h5 {
     padding: 15px;
     display: none;
 }
-.accordion-section a{
+
+.accordion-section a {
     border: 1px solid #8a939a;
     color: #8a939a;
     padding: 8px 20px;
     border-radius: 5px;
     font-size: 14px;
 }
-.view-btn{
+
+.view-btn {
     margin: 11px 0;
 }
-.view-btn img{
- width: 10px;
+
+.view-btn img {
+    width: 10px;
 }
 
-.down-arrow{
+.down-arrow {
     transform: scaleY(-1);
+}
+
+.aboutme-container {
+    .bar {
+        border-bottom: 2px solid black;
+        width: 30px;
+        margin: 0 auto;
+        padding-bottom: 10px;
+    }
 }

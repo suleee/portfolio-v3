@@ -2,28 +2,14 @@
 <?php include( './pages/header.php' );?>
 
 
-<section class="container">
-        <section class="am-main-section">
-            <h3>About Me</h3>
-             <div class="bar"></div>
-            <div class="profile-pic">
-            <img src="img/j-logo.png" class="logo" alt="logo">
-            <img src="img/jisu.png" class="logo" alt="logo">
-</div>
-            <div class="logos">
-                <a href="https://www.linkedin.com/in/jisu-lee-02834364/">
-                <img src="img/linkedin-logo-transparent-png-16.png" class="linked-logo" alt="linkedin-logo">
-            </a>
-                <a href="http://jaejisu.wixsite.com/jisulee">
-                <img src="img/wix_com.png" class="wix-logo" alt="wix-logo">
-            </a>
-            </div>
-            </div>
-        </section>
-
-        <section class="des-me-section">
+<section class="aboutme-container">
+<div class="main-section">
+         
+        </div>
+            
+        <div class="des-me-section">
             <div>
-                <h3>Front-end devloper and UI/UX Designer</h3>
+                <h3>UI/UX and Front-end devlopment</h3>
                 <div class="bar"></div>
             </div>
             <div class="about-me">
@@ -38,39 +24,44 @@
                     the design.
                 </p>
             </div>
-        </section>
+        </div>
 
 
-        <section class="skill-section am-skill-section">
-            <div>
-                <h3>Skill</h3>
-                <div class="bar"></div>
+        <div class="skill-section">
+        <div>
+            <h3>What I do</h3>
+            <div class="bar"></div>
+        </div>
+        <div class="skill-container">
+            <div class="skill-single-container">
+                <img src="img/icon01.png" alt="creative-skill-icon">
+                <h4>Web Design</h4>
+                <div class="pink-bar"></div>
+                <p>Designing for the web is not a job it's a lifestyle. As technology changes so does the challenge.</p>
+
             </div>
-            <div class="skill-container">
-                <div class="skill-single-container">
-
-                    <img src="img/creative-icon.png" alt="creative-skill-icon">
-                    <h4>Creative Skills</h4>
-                    <div class="pink-bar"></div>
-                    <p>Photoshop, InVision, Sketch, Illustrator, InDesign, Muse, Premiere</p>
-
-                </div>
-                <div class="skill-single-container">
-                    <img src="img/dev-icon.png" alt="dev-skill-icon">
-                    <h4>Web Devlopment Skills</h4>
-                    <div class="pink-bar"></div>
-                    <p>HTML5, CSS3, JQUERY, JavaScript, PHP, Gulp, WordPress, Git, GitHub </p>
-                </div>
-                <div class="skill-single-container">
-                    <img src="img/other-icon.png" alt="skill-icon">
-                    <h4>Creative Skills</h4>
-                    <div class="pink-bar"></div>
-                    <p>Microsoft PowerPoint, Word, Excel, JIRA, Confluence, Proma</p>
-                </div>
+            <div class="skill-single-container">
+                <img src="img/icon02.png" alt="dev-skill-icon">
+                <h4>UI/UX Design</h4>
+                <div class="pink-bar"></div>
+                <p>An extension of my love for design and problem solving, UX allows me to dictate the skeleton.</p>
             </div>
-        </section>
+            <div class="skill-single-container">
+                <img src="img/icon03.png" alt="dev-skill-icon">
+                <h4>Game Web Product Design</h4>
+                <div class="pink-bar"></div>
+                <p>An extension of my love for design and problem solving, UX allows me to dictate the skeleton.</p>
+            </div>
+            <div class="skill-single-container">
+                <img src="img/icon03.png" alt="skill-icon">
+                <h4>Development</h4>
+                <div class="pink-bar"></div>
+                <p>I love bringing my designs to life in HTML, CSS & Javascript, also acting like a mad scientist.a</p>
+            </div>
+        </div>
+</div>
 
-        <section class="ex-section">
+        <div class="ex-section">
 
                 <h3>Experiences</h3>
                 <div class="bar"></div>
@@ -79,9 +70,10 @@
 
                 <div class="accordion-section ror-container" id="accordion-1">
                 <div class="job-title">
+                <p class="position">UI/UX designer</p>
                 <p class="date">July 2017 - Current</p>
                     <p class="company">Direct Focus Online (Vancouver)</p>
-                    <p class="position">UI/UX designer</p>
+                   
 
                 </div>
                     <div class="view-btn"><a href="#accordion-1" class="accordion-section-title ep-btn" > View More
@@ -106,8 +98,9 @@
 
                 <div class="accordion-section ror-container" id="accordion-2">
                 <div class="job-title">
-                    <p class="date">Oct. 2016 - July 2017</p>
-                    <p class="position">Freelance designer and WP Developer</p>
+                <p class="position">Freelance designer and WP Developer</p>   
+                <p class="date">Oct. 2016 - July 2017</p>
+                   
                     </div>
                     <div class="view-btn"><a href="#accordion-2" class="accordion-section-title ep-btn" >View More</a></div>
                     <ul class="role accordion-section-content" id="accordion-2">
@@ -142,9 +135,10 @@
 
                 <div class="accordion-section ror-container" id="accordion-3">
                 <div class="job-title">
-                    <p class="date">Dec. 2015 - Sept. 2016</p>
+                <p class="position">Creative Director</p> 
+                <p class="date">Dec. 2015 - Sept. 2016</p>
                     <p class="company">Septeni Global (Korea)</p>
-                    <p class="position">Creative Director</p>
+                 
                     </div>
                     <div class="view-btn"><a href="#accordion-3" class="accordion-section-title ep-btn" >View More</a></div>
                     <ul class="role accordion-section-content" id="accordion-3">
@@ -170,9 +164,10 @@
 
                 <div class="accordion-section ror-container" id="accordion-4">
                 <div class="job-title">
-                    <p class="date">March 2015 - Nov. 2015</p>
+                <p class="position">Web Content Planner</p>    
+                <p class="date">March 2015 - Nov. 2015</p>
                     <p class="company">95 (Korea)</p>
-                    <p class="position">Web Content Planner</p>
+                    
                     </div>
                     <div class="view-btn"><a href="#accordion-4" class="accordion-section-title ep-btn" >View More</a></div>
                     <ul class="role accordion-section-content" id="accordion-4">
@@ -193,9 +188,10 @@
 
                 <div class="accordion-section ror-container" id="accordion-5">
                 <div class="job-title">
+                <p class="position">Web Designer</p>
                     <p class="date">March 2013 - Jan. 2015 </p>
                     <p class="company">Smilegate West (Toronto Canada)</p>
-                    <p class="position">Web Designer</p>
+                   
                     </div>
                     <div class="view-btn"><a href="#accordion-5" class="accordion-section-title ep-btn" >View More</a></div>
                     <ul class="role accordion-section-content" id="accordion-5">
@@ -228,9 +224,10 @@
 
                 <div class="accordion-section ror-container" id="accordion-6">
                 <div class="job-title">
+                <p class="position">Web Designer</p>
                     <p class="date">Jan. 2012 - March 2013</p>
                     <p class="company">OGPlanet (Vancouver Canada)</p>
-                    <p class="position">Web Designer</p>
+                  
                     </div>
                     <div class="view-btn"><a href="#accordion-6" class="accordion-section-title ep-btn" >View More</a></div>
                     <ul class="role accordion-section-content" id="accordion-6">
@@ -252,11 +249,9 @@
                 </div>
             </div>
 
-        </section>
+        </div>
 
 
-
-        <?php include( './pages/web-project.php' ); ?>
     </section>
 
 

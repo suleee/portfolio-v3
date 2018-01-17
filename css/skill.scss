@@ -1,0 +1,53 @@
+.skill-section,
+.mainpage-container,
+.aboutme-container {
+    h3 {
+        font-size: 20px;
+        font-weight: 700;
+        text-transform: uppercase;
+        margin: auto 0;
+        text-align: center;
+    }
+    h4 {
+        color: #272D35;
+        font-size: 20px;
+        font-weight: 700;
+        margin: 15px 0;
+    }
+}
+
+.skill-section {
+    background: #F6F6F6;
+    border-top: 1px solid #dce0e5;
+    border-bottom: 1px solid #dce0e5;
+    padding: 90px 0;
+    .skill-section02 {
+        text-align: center;
+    }
+    .skill-container {
+        padding-top: 35px;
+        max-width: 920px;
+        margin: 15px auto;
+        background: white;
+        @media all and (min-width: 600px) {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+        }
+    }
+    .skill-single-container {
+        width: 50%;
+        height: 270px;
+        text-align: center;
+        padding-top: 35px;
+        margin: 15px auto;
+        @media all and (min-width: 600px) {
+            text-align: center;
+        }
+    }
+    .skill-single-container p {
+        max-width: 260px;
+        line-height: 24px;
+        margin: auto;
+    }
+}

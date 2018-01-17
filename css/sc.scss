@@ -1,0 +1,43 @@
+.e-commerce-conatiner {
+    .e-commerce-topbanner {
+        background: linear-gradient(to bottom, rgba(0, 0, 0, 0.45) 50%, rgba(0, 0, 0, 0.45) 50%), url('../img/sc/sc-bg.jpg') no-repeat top;
+        background-size: cover;
+        height: 100vh;
+    }
+    .sp-sub-title {
+        text-align: center;
+        padding-top: 200px;
+    }
+    .ws-section4 img {
+        margin-top: 64px;
+        text-align: center;
+        box-shadow: 1px 2px 7px 1px rgba(0, 0, 0, .25);
+    }
+ 
+    .styleguide-container {
+       
+        display: flex;
+        justify-content: space-around;
+        flex-wrap: wrap;
+        padding: 80px 20px;
+        background: #F6F6F6;
+        border-top: 1px solid #dce0e5;
+        border-bottom: 1px solid #dce0e5;
+    }
+  
+    .styleguide-img img {
+        width: 350px;
+        box-shadow: 1px 1px 6px 0px rgba(0, 0, 0 ,.2);
+    }
+    .sc-images p {
+        margin-bottom: 20px;
+        color: black;
+        font-weight: 500;
+    }
+    .ps-container{
+        h3{
+            margin-bottom: 10px;
+        }
+        margin: 20px 0;
+    }
+}

@@ -2,54 +2,51 @@
 <?php include( './pages/header.php' );?>
 
 
+
 <section class="work-section work-section-sub">
-            <div>
-                <h3>Portfolio</h3>
-                <div class="bar"></div>
+<div class="main-section">
+           <div class="main-text"> 
+               <h1>UI&UX Problem Solving and Graphic Design</h1>
+               <p>I'm Jisu, UI/UX designer & web developer in Vancouver, Canada. I work with dynamic teams to deliver solutions that help people work smarter.</p>
+            <div class="buttons">
+            <a href="contact.php"><div class="m-btn btn01">Contact Me</div></a>
+            <a href="about-me.php"><div class="m-btn btn02">Learn More</div></a>
             </div>
-            <!-- <ul class="work-list">
-                <li>All</li>
-                <li>UI/UX design</li>
-                <li>web development</li>
-                <li>Web product pages</li>
-                <li>graphics</li>
-            </ul> -->
+            </div>
+        </div>
+            
             <div class="works-container">
-            <div class="aloha">
-                <div class="aloha_hover hover01">
-                    <p class="hover-l">HTML, CSS, JavaScript, Photoshop</p>
-                    <p class="hover-t">Aloha responsive website</p>
-                    <a class="btn03" href="aloha.php">view more</a>
+                    <div class="aloha">
+                        <a class="btn03" href="ecom-web.php">
+                        <div class="thumb">
+                        <img src="img/sc/sc-imac.png" alt="work02">
+                        <h3 class="">E-commerce website</h3> 
+                        <p class="p-th-p"><span class="p-th-span">UI, UX</span></p>  
+                        </div>
+                        </a>
+                    </div>
+ 
+                <div class="aloha">        
+                <a class="btn03" href="aloha.php">
+                    <div class="thumb">
+                    <img src="img/aloha-imac.png" alt="work02">
+                    <h3 class="">Aloha website</h3> 
+                    <p class="p-th-p"><span class="p-th-span">UI, UX, Web Development</span></p>  
                 </div>
-                <img src="img/aloha-tn.png" alt="work02">
-            </div>
-            <div class="aloha">
-                <div class="aloha_hover hover03">
-                <p class="hover-l">Photoshop, InVision, Sketch</p>
-                <p class="hover-t">Free to Stream App</p>
-                <a class="btn03" href="app.php">view more</a>
+                </a>
                 </div>
-                <img src="img/fsa/fsa-tn.png" alt="work02">
             </div>
 
-            <div class="aloha">
+            <!-- <div class="aloha">
                 <div class="aloha_hover hover03">
                 <p class="hover-l">Photoshop</p>
                 <p class="hover-t">Disney Promotion Banner</p>
                 <a class="btn03" href="disney-b.php">view more</a>
                 </div>
                 <img src="img/d-tn.jpg" alt="work02">
-            </div>
+            </div> -->
 
 
-            <div class="aloha">
-                <div class="aloha_hover hover03">
-                <p class="hover-l">Photoshop, InVision</p>
-                <p class="hover-t">E-commerce website</p>
-                <a class="btn03" href="ecom-web.php">view more</a>
-                </div>
-                <img src="img/sc/sc-tn.jpg" alt="work02">
-            </div>
             <!-- <div class="aloha">
                 <div class="aloha_hover hover03">
                 <p class="hover-l">Photoshop, InVision</p>
@@ -60,7 +57,7 @@
             </div> -->
 
 
-            <div class="aloha">
+            <!-- <div class="aloha">
                 <div class="aloha_hover hover03">
                 <p class="hover-l">Photoshop, InVision</p>
                 <p class="hover-t">CrossFire Update page</p>
@@ -75,7 +72,7 @@
                 <a class="btn03" href="pong-game.php">view more</a>
                 </div>
                 <img src="img/pong-tn.png" alt="work02">
-            </div>
+            </div> -->
             <!-- <div class="aloha">
                 <div class="aloha_hover hover03">
                 <p class="hover-l">Photoshop, InVision</p>
@@ -86,7 +83,7 @@
             </div> -->
 
         </div>
-        <?php include( './pages/web-project.php' ); ?>
+ 
     </section>
 
 
