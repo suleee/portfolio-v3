@@ -19,7 +19,7 @@
             <p class="sub-title">Goal Point</p>
 
             <div class="ps-container">
-            <h3>Sloution</h3>
+            <h3>Solution</h3>
             <ul class="">
                 <li>Web development</li>
                 <li>UX</li>
