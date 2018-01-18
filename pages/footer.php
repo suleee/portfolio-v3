@@ -13,7 +13,12 @@
 	
 
     </footer>
-    <div class="sub-footer tooltip-top"</div>
+	<div class="sub-footer tooltip-top">
+		<a href="javascript:" id="return-to-top">
+        Jisu
+		</a>
+	</div>
+	
 <?php
 
 	}

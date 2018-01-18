@@ -1,22 +1,4 @@
 $(document).ready(function() {
-  $(".aloha_hover").hide();
-  $(".aloha").hover(
-    function() {
-      $(this)
-        .find(".aloha_hover")
-        .show();
-    },
-    function() {
-      $(this)
-        .find(".aloha_hover")
-        .hide();
-    },
-    function() {
-      $(this)
-        .find(".aloha_hover")
-        .hide();
-    }
-  );
 
   //menu hover
   $(".menu-hover").hover(function() {
@@ -61,36 +43,6 @@ $(document).ready(function() {
 
     e.preventDefault();
 
-    $("#submit").click(function() {
-      var name = $("#name").val();
-      var email = $("#email").val();
-      var message = $("#message").val();
-      var contact = $("#contact").val();
-      $("#returnmessage").empty(); // To empty previous error/success message.
-      // Checking for blank fields.
-      if (name.trim() == "" || email.trim() == "" || contact.trim() == "") {
-        alert("Please Fill Required Fields");
-      } else {
-        // Returns successful data submission message when the entered information is stored in database.
-        $.post(
-          "contact_form.php",
-          {
-            name1: name,
-            email1: email,
-            message1: message,
-            contact1: contact
-          },
-          function(data) {
-            $("#returnmessage").append(data); // Append returned message to message paragraph.
-            if (
-              data == "Your Query has been received, We will contact you soon."
-            ) {
-              $("#form")[0].reset(); // To reset form fields on success.
-            }
-          }
-        );
-      }
-    });
   });
 
   $(window).scroll(function(event){
@@ -107,53 +59,27 @@ $(document).ready(function() {
 
 
 
-
-    $(".message")
-      .delay(200)
-      .fadeIn(500);
-  }),
-    $(function() {
-      var e = $("#nav-toggle");
-      (menu = $("nav ul")),
-        (menuHeight = menu.height()),
-        (header = $("header#top")),
-        $(e).on("click", function(e) {
-          e.preventDefault(),
-            menu.slideToggle(250),
-            this.classList.toggle("active"),
-            $("#top").hasClass("visable")
-              ? console.log("Problem")
-              : header.toggleClass("visable");
-        }),
-        $(window).resize(function() {
-          var e = $(window).width();
-          e > 320 && menu.is(":hidden") && menu.removeAttr("style");
-        });
-    }),
-    $(window).scroll(function() {
-      $(this).scrollTop() >= 200
-        ? $("header#top").addClass("visable")
-        : $(this).scrollTop() <= 700 && $("header#top").removeClass("visable");
-    }),
-    $(".flipUp").textrotator({
-      animation: "flipUp",
-      separator: ",",
-      speed: 3500
-    });
-  var project = $("#projects article"),
-    viewProject = $("span");
-  project.hover(function() {
-    project.addClass("dim"),
-      $(this).removeClass("dim"),
-      $(this).hover(function() {
-        viewProject.toggleClass("slide");
-      });
-  }),
-    project.mouseleave(function() {
-      project.removeClass("dim"), viewProject.removeClass("slide");
-    }),
-    $("#cbp-fwslider").cbpFWSlider(),
-    $(function() {
-      $("article").readingTime({ readingTimeTarget: $(this).find(".eta") });
-   
+// ===== Scroll to Top ==== 
+$(window).scroll(function() {
+  if ($(this).scrollTop() >= 50) {        // If page is scrolled more than 50px
+      $('#return-to-top').fadeIn(200);    // Fade in the arrow
+  } else {
+      $('#return-to-top').fadeOut(200);   // Else fade out the arrow
+  }
 });
+$('#return-to-top').click(function() {      // When arrow is clicked
+  $('body,html').animate({
+      scrollTop : 0                       // Scroll to top of body
+  }, 500);
+});
+
+
+
+
+
+
+
+});
+
+
+

@@ -12,15 +12,7 @@
     h6 {
         font-family: 'Merriweather', serif;
     }
-
-    h1 {
-        line-height: 55px;
-        margin: 0 auto;
-        max-width: 543px;
-        font-size: 45px;
-        color: white;
-    }
-
+    
     h2 {
         font-size: 24px;
         font-weight: 400;
@@ -55,7 +47,14 @@
     }
 
     .mainpage-container,
-    .work-section {
+    .work-section, .section05 {
+        .main-text h1 {
+            line-height: 55px;
+            margin: 0 auto;
+            max-width: 543px;
+            font-size: 45px;
+            color: white;
+        }
         .main-text {
             padding-top: 150px;
         }
@@ -113,7 +112,6 @@
             margin: auto;
             padding-bottom: 60px;
         }
-   
         .work-list {
             list-style: none;
             display: flex;
@@ -151,44 +149,7 @@
                     width: 28%;
                 }
             }
-            .aloha img {
-                max-width: 100%;
-            }
-            .aloha_hover {
-                position: absolute;
-                text-align: center;
-                background: rgba(0, 0, 0, 0.8);
-                width: 100%;
-                height: 100%;
-            }
-        }
-        .aloha_hover p {
-            color: white;
-            font-weight: 300;
-            letter-spacing: 1.2px;
-        }
-        .hover-l {
-            padding: 23px 0;
-            background: rgba(0, 0, 0, 0.95);
-            font-size: 14px;
-        }
-        .hover-t {
-            margin: 40px 0 50px 0;
-            font-size: 18px;
-        }
-        .btn03 {
-            border: 1px solid white;
-            padding: 8px 25px 8px 25px;
-            border-radius: 3px;
-            font-weight: 400;
-        }
-        .btn03:hover {
-            color: black;
-            background: white;
-        }
-
-        .work-section .main-section {
-            min-height: 200px;
+         
         }
     }
 
@@ -202,9 +163,11 @@
         transition: all 0.3s;
     }
 
-    .aloha:hover 
-        img {
-            transform: scale(1.03);
-        
-      
+    .aloha img {
+        filter: brightness(95%);
+        max-width: 100%;
+    }
+    .aloha:hover img {
+        transform: scale(1.03);
+        filter: brightness(100%);
     }

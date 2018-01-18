@@ -31,8 +31,57 @@
     } else {
 
 ?>
-    <nav class="menu-container">
-        <div class="menu">
+
+
+
+
+
+
+
+
+
+<nav class="menu-bg ham-menu">
+        <div id="menuToggle">
+            <input type="checkbox" />
+
+            <span class="ham-bar"></span>
+            <span class="ham-bar"></span>
+            <span class="ham-bar"></span>
+
+            <ul id="menu" class="meun-list">
+                <li class="menu-logo-img">
+                    <img src="img/menu-fellow-logo.png" alt="fellow-logo">
+                </li>
+                <a href="#intro">
+                    <li>
+
+                        Intro
+                    </li>
+                </a>
+                <a href="#class">
+                    <li class="menu-list">
+                        Classes
+                    </li>
+                </a>
+                <a href="#media">
+                    <li>
+
+                        Media
+
+                    </li>
+                </a>
+            </ul>
+        </div>
+    </nav>
+
+
+
+
+
+
+
+    <nav class=" menu-bg desktop-menu menu-container">
+        <div class="meun-list menu">
             <div class="top-logo">
                 <a href="index.php"><img src="img/j-w.png"></a>
                 </div>
@@ -49,6 +98,8 @@
 </div>
         <!-- </div> -->
     </nav>
+
+    
 <?php 
     }
 ?>
