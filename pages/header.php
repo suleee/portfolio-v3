@@ -34,12 +34,6 @@
 
 
 
-
-
-
-
-
-
 <nav class="menu-bg ham-menu">
         <div id="menuToggle">
             <input type="checkbox" />
@@ -47,36 +41,18 @@
             <span class="ham-bar"></span>
             <span class="ham-bar"></span>
             <span class="ham-bar"></span>
-
             <ul id="menu" class="meun-list">
-                <li class="menu-logo-img">
-                <a href="index.php">
-                <div class="top-logo">
-                    <img src="img/j-w.png">
-                </div>
-                </a>
-                </li>
-                <a href="#intro">
-                    <li>
-
-                        Intro
-                    </li>
-                </a>
-                <a href="#class">
-                    <li class="menu-list">
-                        Classes
-                    </li>
-                </a>
-                <a href="#media">
-                    <li>
-
-                        Media
-
-                    </li>
-                </a>
+                <li class="menu-hover"><a href="work.php">Design Work</a></li>
+                <li class="menu-hover"><a href="web-project.php">Dev. Work</a>
+                <!-- <div class="menu-bar-hover" style="display:none"></div></li> -->
+                <li class="menu-hover"><a href="about-me.php">My Story</a></li>
             </ul>
         </div>
+        <!-- <div class="menu-logo-img ham-menu-logo">
+           <a href="index.php"><div class="top-logo"><img src="img/j-w.png"></div></a>
+        </div> -->
     </nav>
+ 
 
 
 
@@ -91,7 +67,7 @@
                 </div>
             <!-- <div> -->
             <ul class="menu-list">
-                <li class="menu-hover"><a href="work.php">Work</a></li>
+                <li class="menu-hover"><a href="work.php">Design Work</a></li>
                 <li class="menu-hover"><a href="web-project.php">Dev. Work</a>
                 <!-- <div class="menu-bar-hover" style="display:none"></div></li> -->
                 <li class="menu-hover"><a href="about-me.php">My Story</a>
