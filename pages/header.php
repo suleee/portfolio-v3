@@ -50,7 +50,11 @@
 
             <ul id="menu" class="meun-list">
                 <li class="menu-logo-img">
-                    <img src="img/menu-fellow-logo.png" alt="fellow-logo">
+                <a href="index.php">
+                <div class="top-logo">
+                    <img src="img/j-w.png">
+                </div>
+                </a>
                 </li>
                 <a href="#intro">
                     <li>
