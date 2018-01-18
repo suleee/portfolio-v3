@@ -32,11 +32,11 @@
 </div>
 <div class="ws-section3">
                 <ul>
-                <li>Responsive (optimize the website for the three screen sizes: moblie, tablet, desktop)</li>
-                <li>Use the HTML5 doctype and semantic HTML5 mark-up</li>
+                <li>Responsive (optimize the website for the three screen sizes: mobile, tablet, desktop)</li>
+                <li>Use the HTML5 doctype and semantic HTML5 markup</li>
                 <li>Pushed to GitHub</li>
                 <li>Make appropriate use of paragraph, heading, and list elements</li>
-                <li>Update the the cart icon in the top-right corner of the header every time the user clicks the “Add to Cart” button for a product</li>
+                <li>Update the cart icon in the top-right corner of the header every time the user clicks the “Add to Cart” button for a product</li>
                 </ul>
 </div>
 <div class="ws-section4">
