@@ -403,6 +403,8 @@ a {
   .fsm-container .wireframe-container img,
   .fsm-container .contentpart-container img {
     width: 100%; }
+.fsm-container .wireframe-container {
+  padding-top: 70px; }
 
 .aboutme-container .main-section {
   text-align: center;
