@@ -7,22 +7,18 @@
             <h3>Portfolio</h3>
             <div class="bar"></div>
             <div class="sp-sub-title">
-            <h6>Strong Current </h6>
-            <h6>e-Commerce Website</h6>
+            <h6>Free To Stream App</h6>
             <div class="ws-lang"><p>Photoshop, Illustrator, InVision, Sketch</p></div>
             </div>
             <div class="ws-btns">
-           
-            <!-- <div class="btn disable"><a href="">view the site</a></div> -->
             </div>
-                <!-- <img src="img/sc/sc-img.jpg" alt="aloha-img"> -->
 </div>
 
             <div class="ws-section2">
             <div class="section2-thumb"><img src="img/fsm/fsm-imac.png"></div>
             <div class="section2-text">
-            <p>Strong Current needed a vibrant update to their aging website to strengthen their online presence.</p>
-             
+            <p>Free to Stream App is the online directory that you can watch your favorite tv shows. It really easy to navigate what the user is looking for through easy-to-use filtering menu. Just choose language and the type of media user wants to stream, and the site will give all the reviews and information.</p>
+
             <div class="ps-container">
                 <h3>Solution</h3>
              <ul>
@@ -31,11 +27,6 @@
                 <li> interaction design</li>
             </ul>
             <div>
-            <!-- <ul class="main-text-list">
-            <li>Strategic Direction</li>
-            <li>UX</li>
-            <li>UI</li>
-            </ul> -->
             </div>
             </div>
             </div>
