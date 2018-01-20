@@ -387,19 +387,21 @@ a {
   background: #F6F6F6;
   border-top: 1px solid #dce0e5;
   border-bottom: 1px solid #dce0e5; }
-.fsm-container .styleguide-img, .fsm-container .img-container {
+.fsm-container .styleguide-img,
+.fsm-container .img-container {
   width: 48%; }
 .fsm-container .styleguide-img img {
-  width: 100%;
-  box-shadow: 1px 1px 6px 0px rgba(0, 0, 0, 0.2); }
+  width: 100%; }
 .fsm-container .sc-images p {
   margin-bottom: 20px;
   color: black;
   font-weight: 500; }
-.fsm-container .wireframe-container, .fsm-container .contentpart-container {
+.fsm-container .wireframe-container,
+.fsm-container .contentpart-container {
   display: flex;
   justify-content: space-around; }
-  .fsm-container .wireframe-container img, .fsm-container .contentpart-container img {
+  .fsm-container .wireframe-container img,
+  .fsm-container .contentpart-container img {
     width: 100%; }
 
 .aboutme-container .main-section {

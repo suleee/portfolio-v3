@@ -17,29 +17,28 @@
         border-top: 1px solid #dce0e5;
         border-bottom: 1px solid #dce0e5;
     }
-    .styleguide-img , .img-container{
+    .styleguide-img,
+    .img-container {
         width: 48%;
     }
-    .styleguide-img img {
-        width: 100%;
-        box-shadow: 1px 1px 6px 0px rgba(0, 0, 0 ,.2);
+    .styleguide-img{
+        img {
+            width: 100%;
+            // box-shadow: 1px 1px 6px 0px rgba(0, 0, 0, .2);
+        }
     }
+ 
     .sc-images p {
         margin-bottom: 20px;
         color: black;
         font-weight: 500;
     }
-  
-
-    .wireframe-container, .contentpart-container{
+    .wireframe-container,
+    .contentpart-container {
         display: flex;
         justify-content: space-around;
-       
-   
-        img{
+        img {
             width: 100%;
         }
-
     }
-
 }

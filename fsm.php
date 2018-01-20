@@ -24,7 +24,8 @@
              <ul>
                 <li>user experience design</li>
                 <li>user interface design</li> 
-                <li> interaction design</li>
+                <li>interaction design</li>
+                <li>branding design</li>
             </ul>
             <div>
             </div>
