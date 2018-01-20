@@ -15,7 +15,10 @@
     </footer>
 	<div class="sub-footer tooltip-top">
 		<a href="javascript:" id="return-to-top">
-        Jisu
+		<div class="gototop-container">
+		<div class=""><img src="img/demo-form-arrow-2.gif" class="top-img arrow" alt=""></div>
+		<!-- <div class=""><img src="img/j-w.png" class="top-img" alt=""></div> -->
+		</div>
 		</a>
 	</div>
 	

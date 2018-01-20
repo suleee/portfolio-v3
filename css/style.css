@@ -181,8 +181,15 @@ footer {
     padding-top: 16px; }
 
 .sub-footer {
+  display: flex;
+  justify-content: center;
   height: 130px;
   background-image: -webkit-linear-gradient(top, #2b323b 0, #2b323b 45%, #343c47 45%, #343c47 78%, #3d4652 78%, #3d4652 100%); }
+
+.gototop-container .top-img {
+  width: 50px; }
+.gototop-container .arrow {
+  transform: rotate(180deg); }
 
 small {
   font-weight: 300;
