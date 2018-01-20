@@ -1,19 +1,13 @@
-.e-commerce-container {
-    .e-commerce-topbanner {
-        background: linear-gradient(to bottom, rgba(0, 0, 0, 0.45) 50%, rgba(0, 0, 0, 0.45) 50%), url('../img/sc/sc-bg.jpg') no-repeat top;
+.fsm-container {
+    // .aloha-image {
+    //     text-align: center;
+    //     margin-bottom: 90px;
+    // }
+    .fsm-topbanner {
+        background: linear-gradient(to bottom, rgba(0, 0, 0, 0.45) 50%, rgba(0, 0, 0, 0.45) 50%), url('../img/aloha-img.png') no-repeat top;
         background-size: cover;
         height: 100vh;
     }
-    .sp-sub-title {
-        text-align: center;
-        padding-top: 200px;
-    }
-    .ws-section4 img {
-        margin-top: 64px;
-        text-align: center;
-        box-shadow: 1px 2px 7px 1px rgba(0, 0, 0, .25);
-    }
- 
     .styleguide-container {
         display: flex;
         justify-content: space-around;
@@ -47,10 +41,5 @@
         }
 
     }
-    .contentpart-container{
-        background: #F6F6F6;
-        border-top: 1px solid #dce0e5;
-        border-bottom: 1px solid #dce0e5;
-        padding: 80px 20px;
-    }
+
 }
