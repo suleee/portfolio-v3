@@ -4,8 +4,8 @@
 
 <section class="fsm-container">
 <div class="ws-section1 fsm-topbanner">
-            <h3>Portfolio</h3>
-            <div class="bar"></div>
+            <!-- <h3>Portfolio</h3>
+            <div class="bar"></div> -->
             <div class="sp-sub-title">
             <h6>Free To Stream App</h6>
             <div class="ws-lang"><p>Photoshop, Illustrator, InVision, Sketch</p></div>
