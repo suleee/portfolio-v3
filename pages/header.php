@@ -73,7 +73,7 @@
                 <li class="menu-hover"><a href="about-me.php">My Story</a>
             </ul>
             <div class="contact-container">
-                <a href="#" data-featherlight="popup.php?no=1 .main" data-featherlight-iframe-height="800px" data-featherlight-iframe-width="800px">Contact</a>
+                <a href="#" data-featherlight="popup.php?no=1 .main" data-featherlight-after-content="mail()" data-featherlight-iframe-height="800px" data-featherlight-iframe-width="800px">Contact</a>
             </div>
 </div>
         <!-- </div> -->

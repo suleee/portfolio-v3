@@ -1,16 +1,20 @@
-$(document).ready(function() {
+function mail() {
   var $form = $("#contact-form");
-  var $name = $form.find('[name="name"]');
-  var $email = $form.find('[name="email"]');
-  var $message = $form.find('[name="message"]');
   var $send = $form.find(".submit-btn");
-  $send.on("click", function() {
+  $send.on("click", function(e) {
+    e.preventDefault();
+
+    var $name = $form.find('[name="name"]').val();
+    var $email = $form.find('[name="email"]').val();
+    var $message = $form.find('[name="message"]').val();
     $.ajax({
       method: "POST",
-      url: "mail.php",
+      url: "pages/mail.php",
       data: { name: $name, email: $email, message: $message }
     }).done(function(msg) {
-      alert("Data Saved: " + msg);
+      $form.hide();
+      $('.thank-you').show();
     });
   });
-});
+  return false;
+}

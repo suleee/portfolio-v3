@@ -2,6 +2,8 @@
 <?php include( './pages/header.php' );?>
 
 <div class="main">
+    <!-- <script src="../js/popup.js"></script> -->
+
     <form method="post" id="contact-form">
         <p>
             Name: <input type="text" name="name">
@@ -13,10 +15,11 @@
             Message: <textarea name="message"></textarea>
         </p>
         <p>
-            <input type="button" class="submit-btn" value="Send!" />
+            <button class="submit-btn">Send!</button>
         </p>
-    </form>    
+    </form> 
+    <div class="thank-you">Thank you!</div>   
 </div>
 
-<script src="js/popup.js"></script>
+
 <?php include( './pages/footer.php' ); ?>

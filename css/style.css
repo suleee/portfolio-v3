@@ -812,6 +812,9 @@ h6 {
   .work-section .btn a, .works-container .btn a {
     color: black; }
 
+.thank-you {
+  display: none; }
+
 body {
   margin: 0;
   padding: 0;
