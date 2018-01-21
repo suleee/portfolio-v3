@@ -75,7 +75,45 @@ h6 {
     margin: 20px 0px;
 }
 
-
-.ws-section4 img{
+.ws-section4 img {
     width: 100%;
+}
+
+.secondrow-container {
+    padding: 80px 20px;
+    background: #F6F6F6;
+    border-top: 1px solid #dce0e5;
+    border-bottom: 1px solid #dce0e5;
+    @media all and (min-width: 600px) {
+        display: flex;
+        justify-content: space-around;
+        flex-wrap: wrap;
+    }
+}
+
+.secondrow-img,
+.img-container {
+    @media all and (min-width: 600px) {
+        width: 48%;
+    }
+}
+
+
+.secondrow-img img {
+    width: 100%;
+}
+
+.thirdrow-container {
+    @media all and (min-width: 600px) {
+        display: flex;
+        justify-content: space-around;
+    }
+    .thirdrow-img {
+        @media all and (min-width: 600px) {
+            width: 50%;
+        }
+    }
+    .thirdrow-img img {
+        width: 100%;
+    }
 }

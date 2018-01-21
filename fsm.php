@@ -35,15 +35,15 @@
 
 
     <!-- <div class="ws-section3 sc-images"> -->
-        <div class="styleguide-container">
-            <div class="styleguide-img"><img src="img/fsm/fsm-color.png" class="sc-map" alt=""></div>
-            <div class="styleguide-img"><img src="img/fsm/streamapp-image.png" class="sc-style" alt=""></div>
+        <div class="secondrow-container">
+            <div class="secondrow-img"><img src="img/fsm/fsm-color.png" class="sc-map" alt=""></div>
+            <div class="secondrow-img"><img src="img/fsm/streamapp-image.png" class="sc-style" alt=""></div>
             
         </div>
         
-        <div class="wireframe-container">
-            <div class="img-container"><img src="img/fsm/desktop.jpg"></div>
-            <div class="img-container"><img src="img/fsm/fsm-image02.png"></div>
+        <div class="thirdrow-container">
+            <div class="thirdrow-img"><img src="img/fsm/desktop.jpg"></div>
+            <div class="thirdrow-img"><img src="img/fsm/fsm-image02.png"></div>
         </div>
 
     

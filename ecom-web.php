@@ -43,20 +43,20 @@
 
 
     <!-- <div class="ws-section3 sc-images"> -->
-        <div class="styleguide-container">
-            <div class="styleguide-img"><img src="img/sc/sitemap.jpg" class="sc-map" alt=""></div>
-            <div class="styleguide-img"><img src="img/sc/style_guide.jpg" class="sc-style" alt=""></div>
+        <div class="secondrow-container">
+            <div class="secondrow-img"><img src="img/sc/sitemap.jpg" class="sc-map" alt=""></div>
+            <div class="secondrow-img"><img src="img/sc/style_guide.jpg" class="sc-style" alt=""></div>
             
         </div>
         
-        <div class="wireframe-container">
-            <div class="img-container"><img src="img/sc/wireframe-strongCurrent-login.jpg"></div>
-            <div class="img-container"><img src="img/sc/wireframe-strongCurrent-main.jpg"></div>
+        <div class="thirdrow-container">
+            <div class="thirdrow-img"><img src="img/sc/wireframe-strongCurrent-login.jpg"></div>
+            <div class="thirdrow-img"><img src="img/sc/wireframe-strongCurrent-main.jpg"></div>
         </div>
 
-        <div class="contentpart-container">
-            <div class="img-container"><img src="img/sc/sc-color.jpg"></div>
-            <div class="img-container"><img src="img/sc/sc-tablet.jpg"></div>
+        <div class="fourth-container">
+            <div class="fourth-img"><img src="img/sc/sc-color.jpg"></div>
+            <div class="fourth-img"><img src="img/sc/sc-tablet.jpg"></div>
         </div>
 
         <div class="ws-section4 sc-images">
