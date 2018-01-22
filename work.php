@@ -11,25 +11,26 @@
         </div>
             
             <div class="works-container">
-                    <div class="dp-thumb-con">
-                        <a class="btn03" href="ecom-web.php">
-                        <div class="thumb">
-                        <img src="img/sc/sc-imac.png" alt="strongcurrent-thumb">
-                        <h3 class="">E-commerce website</h3> 
-                        <p class="p-th-p"><span class="p-th-span">UI, UX</span></p>  
-                        </div>
-                        </a>
-                    </div>
-                
                 <div class="dp-thumb-con">
-                <a class="btn03" href="latale.php">
+                <a class="btn03" href="ecom-web.php">
                 <div class="thumb">
-                <img src="img/latale/latale-thumb.png" alt="latale-thumb">
-                <h3 class="">LaTale Migration page</h3> 
-                <p class="p-th-p"><span class="p-th-span">UI, UX, Web development</span></p>  
+                <img src="img/sc/sc-imac.png" alt="strongcurrent-thumb">
+                <h3 class="">E-commerce website</h3> 
+                <p class="p-th-p"><span class="p-th-span">UI, UX</span></p>  
                 </div>
                 </a>
                 </div>
+                
+                <div class="dp-thumb-con">        
+                <a class="btn03" href="fellow.php">
+                <div class="thumb">
+                <img src="img/fellow/fellow-thumb.png" alt="fellow-thumb">
+                <h3 class="">Fellow Pre-registration page</h3> 
+                <p class="p-th-p"><span class="p-th-span">UI, UX, Web Development</span></p>  
+                </div>
+                </a>
+                </div>
+
 
                 <div class="dp-thumb-con">
                 <a class="btn03" href="fsm.php">
@@ -41,12 +42,12 @@
                 </a>
                 </div>
 
-                <div class="dp-thumb-con">        
-                <a class="btn03" href="fellow.php">
-                    <div class="thumb">
-                    <img src="img/fellow/fellow-thumb.png" alt="fellow-thumb">
-                    <h3 class="">Fellow Pre-registration page</h3> 
-                    <p class="p-th-p"><span class="p-th-span">UI, UX, Web Development</span></p>  
+                <div class="dp-thumb-con">
+                <a class="btn03" href="latale.php">
+                <div class="thumb">
+                <img src="img/latale/latale-thumb.png" alt="latale-thumb">
+                <h3 class="">LaTale Migration page</h3> 
+                <p class="p-th-p"><span class="p-th-span">UI, UX, Web development</span></p>  
                 </div>
                 </a>
                 </div>

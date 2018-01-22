@@ -11,21 +11,41 @@
             <a href="about-me.php"><div class="m-btn btn02">Learn More</div></a>
             </div>
             </div>
-</div>
+        </div>
 
             <div class="works-container">
 
-            <div class="dp-thumb-con">
-            <a class="btn03" href="ecom-web.php">
-            <div>
-            <div class="thumb"><img src="img/sc/sc-imac.png" alt="work02"></div>
-            <h3 class="">E-commerce website</h3> 
-            <p class="p-th-p"><span class="p-th-span">UI, UX</span></p>   
-            </div>
-            </a>
-        </div>
+                <div class="dp-thumb-con">
+                <a class="btn03" href="ecom-web.php">
+                <div>
+                <div class="thumb"><img src="img/sc/sc-imac.png" alt="work02"></div>
+                <h3 class="">E-commerce website</h3> 
+                <p class="p-th-p"><span class="p-th-span">UI, UX</span></p>   
+                </div>
+                </a>
+                </div>
 
-        <div class="dp-thumb-con">
+                <div class="dp-thumb-con">        
+                <a class="btn03" href="fellow.php">
+                <div class="thumb">
+                <img src="img/fellow/fellow-thumb.png" alt="fellow-thumb">
+                <h3 class="">Fellow Pre-registration page</h3> 
+                <p class="p-th-p"><span class="p-th-span">UI, UX, Web Development</span></p>  
+                </div>
+                </a>
+                </div>
+
+                <div class="dp-thumb-con">
+                <a class="btn03" href="fsm.php">
+                <div class="thumb">
+                <img src="img/fsm/fsm-imac.png" alt="work02">
+                <h3 class="">Free TO Stream App Website</h3> 
+                <p class="p-th-p"><span class="p-th-span">UI, UX, web development</span></p>  
+                </div>
+                </a>
+                </div>
+
+                <div class="dp-thumb-con">
                 <a class="btn03" href="latale.php">
                 <div class="thumb">
                 <img src="img/latale/latale-thumb.png" alt="latale-thumb">
@@ -33,39 +53,19 @@
                 <p class="p-th-p"><span class="p-th-span">UI, UX, Web development</span></p>  
                 </div>
                 </a>
-        </div>
+                </div>
 
-        <div class="dp-thumb-con">
-        <a class="btn03" href="fsm.php">
-        <div class="thumb">
-        <img src="img/fsm/fsm-imac.png" alt="work02">
-        <h3 class="">Fellow Pre-registration page</h3> 
-        <p class="p-th-p"><span class="p-th-span">UI, UX, web development</span></p>  
-        </div>
-        </a>
-        </div>
+                <div class="dp-thumb-con">
+                <a class="btn03" href="aloha.php">
+                <div class="thumb">
+                <img src="img/aloha-imac.png" alt="work02">
+                <h3 class="">Aloha website</h3> 
+                <p class="p-th-p"><span class="p-th-span">UI, UX, Web Development</span></p>  
+                </div>
+                </a>
+                </div>
 
-        <div class="dp-thumb-con">        
-        <a class="btn03" href="fellow.php">
-        <div class="thumb">
-        <img src="img/fellow/fellow-thumb.png" alt="fellow-thumb">
-        <h3 class="">Aloha website</h3> 
-        <p class="p-th-p"><span class="p-th-span">UI, UX, Web Development</span></p>  
         </div>
-        </a>
-        </div>
-
-        <div class="dp-thumb-con">
-        <a class="btn03" href="aloha.php">
-        <div class="thumb">
-        <img src="img/aloha-imac.png" alt="work02">
-        <h3 class="">Aloha website</h3> 
-        <p class="p-th-p"><span class="p-th-span">UI, UX, Web Development</span></p>  
-        </div>
-        </a>
-        </div>
-
-</div>
 
 
 
