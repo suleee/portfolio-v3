@@ -30,7 +30,7 @@
 }
 
 .ws-section4 {
-    padding-top: 64px;
+
     text-align: center;
 }
 
@@ -89,8 +89,9 @@ h6 {
     width: 100%;
 }
 
-.secondrow-container {
-    padding: 60px 20px;
+.secondrow-container,
+.fourthrow-container {
+    // padding: 60px 20px;
     background: #F6F6F6;
     border-top: 1px solid #dce0e5;
     border-bottom: 1px solid #dce0e5;
@@ -119,10 +120,21 @@ h6 {
     }
     .thirdrow-img {
         @media all and (min-width: 600px) {
-            width: 50%;
+            width: 45%;
         }
     }
     .thirdrow-img img {
         width: 100%;
+    }
+}
+
+.secondrow-container,
+.thirdrow-container,
+.fourthrow-container,
+.fifthrow-contauner {
+    padding: 30px 0;
+    @media all and (min-width: 600px) {
+        margin: 0px auto;
+        padding: 60px 0;
     }
 }

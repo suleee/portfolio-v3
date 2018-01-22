@@ -47,10 +47,10 @@
                 <p>An extension of my love for design and problem solving, UX allows me to dictate the skeleton.</p>
             </div>
             <div class="skill-single-container">
-                <img src="img/icon03.png" alt="dev-skill-icon">
-                <h4>Game Web Product Design</h4>
-                <div class="pink-bar"></div>
-                <p>An extension of my love for design and problem solving, UX allows me to dictate the skeleton.</p>
+            <img src="img/icon01.png" alt="creative-skill-icon">
+            <h4>Game Web Product Design</h4>
+            <div class="pink-bar"></div>
+            <p>An extension of my love for design which is aesthetic and stunning</p>
             </div>
             <div class="skill-single-container">
                 <img src="img/icon03.png" alt="skill-icon">

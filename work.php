@@ -11,35 +11,47 @@
         </div>
             
             <div class="works-container">
-                    <div class="aloha">
+                    <div class="dp-thumb-con">
                         <a class="btn03" href="ecom-web.php">
                         <div class="thumb">
-                        <img src="img/sc/sc-imac.png" alt="work02">
+                        <img src="img/sc/sc-imac.png" alt="strongcurrent-thumb">
                         <h3 class="">E-commerce website</h3> 
                         <p class="p-th-p"><span class="p-th-span">UI, UX</span></p>  
                         </div>
                         </a>
                     </div>
- 
-                <div class="aloha">        
-                <a class="btn03" href="aloha.php">
-                    <div class="thumb">
-                    <img src="img/aloha-imac.png" alt="work02">
-                    <h3 class="">Aloha website</h3> 
-                    <p class="p-th-p"><span class="p-th-span">UI, UX, Web Development</span></p>  
+                
+                <div class="dp-thumb-con">
+                <a class="btn03" href="latale.php">
+                <div class="thumb">
+                <img src="img/latale/latale-thumb.png" alt="latale-thumb">
+                <h3 class="">LaTale Migration page</h3> 
+                <p class="p-th-p"><span class="p-th-span">UI, UX, Web development</span></p>  
                 </div>
                 </a>
                 </div>
-                <div class="aloha">
 
+                <div class="dp-thumb-con">
                 <a class="btn03" href="fsm.php">
                 <div class="thumb">
-                <img src="img/fsm/fsm-imac.png" alt="work02">
+                <img src="img/fsm/fsm-imac.png" alt="fsm-thumb">
                 <h3 class="">Free TO Stream App Website</h3> 
                 <p class="p-th-p"><span class="p-th-span">UI, UX</span></p>  
                 </div>
                 </a>
                 </div>
+
+                <div class="dp-thumb-con">        
+                <a class="btn03" href="aloha.php">
+                    <div class="thumb">
+                    <img src="img/aloha-imac.png" alt="aloha-thumb">
+                    <h3 class="">Aloha website</h3> 
+                    <p class="p-th-p"><span class="p-th-span">UI, UX, Web Development</span></p>  
+                </div>
+                </a>
+                </div>
+
+               
                 
             </div>
 

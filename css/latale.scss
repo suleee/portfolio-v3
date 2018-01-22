@@ -1,0 +1,22 @@
+
+.latle-container {
+    .latle-topbanner {
+        background: linear-gradient(to bottom, rgba(0, 0, 0, 0.6) 60%, rgba(0, 0, 0, 0.6) 60%), url('../img/latale/latle-mainbanner.jpg') no-repeat top;
+        background-size: cover;
+        height: 90vh;
+    }
+
+    .secondrow-img, .thirdrow-img, .fourthrow-img, .fifthrow-img{
+        width: 100%;
+        margin: 0 auto;
+        @media all and (min-width: 600px) {
+            width: 80%;
+        }
+        img{
+            width: 100%;
+        }
+    }
+//   .fifthrow-img, .thirdrow-container{
+//     margin: 60px auto;
+//   }
+}

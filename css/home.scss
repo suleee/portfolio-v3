@@ -138,7 +138,7 @@
                 max-width: 950px;
                 width: 100%;
             }
-            .aloha {
+            .dp-thumb-con {
                 display: inline-block;
                 position: relative;
                 margin: 0 10px 10px 30px;
@@ -163,11 +163,11 @@
         transition: all 0.3s;
     }
 
-    .aloha img {
+    .dp-thumb-con img {
         filter: brightness(95%);
         max-width: 100%;
     }
-    .aloha:hover img {
+    .dp-thumb-con:hover img {
         transform: scale(1.03);
         filter: brightness(100%);
     }

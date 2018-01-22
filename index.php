@@ -15,7 +15,7 @@
 
             <div class="works-container">
 
-            <div class="aloha">
+            <div class="dp-thumb-con">
             <a class="btn03" href="ecom-web.php">
             <div>
             <div class="thumb"><img src="img/sc/sc-imac.png" alt="work02"></div>
@@ -25,7 +25,27 @@
             </a>
         </div>
 
-        <div class="aloha">
+        <div class="dp-thumb-con">
+                <a class="btn03" href="latale.php">
+                <div class="thumb">
+                <img src="img/latale/latale-thumb.png" alt="latale-thumb">
+                <h3 class="">LaTale Migration page</h3> 
+                <p class="p-th-p"><span class="p-th-span">UI, UX, Web development</span></p>  
+                </div>
+                </a>
+        </div>
+
+        <div class="dp-thumb-con">
+        <a class="btn03" href="fsm.php">
+        <div class="thumb">
+        <img src="img/fsm/fsm-imac.png" alt="work02">
+        <h3 class="">Free TO Stream App Website</h3> 
+        <p class="p-th-p"><span class="p-th-span">UI, UX</span></p>  
+        </div>
+        </a>
+        </div>
+
+        <div class="dp-thumb-con">
         <a class="btn03" href="aloha.php">
         <div class="thumb">
         <img src="img/aloha-imac.png" alt="work02">
@@ -35,16 +55,6 @@
         </a>
         </div>
 
-        <div class="aloha">
-        <a class="btn03" href="fsm.php">
-        <div class="thumb">
-        <img src="img/fsm/fsm-imac.png" alt="work02">
-        <h3 class="">Free TO Stream App Website</h3> 
-        <p class="p-th-p"><span class="p-th-span">UI, UX</span></p>  
-        </div>
-        </a>
-        </div>
-      
 </div>
 
 
@@ -66,13 +76,13 @@
                     <img src="img/icon02.png" alt="dev-skill-icon">
                     <h4>UI/UX Design</h4>
                     <div class="pink-bar"></div>
-                    <p>An extension of my love for design and problem solving, UX allows me to dictate the skeleton.</p>
+                    <p>An extension of my love for and problem solving, UX allows me to dictate the skeleton.</p>
                 </div>
                 <div class="skill-single-container">
-                    <img src="img/icon03.png" alt="dev-skill-icon">
+                 <img src="img/icon01.png" alt="creative-skill-icon">
                     <h4>Game Web Product Design</h4>
                     <div class="pink-bar"></div>
-                    <p>An extension of my love for design and problem solving, UX allows me to dictate the skeleton.</p>
+                    <p>An extension of my love for design which is aesthetic and stunning</p>
                 </div>
                 <div class="skill-single-container">
                     <img src="img/icon03.png" alt="skill-icon">
