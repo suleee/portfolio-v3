@@ -838,9 +838,13 @@ h6 {
   .works-container .btn a {
     color: black; }
 
+.thank-you {
+  display: none; }
+
 .featherlight-content {
   width: 90%;
-  height: 350px; }
+  height: 400px;
+  max-height: 100%; }
   @media all and (min-width: 600px) {
     .featherlight-content {
       width: 50%; } }

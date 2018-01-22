@@ -1,10 +1,11 @@
-// .thank-you {
-//     display: none;
-// }
+.thank-you {
+    display: none;
+}
 
 .featherlight-content {
     width: 90%;
-    height: 350px;
+    height: 400px;
+    max-height: 100%;
     @media all and (min-width: 600px) {
         width: 50%;
     }
