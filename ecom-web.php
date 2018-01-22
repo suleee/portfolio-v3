@@ -56,7 +56,7 @@
 
         <div class="fourth-container">
             <div class="fourth-img"><img src="img/sc/sc-color.jpg"></div>
-            <div class="fourth-img"><img src="img/sc/sc-tablet.jpg"></div>
+            <div class="fourth-img"><img src="img/sc/sc-tablet.png"></div>
         </div>
 
         <div class="ws-section4 sc-images">
