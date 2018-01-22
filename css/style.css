@@ -553,9 +553,10 @@ h5 {
   background: linear-gradient(to bottom, rgba(0, 0, 0, 0.45) 50%, rgba(0, 0, 0, 0.45) 50%), url("../img/sc/sc-bg.jpg") no-repeat top;
   background-size: cover;
   height: 80vh; }
-.e-commerce-container .sp-sub-title {
-  text-align: center;
-  padding-top: 200px; }
+.e-commerce-container .sp-sub-title h6 {
+  margin: 0; }
+.e-commerce-container .sp-sub-title h6:nth-child(2) {
+  padding-bottom: 35px; }
 .e-commerce-container .ws-section4 img {
   margin-top: 64px;
   text-align: center;
@@ -613,8 +614,11 @@ h5 {
 
 h6 {
   margin: 35px 0;
-  font-size: 45px;
+  font-size: 39px;
   color: white; }
+  @media all and (min-width: 700px) {
+    h6 {
+      font-size: 45px; } }
 
 .ws-lang {
   border-radius: 3px;

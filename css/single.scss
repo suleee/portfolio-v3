@@ -40,8 +40,11 @@
 
 h6 {
     margin: 35px 0;
-    font-size: 45px;
+    font-size: 39px;
     color: white;
+    @media all and (min-width: 700px) {
+        font-size: 45px;
+    }
 }
 
 .ws-lang {
