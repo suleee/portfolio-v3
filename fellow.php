@@ -5,7 +5,7 @@
 <section class="fellow-container">
 <div class="ws-section1 fellow-topbanner">
             <div class="sp-sub-title">
-            <h6>Fellow App Game</h6>
+            <h6>Pre-registration page for Fellow App Game</h6>
             <div class="ws-lang"><p>Photoshop, InVision, Sketch, HTML, CSS, JS </p></div>
             </div>
             <div class="ws-btns">
