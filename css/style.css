@@ -708,6 +708,19 @@ h5 {
   .latle-container .secondrow-img img, .latle-container .thirdrow-img img, .latle-container .fourthrow-img img, .latle-container .fifthrow-img img {
     width: 100%; }
 
+.fellow-container .fellow-topbanner {
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.6) 60%, rgba(0, 0, 0, 0.6) 60%), url("../img/fellow/fellow-mainbanner.jpg") no-repeat top;
+  background-size: cover;
+  height: 90vh; }
+.fellow-container .secondrow-img, .fellow-container .thirdrow-img, .fellow-container .fourthrow-img, .fellow-container .fifthrow-img {
+  width: 100%;
+  margin: 0 auto; }
+  @media all and (min-width: 600px) {
+    .fellow-container .secondrow-img, .fellow-container .thirdrow-img, .fellow-container .fourthrow-img, .fellow-container .fifthrow-img {
+      width: 80%; } }
+  .fellow-container .secondrow-img img, .fellow-container .thirdrow-img img, .fellow-container .fourthrow-img img, .fellow-container .fifthrow-img img {
+    width: 100%; }
+
 .skill-section h3,
 .mainpage-container h3,
 .aboutme-container h3, .works-container h3 {

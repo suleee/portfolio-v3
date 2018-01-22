@@ -35,7 +35,7 @@
 
     <!-- <div class="ws-section3 sc-images"> -->
         <div class="secondrow-container">
-            <div class="secondrow-img"><img src="img/latale/latale-page01.png" class="sc-map" alt=""></div>
+            <div class="secondrow-img"><img src="img/latale/latale-page01.png" alt=""></div>
         </div>
         
         <div class="thirdrow-container">

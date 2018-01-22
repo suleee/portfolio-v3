@@ -39,8 +39,18 @@
         <a class="btn03" href="fsm.php">
         <div class="thumb">
         <img src="img/fsm/fsm-imac.png" alt="work02">
-        <h3 class="">Free TO Stream App Website</h3> 
-        <p class="p-th-p"><span class="p-th-span">UI, UX</span></p>  
+        <h3 class="">Fellow Pre-registration page</h3> 
+        <p class="p-th-p"><span class="p-th-span">UI, UX, web development</span></p>  
+        </div>
+        </a>
+        </div>
+
+        <div class="dp-thumb-con">        
+        <a class="btn03" href="fellow.php">
+        <div class="thumb">
+        <img src="img/fellow/fellow-thumb.png" alt="fellow-thumb">
+        <h3 class="">Aloha website</h3> 
+        <p class="p-th-p"><span class="p-th-span">UI, UX, Web Development</span></p>  
         </div>
         </a>
         </div>

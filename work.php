@@ -42,6 +42,16 @@
                 </div>
 
                 <div class="dp-thumb-con">        
+                <a class="btn03" href="fellow.php">
+                    <div class="thumb">
+                    <img src="img/fellow/fellow-thumb.png" alt="fellow-thumb">
+                    <h3 class="">Fellow Pre-registration page</h3> 
+                    <p class="p-th-p"><span class="p-th-span">UI, UX, Web Development</span></p>  
+                </div>
+                </a>
+                </div>
+
+                <div class="dp-thumb-con">        
                 <a class="btn03" href="aloha.php">
                     <div class="thumb">
                     <img src="img/aloha-imac.png" alt="aloha-thumb">
