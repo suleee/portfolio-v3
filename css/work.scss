@@ -1,4 +1,5 @@
-.work-section, .works-container {
+.work-section,
+.works-container {
     .main-section {
         text-align: center;
         line-height: 24px;
@@ -8,38 +9,39 @@
         background-attachment: fixed;
         background-size: cover;
     }
-    .main-text{
+    .main-text {
         padding: 140px 0 80px 0;
-          h1{
+        margin: 0 15px;
+        @media all and (min-width: 600px) {
+            margin: 0px;
+        }
+        h1 {
             max-width: 500px;
             font-size: 32px;
         }
     }
-    .p-th-span{
+    .p-th-span {
         color: grey;
-        font-style:  italic;
-      
+        font-style: italic;
     }
-    .p-th-p{
+    .p-th-p {
         margin: 10px 0;
     }
-    .aloha h3{
+    .aloha h3 {
         font-weight: 400;
         color: #3195C2;
         margin-top: 28px;
-
     }
-    .aloha:hover h3{
+    .aloha:hover h3 {
         transition: all .3s ease-in-out;
         color: #E0CB77;
-       }
-
-
-    .btn{
+    }
+    .btn {
         border: 1px solid grey;
         background: none;
         border-radius: 2px;
-        a{color: black;}
+        a {
+            color: black;
+        }
     }
 }
-

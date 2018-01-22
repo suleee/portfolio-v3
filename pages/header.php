@@ -46,6 +46,8 @@
                 <li class="menu-hover"><a href="web-project.php">Dev. Work</a>
                 <!-- <div class="menu-bar-hover" style="display:none"></div></li> -->
                 <li class="menu-hover"><a href="about-me.php">My Story</a></li>
+                <li class="">
+                <a href="#" data-featherlight="popup.php?no=1 .main" data-featherlight-after-content="mail()" data-featherlight-iframe-height="800px" data-featherlight-iframe-width="800px">Contact</a></li>
             </ul>
         </div>
         <!-- <div class="menu-logo-img ham-menu-logo">
