@@ -49,6 +49,21 @@
         <div class="fifthrow-container">
             <div class="fifthrow-img"><img src="img/latale/latale-signup.png"></div>
         </div>
+        <div class="sixthrow-container">
+            <div class="fifthrow-img"><img src="img/latale/latale-page02.jpg"></div>
+        </div>
+        <div class="sevnthrow-container">
+            <div class="fifthrow-img"><img src="img/latale/latale-page03.jpg"></div>
+        </div>
+
+        <div class="eighthrow-container bottom-info-container">
+            <div class="text-container">
+                <h3>More About this Project</h3>
+                <p>description</p>
+            </div>
+            <div class="image-container"><img src="img/latale/latale-workingFlow.jpg"></div>
+           
+        </div>
 
     
             <div class="btn"><a href="https://invis.io/SGCN2AVY5">view prototype</a></div>
