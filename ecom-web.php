@@ -59,10 +59,20 @@
             <div class="fourthrow-img"><img src="img/sc/sc-tablet.png"></div>
         </div>
 
-        <div class="ws-section4 sc-images">
-            <img src="img/sc/sc-full.jpg" alt="">
+        <div class="fifthrow-container">
+            <img src="img/sc/sc-mobile.jpg" alt="">
         </div>
-            <div class="btn"><a href="https://invis.io/SGCN2AVY5">view prototype</a></div>
+
+        <div class="ws-section4 sixthrow-container sc-images">
+            <img src="img/sc/sc-img03.png" alt="">
+        </div>
+
+
+
+        <!-- <div class="ws-section4 sc-images">
+            <img src="img/sc/sc-img03.jpg" alt="">
+        </div> -->
+           
             </section>
 <!-- footer -->
 <?php include( './pages/footer.php' ); ?>
