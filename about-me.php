@@ -8,10 +8,10 @@
         </div>
             
         <div class="des-me-section">
-                <div>
+                <div class="des-me-part">
                     <h3>Who I am </h3>
                     <div class="bar"></div>
-                </div>
+                
                 <div class="about-me">
                     <p>Hi, my name is Jisu Lee who is a passion for design and coding. 
                         I started out my career doing Web Graphic design in the game industry. 
@@ -21,11 +21,12 @@
                         When I'm not creating beautiful solutions, I enjoy running, hiking  and loving my beautiful Vancouver
                     </p>
                 </div>
+                </div>
 
-                <div>
+                <div class="des-me-part">
                     <h3>What I do </h3>
                     <div class="bar"></div>
-                </div>
+                
                 <div class="about-me">
                     <p>I specialize in Users. From Interfaces to Experiences 
                         my goal is to create things that just work. 
@@ -35,6 +36,7 @@
                         web application to make an impact with your website, or a 
                         small business that needs a full branding makeover, 
                         I would love to help you find the right solution that changes your game.</p>
+                </div>
                 </div>
          
         </div>

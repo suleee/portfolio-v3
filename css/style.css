@@ -340,7 +340,7 @@ a {
   .work-section .works-container .dp-thumb-con, .section05 .works-container .dp-thumb-con {
     display: inline-block;
     position: relative;
-    margin: 0 10px 10px 30px; }
+    margin: 0 10px 60px 30px; }
     @media all and (min-width: 600px) {
       .mainpage-container .works-container .dp-thumb-con,
       .work-section .works-container .dp-thumb-con, .section05 .works-container .dp-thumb-con {
@@ -532,6 +532,53 @@ h6 {
   .fsm-container .thirdrow-img {
     width: 45%; } }
 
+.skill-section h3,
+.mainpage-container h3,
+.aboutme-container h3, .works-container h3 {
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin: auto 0;
+  text-align: center; }
+.skill-section h4,
+.mainpage-container h4,
+.aboutme-container h4, .works-container h4 {
+  color: #272D35;
+  font-size: 20px;
+  font-weight: 700;
+  margin: 15px 0; }
+
+.skill-section {
+  background: #F6F6F6;
+  border-top: 1px solid #dce0e5;
+  border-bottom: 1px solid #dce0e5;
+  padding: 90px 0; }
+  .skill-section .skill-section02 {
+    text-align: center; }
+  .skill-section .skill-container {
+    padding-top: 35px;
+    max-width: 920px;
+    margin: 15px auto;
+    background: white; }
+    @media all and (min-width: 600px) {
+      .skill-section .skill-container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between; } }
+  .skill-section .skill-single-container {
+    width: 50%;
+    height: 270px;
+    text-align: center;
+    padding-top: 35px;
+    margin: 15px auto; }
+    @media all and (min-width: 600px) {
+      .skill-section .skill-single-container {
+        text-align: center; } }
+  .skill-section .skill-single-container p {
+    max-width: 260px;
+    line-height: 24px;
+    margin: auto; }
+
 .aboutme-container .main-section {
   text-align: center;
   line-height: 24px;
@@ -563,8 +610,7 @@ h5 {
 
 .about-me {
   max-width: 750px;
-  margin: 35px auto;
-  padding: 0 20px; }
+  margin: 20px auto; }
 
 .about-me p {
   line-height: 24px; }
@@ -641,6 +687,17 @@ h5 {
 
 .des-me-section {
   padding: 90px 0; }
+  @media all and (min-width: 600px) {
+    .des-me-section {
+      display: flex;
+      justify-content: space-between;
+      max-width: 920px;
+      margin: auto; } }
+  @media all and (min-width: 600px) {
+    .des-me-section .des-me-part {
+      width: 45%; } }
+  .des-me-section h3 {
+    text-align: left; }
 
 .am-skill-section {
   background: white;
@@ -692,8 +749,10 @@ h5 {
 .aboutme-container .bar {
   border-bottom: 2px solid black;
   width: 30px;
-  margin: 0 auto;
   padding-bottom: 10px; }
+
+.skill-section .bar, .ex-section .bar {
+  margin: 0 auto; }
 
 .e-commerce-container .e-commerce-topbanner {
   background: linear-gradient(to bottom, rgba(0, 0, 0, 0.45) 50%, rgba(0, 0, 0, 0.45) 50%), url("../img/sc/sc-bg.jpg") no-repeat top;
@@ -763,53 +822,6 @@ h5 {
       width: 80%; } }
   .fellow-container .secondrow-img img, .fellow-container .thirdrow-img img, .fellow-container .fourthrow-img img, .fellow-container .fifthrow-img img {
     width: 100%; }
-
-.skill-section h3,
-.mainpage-container h3,
-.aboutme-container h3, .works-container h3 {
-  font-size: 20px;
-  font-weight: 700;
-  text-transform: uppercase;
-  margin: auto 0;
-  text-align: center; }
-.skill-section h4,
-.mainpage-container h4,
-.aboutme-container h4, .works-container h4 {
-  color: #272D35;
-  font-size: 20px;
-  font-weight: 700;
-  margin: 15px 0; }
-
-.skill-section {
-  background: #F6F6F6;
-  border-top: 1px solid #dce0e5;
-  border-bottom: 1px solid #dce0e5;
-  padding: 90px 0; }
-  .skill-section .skill-section02 {
-    text-align: center; }
-  .skill-section .skill-container {
-    padding-top: 35px;
-    max-width: 920px;
-    margin: 15px auto;
-    background: white; }
-    @media all and (min-width: 600px) {
-      .skill-section .skill-container {
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: space-between; } }
-  .skill-section .skill-single-container {
-    width: 50%;
-    height: 270px;
-    text-align: center;
-    padding-top: 35px;
-    margin: 15px auto; }
-    @media all and (min-width: 600px) {
-      .skill-section .skill-single-container {
-        text-align: center; } }
-  .skill-section .skill-single-container p {
-    max-width: 260px;
-    line-height: 24px;
-    margin: auto; }
 
 .section05 .main-section {
   text-align: center;
