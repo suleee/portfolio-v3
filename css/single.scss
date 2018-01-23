@@ -126,11 +126,7 @@ h6 {
         display: flex;
         justify-content: space-around;
     }
-    .thirdrow-img {
-        @media all and (min-width: 600px) {
-            width: 45%;
-        }
-    }
+
     .thirdrow-img img {
         width: 100%;
     }

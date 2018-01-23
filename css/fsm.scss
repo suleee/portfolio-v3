@@ -12,4 +12,9 @@
     .thirdrow-container {
         padding-top: 50px;
     }
+    .thirdrow-img {
+        @media all and (min-width: 600px) {
+            width: 45%;
+        }
+    }
 }

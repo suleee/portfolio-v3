@@ -465,9 +465,6 @@ h6 {
   .thirdrow-container .max-width {
     display: flex;
     justify-content: space-around; } }
-@media all and (min-width: 600px) {
-  .thirdrow-container .max-width .thirdrow-img {
-    width: 45%; } }
 .thirdrow-container .max-width .thirdrow-img img {
   width: 100%; }
 
@@ -531,6 +528,9 @@ h6 {
   font-weight: 500; }
 .fsm-container .thirdrow-container {
   padding-top: 50px; }
+@media all and (min-width: 600px) {
+  .fsm-container .thirdrow-img {
+    width: 45%; } }
 
 .aboutme-container .main-section {
   text-align: center;
@@ -717,6 +717,9 @@ h5 {
 .e-commerce-container .thirdrow-container .max-width img, .e-commerce-container .fourthrow-container .max-width img {
   width: 100%; }
 @media all and (min-width: 600px) {
+  .e-commerce-container .thirdrow-img {
+    width: 45%; } }
+@media all and (min-width: 600px) {
   .e-commerce-container .fourthrow-img {
     width: 45%; } }
 .e-commerce-container .fifthrow-container img {
@@ -734,6 +737,8 @@ h5 {
       width: 80%; } }
   .latle-container .secondrow-img img, .latle-container .thirdrow-img img, .latle-container .fourthrow-img img, .latle-container .fifthrow-img img {
     width: 100%; }
+.latle-container .thirdrow-img {
+  width: 100%; }
 .latle-container .eighthrow-container {
   background: #F6F6F6;
   border-top: 1px solid #dce0e5;

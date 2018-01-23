@@ -53,6 +53,7 @@
         <div class="max-width">
             <div class="thirdrow-img"><img src="img/fellow/fellow-tablet.jpg" alt=""></div>
         </div>
+        </div>
 
         <div class="fourthrow-container">
         <div class="max-width">
