@@ -90,7 +90,7 @@
                 </div>
                 <div class="skill-single-container">
                  <img src="img/icon01.png" alt="creative-skill-icon">
-                    <h4>Game Web Product Design</h4>
+                    <h4>Web Product Design</h4>
                     <div class="pink-bar"></div>
                     <p>An extension of my love for design which is aesthetic and stunning</p>
                 </div>
