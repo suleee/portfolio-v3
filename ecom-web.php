@@ -74,7 +74,7 @@
 
         <div class="ws-section4 sixthrow-container sc-images">
         <div class="max-width">
-            <img src="img/sc/sc-img03.png" alt="">
+            <div><img src="img/sc/sc-img03.png" alt=""></div>
         </div>
         </div>
 
