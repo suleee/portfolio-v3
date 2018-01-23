@@ -52,7 +52,19 @@
         <div class="fourthrow-container">
             <div class="fourthrow-img"><img src="img/fellow/fellow-img01.jpg" alt=""></div>
         </div>
+        <div class="fifthrow-container">
+            <div class="fourthrow-img"><img src="img/fellow/fellow-img03.png" alt=""></div>
+        </div>
 
+        <div class="sixthrow-container">
+            <div class="bottom-info-container">
+            <div class="text-container">
+                <h3>More About this Project</h3>
+                <p>description</p>
+            </div>
+            <div class=""><p>description</p></div>
+            </div>
+        </div>
 
       </section>
 <!-- footer -->

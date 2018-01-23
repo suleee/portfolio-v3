@@ -56,13 +56,14 @@
             <div class="fifthrow-img"><img src="img/latale/latale-page03.jpg"></div>
         </div>
 
-        <div class="eighthrow-container bottom-info-container">
+        <div class="eighthrow-container">
+            <div class="bottom-info-container">
             <div class="text-container">
                 <h3>More About this Project</h3>
                 <p>description</p>
             </div>
-            <div class="image-container"><img src="img/latale/latale-workingFlow.jpg"></div>
-           
+            <div class="image-container"><img src="img/latale/latale-workingFlow.png"></div>
+            </div>
         </div>
 
     
