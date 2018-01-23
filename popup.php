@@ -17,6 +17,7 @@
         <p>
             <button class="submit-btn">Send!</button>
         </p>
+        <div class="please-fill-form" style="display:none">Please fill form</div>
     </form> 
     <!-- <div class="thank-you">Thank you!</div>    -->
         <div class="thank-you" id="email-thankyou">
