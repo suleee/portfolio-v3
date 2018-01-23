@@ -154,7 +154,7 @@
                         <li>Gather UX requirements from customer input, user research, and other sources. </li>
                         <li>Create storyboards and presentations of the user experience Mockups and wireframes.</li>
                         <li>Create Task flows, an information, wireframes and specifications with detailed design flows. Creating Interactive Prototypes is a plus.</li>
-                    </ul>
+                  
 
                         <h5> Clients</h5>
                         <p>Nexon, Disney, Marvel, MachineZone, Septeni Global, Nine Five, etc</p>
