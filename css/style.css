@@ -175,8 +175,12 @@ footer {
     margin: 0 10px; }
   footer .behance {
     background: #1769ff; }
+    footer .behance:hover {
+      background: #4083ff; }
   footer .linkedin {
     background: #0077b5; }
+    footer .linkedin:hover {
+      background: #0f9ddb; }
   footer .fa {
     padding-top: 16px; }
 

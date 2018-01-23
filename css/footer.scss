@@ -1,56 +1,65 @@
-footer {
-    background: #272D35;
-    padding: 20px 0;
-    min-height: 280px;
-    text-align: center;
-    color: #fff;
-    clear: both;
-    border-top: 1px solid #3d4652;
-    .f-sns-container {
+    footer {
+        background: #272D35;
+        padding: 20px 0;
+        min-height: 280px;
+        text-align: center;
+        color: #fff;
+        clear: both;
+        border-top: 1px solid #3d4652;
+        .f-sns-container {
+            display: flex;
+            margin: 0 auto;
+            justify-content: center;
+            margin-top: 60px;
+            margin-bottom: 40px;
+        }
+        .f-sns {
+            width: 50px;
+            height: 50px;
+            border-radius: 30px;
+            margin: 0 10px;
+        }
+        .behance {
+            background: #1769ff;
+            &:hover {
+                background: #4083ff;
+            }
+        }
+        .linkedin {
+            background: #0077b5;
+            &:hover {
+                background: #0f9ddb;
+            }
+        }
+        .fa {
+            padding-top: 16px;
+            // &:hover {
+            //     color: black;
+            // }
+        }
+    }
+
+    .sub-footer {
         display: flex;
-        margin: 0 auto;
         justify-content: center;
-        margin-top: 60px;
-        margin-bottom: 40px;
+        height: 130px;
+        background-image: -webkit-linear-gradient(top, #2b323b 0, #2b323b 45%, #343c47 45%, #343c47 78%, #3d4652 78%, #3d4652 100%);
     }
-    .f-sns {
-        width: 50px;
-        height: 50px;
-        border-radius: 30px;
-        margin: 0 10px;
-    }
-    .behance {
-        background: #1769ff;
-    }
-    .linkedin {
-        background: #0077b5;
-    }
-    .fa {
-        padding-top: 16px;
-    }
-}
 
-.sub-footer {
-    display: flex;
-    justify-content: center;
-    height: 130px;
-    background-image: -webkit-linear-gradient(top, #2b323b 0, #2b323b 45%, #343c47 45%, #343c47 78%, #3d4652 78%, #3d4652 100%);
-}
+    .gototop-container {
+        .top-img {
+            width: 30px;
+        }
+        .arrow {
+            transform: rotate(180deg);
+        }
+    }
 
-.gototop-container {
-    .top-img {
-        width: 30px;
+    small {
+        font-weight: 400;
+        font-size: 14px;
+        color: #758599;
+        span a {
+            color: #3195C2;
+        }
     }
-    .arrow{
-        transform: rotate(180deg);
-    }
-}
-
-small {
-    font-weight: 400;
-    font-size: 14px;
-    color: #758599;
-    span a {
-        color: #3195C2;
-    }
-}
