@@ -53,12 +53,7 @@
             <div class="fourthrow-img"><img src="img/fellow/fellow-img01.jpg" alt=""></div>
         </div>
 
-        <!-- <div class="fifthrow-container">
-            <div class="fifthrow-img"><img src="img/latale/latale-signup.png"></div>
-        </div> -->
 
-    
-            <div class="btn"><a href="https://invis.io/SGCN2AVY5">view prototype</a></div>
-            </section>
+      </section>
 <!-- footer -->
 <?php include( './pages/footer.php' ); ?>
