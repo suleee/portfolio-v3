@@ -20,12 +20,12 @@
         color: black;
         font-weight: 500;
     }
-    .fourthrow-container {
-        background: #F6F6F6;
-        border-top: 1px solid #dce0e5;
+
+    .thirdrow-container .max-width, .fourthrow-container .max-width{
         @media all and (min-width: 600px) {
             display: flex;
             justify-content: space-around;
+            margin: 0 auto;
         }
         img {
             width: 100%;

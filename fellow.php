@@ -10,9 +10,10 @@
             </div>
             <div class="ws-btns">
             </div>
-</div>
+            </div>
 
             <div class="ws-section2">
+            <div class="max-width">
             <div class="section2-thumb"><img src="img/fellow/fellow-thumb.png"></div>
             <div class="section2-text">
             <p>Pre-registration page for Fellow App Game</p>
@@ -31,10 +32,12 @@
             </div>
             </div>
             </div>
+            </div>
 
 
     <!-- <div class="ws-section3 sc-images"> -->
         <div class="secondrow-container">
+        <div class="max-width">
             <div class="secondrow-img"><img src="img/fellow/fellow-img02.png" class="" alt=""></div>
             
             <div>
@@ -44,19 +47,27 @@
             <div><img src="img/fellow/button03.gif"></div>
             </div>
         </div>
+        </div>
         
         <div class="thirdrow-container">
+        <div class="max-width">
             <div class="thirdrow-img"><img src="img/fellow/fellow-tablet.jpg" alt=""></div>
         </div>
 
         <div class="fourthrow-container">
+        <div class="max-width">
             <div class="fourthrow-img"><img src="img/fellow/fellow-img01.jpg" alt=""></div>
         </div>
+        </div>
+
         <div class="fifthrow-container">
+        <div class="max-width">
             <div class="fourthrow-img"><img src="img/fellow/fellow-img03.png" alt=""></div>
+        </div>
         </div>
 
         <div class="sixthrow-container">
+            
             <div class="bottom-info-container">
             <div class="text-container">
                 <h3>More About this Project</h3>

@@ -13,6 +13,7 @@
 </div>
 
             <div class="ws-section2">
+            <div class="max-width">
             <div class="section2-thumb"><img src="img/latale/latale-thumb.png"></div>
             <div class="section2-text">
             <p>Papaya game request to create migration page which helps the users safely transfer their account to the new game publisher company.</p>
@@ -31,29 +32,44 @@
             </div>
             </div>
             </div>
+            </div>
 
 
     <!-- <div class="ws-section3 sc-images"> -->
         <div class="secondrow-container">
+        <div class="max-width">
             <div class="secondrow-img"><img src="img/latale/latale-page01.png" alt=""></div>
+        </div>
         </div>
         
         <div class="thirdrow-container">
+        <div class="max-width">
             <div class="thirdrow-img"><img src="img/latale/latale-tablet.jpg"></div>
+        </div>
         </div>
 
         <div class="fourthrow-container">
+        <div class="max-width">
             <div class="fourthrow-img"><img src="img/latale/latale-popup.png"></div>
+        </div>
         </div>
 
         <div class="fifthrow-container">
+        <div class="max-width">
             <div class="fifthrow-img"><img src="img/latale/latale-signup.png"></div>
         </div>
+        </div>
+
         <div class="sixthrow-container">
+        <div class="max-width">
             <div class="fifthrow-img"><img src="img/latale/latale-page02.jpg"></div>
         </div>
+        </div>
+
         <div class="sevnthrow-container">
+        <div class="max-width">
             <div class="fifthrow-img"><img src="img/latale/latale-page03.jpg"></div>
+        </div>
         </div>
 
         <div class="eighthrow-container">
