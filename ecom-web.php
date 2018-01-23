@@ -68,7 +68,7 @@
 
         <div class="fifthrow-container">
         <div class="max-width">
-            <img src="img/sc/sc-mobile.jpg" alt="">
+            <div><img src="img/sc/sc-mobile.jpg" alt=""></div>
         </div>
         </div>
 
