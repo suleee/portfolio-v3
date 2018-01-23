@@ -67,11 +67,15 @@
             <img src="img/sc/sc-img03.png" alt="">
         </div>
 
-
-
-        <!-- <div class="ws-section4 sc-images">
-            <img src="img/sc/sc-img03.jpg" alt="">
-        </div> -->
+        <div class="sevnthrow-container">
+            <div class="bottom-info-container">
+            <div class="text-container">
+                <h3>More About this Project</h3>
+                <p>description</p>
+            </div>
+            <div class=""><p>description</p></div>
+            </div>
+        </div>
            
             </section>
 <!-- footer -->
