@@ -16,11 +16,5 @@
     }
     .secondrow-list-par{
         padding: 0 10px 0 35px;
-        @media all and (min-width: 600px) {
-            padding: 0 0px 0 35px;  
-        }
-        li{
-            line-height: 30px;
-        }
     }
 }
