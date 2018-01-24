@@ -16,7 +16,8 @@
             <div class="max-width">
             <div class="section2-thumb"><img src="img/cha/cha-thumb.png"></div>
             <div class="section2-text">
-            <p>ChakraSole product order page design</p>
+            <p>ChakraSole  product order page design. ChakraSole is used to message the feet while walk. It is a reflexology treatment in shoes
+               </p>
 
             <div class="ps-container">
                 <h3>Solution</h3>
