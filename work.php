@@ -72,7 +72,25 @@
                 </a>
                 </div>
 
-               
+                <div class="dp-thumb-con">
+                <a class="btn03" href="war.php">
+                <div class="thumb">
+                <img src="img/war/war-thumb.png" alt="work02">
+                <h3 class="">War Rock Landing page</h3> 
+                <p class="p-th-p"><span class="p-th-span">UI, UX, Graphic design</span></p>  
+                </div>
+                </a>
+                </div>
+
+                <div class="dp-thumb-con">
+                <a class="btn03" href="disney.php">
+                <div class="thumb">
+                <img src="img/disney/d-thumb.png" alt="work02">
+                <h3 class="">Disney Magical Dice Social network Ad</h3> 
+                <p class="p-th-p"><span class="p-th-span">Graphic design, Marketing strategy</span></p>  
+                </div>
+                </a>
+                </div>
                 
             </div>
 

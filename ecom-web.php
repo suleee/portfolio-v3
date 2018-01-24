@@ -78,7 +78,7 @@
         </div>
         </div>
 
-        <div class="sevnthrow-container">
+        <div class="seventhrow-container">
         <div class="max-width">
             <div class="bottom-info-container">
             <div class="text-container">
