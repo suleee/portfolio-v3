@@ -74,7 +74,7 @@
 
         <div class="eighthrow-container">
         <div class="max-width">
-        <div class="bottom-info-container">
+            <div class="bottom-info-container">
             <div class="text-container">
             <h3>More About this Project</h3>
             <p>FPapaya game request to create migration page which helps the users safely 
@@ -86,6 +86,8 @@
             <div class="text-container text-container-right">
             <div class="image-container"><img src="img/latale/latale-workingFlow.png"></div>
             </div>
+            </div>
+        </div>
         </div>
 
         <div class="seventhrow-container">

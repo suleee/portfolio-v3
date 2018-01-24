@@ -528,6 +528,11 @@ h6 {
   padding: 50px 80px; }
 .aloha-container .secondrow-list-par {
   padding: 0 10px 0 35px; }
+  @media all and (min-width: 600px) {
+    .aloha-container .secondrow-list-par {
+      padding: 0 0px 0 35px; } }
+  .aloha-container .secondrow-list-par li {
+    line-height: 30px; }
 
 .fsm-container .fsm-topbanner {
   background: linear-gradient(to bottom, rgba(0, 0, 0, 0.6) 60%, rgba(0, 0, 0, 0.6) 60%), url("../img/fsm/fsm-top03.jpg") no-repeat top;

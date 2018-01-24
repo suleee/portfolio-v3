@@ -46,14 +46,23 @@
 
             <div class="ws-section4 thirdrow-container">
             <div class="max-width">
-            <div class="aloha-image"><img src="img/aloha-img1.png" alt=""></div>
-            <div>
-            <div class="ws-btns">
-            <div class="btn"><a href="https://suleee.github.io/Aloha-Responsive-Website/">view the site</a></div>
-            <div class="btn"><a href="https://github.com/suleee/Aloha-Responsive-Website"><i class="fa fa-github" aria-hidden="true"></i> view the code</a></div>
+                <div class="aloha-image"><img src="img/aloha-img1.png" alt=""></div>
+                <div>
+                <div class="ws-btns">
+                    <div class="btn"><a href="https://suleee.github.io/Aloha-Responsive-Website/">view the site</a></div>
+                     <div class="btn"><a href="https://github.com/suleee/Aloha-Responsive-Website"><i class="fa fa-github" aria-hidden="true"></i> view the code</a></div>
+                </div>
+                 </div>
+            </div>
+            </div>
+            
+            <div class="fourthrow-container">
+            <div class="max-width">
+            <div class="forward">forward</div>
+            <div class="back">back</div>
             </div>
             </div>
 
-            </section>
-            <!-- footer -->
-            <?php include( './pages/footer.php' ); ?>
+</section>
+<!-- footer -->
+<?php include( './pages/footer.php' ); ?>
