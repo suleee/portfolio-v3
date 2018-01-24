@@ -198,7 +198,9 @@ footer {
 small {
   font-weight: 400;
   font-size: 14px;
-  color: #758599; }
+  color: #758599;
+  padding: 0 10px;
+  line-height: 20px; }
   small span a {
     color: #3195C2; }
 
@@ -507,6 +509,9 @@ h6 {
 .max-width {
   max-width: 920px; }
 
+.bottom-info-container {
+  padding: 0 10px; }
+
 .aloha-container .aloha-image {
   text-align: center;
   margin-bottom: 90px; }
@@ -519,6 +524,8 @@ h6 {
   border-top: 1px solid #dce0e5;
   border-bottom: 1px solid #dce0e5;
   padding: 50px 80px; }
+.aloha-container .secondrow-list-par {
+  padding: 0 10px 0 35px; }
 
 .fsm-container .fsm-topbanner {
   background: linear-gradient(to bottom, rgba(0, 0, 0, 0.6) 60%, rgba(0, 0, 0, 0.6) 60%), url("../img/fsm/fsm-top03.jpg") no-repeat top;
@@ -542,10 +549,18 @@ h6 {
 .cha-container .fifthrow-container img,
 .cha-container .fourthrow-img img {
   width: 100%; }
-.cha-container .secondrow-container img, .cha-container .thirdrow-container img, .cha-container .fourthrow-container img, .cha-container .fifthrow-container img {
+.cha-container .secondrow-container img,
+.cha-container .thirdrow-container img,
+.cha-container .fourthrow-container img,
+.cha-container .fifthrow-container img {
   box-shadow: 1px 1px 8px 1px rgba(0, 0, 0, 0.15); }
-.cha-container .text-container {
-  width: 40%; }
+.cha-container .bottom-info-container .text-container {
+  padding: 0 10px; }
+  @media all and (min-width: 600px) {
+    .cha-container .bottom-info-container .text-container {
+      width: 40%; } }
+.cha-container .bottom-info-container .image-container {
+  margin: 20px 0; }
 
 .skill-section h3,
 .mainpage-container h3,
@@ -836,6 +851,10 @@ h5 {
     .fellow-container .secondrow-img, .fellow-container .thirdrow-img, .fellow-container .fourthrow-img, .fellow-container .fifthrow-img {
       width: 80%; } }
   .fellow-container .secondrow-img img, .fellow-container .thirdrow-img img, .fellow-container .fourthrow-img img, .fellow-container .fifthrow-img img {
+    width: 100%; }
+.fellow-container .fellow-gif {
+  min-width: 260px; }
+  .fellow-container .fellow-gif img {
     width: 100%; }
 
 .section05 .main-section {

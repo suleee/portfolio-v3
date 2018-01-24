@@ -1,19 +1,29 @@
 .cha-container {
-    .cha-topbanner{
+    .cha-topbanner {
         background: linear-gradient(to bottom, rgba(0, 0, 0, 0.6) 70%, rgba(0, 0, 0, 0.6) 70%), url('../img/cha/cha-main-banner1.jpg') no-repeat top;
         background-size: cover;
         height: 80vh;
     }
-    .secondrow-img, 
+    .secondrow-img,
     .fifthrow-container img,
     .fourthrow-img img {
         width: 100%;
     }
-
-    .secondrow-container img, .thirdrow-container img, .fourthrow-container img, .fifthrow-container img {
-        box-shadow: 1px 1px 8px 1px rgba(0,0,0,.15)
+    .secondrow-container img,
+    .thirdrow-container img,
+    .fourthrow-container img,
+    .fifthrow-container img {
+        box-shadow: 1px 1px 8px 1px rgba(0, 0, 0, .15)
     }
-    .text-container{
-        width: 40%;
+    .bottom-info-container{
+        .text-container {
+        padding: 0 10px;
+        @media all and (min-width: 600px) {
+            width: 40%;
+        }
     }
+    .image-container{
+        margin: 20px 0;
+    }
+}
 }

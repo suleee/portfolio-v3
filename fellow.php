@@ -40,11 +40,11 @@
         <div class="max-width">
             <div class="secondrow-img"><img src="img/fellow/fellow-img02.png" class="" alt=""></div>
             
-            <div>
+            <div class="video-container">
             <!-- <div><video autoplay muted loop class="">
             <source src="video/fellow-teaser-topbanner02-merge_1.mp4" type="video/mp4">
             </video></div> -->
-            <div><img src="img/fellow/button03.gif"></div>
+            <div class="fellow-gif"><img src="img/fellow/button03.gif"></div>
             </div>
         </div>
         </div>

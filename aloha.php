@@ -34,7 +34,7 @@
 
             <div class="secondrow-container">
             <div class="max-width">
-            <ul>
+            <ul class="secondrow-list-par">
             <li>Responsive (optimize the website for the three screen sizes: mobile, tablet, desktop)</li>
             <li>Use the HTML5 doctype and semantic HTML5 markup</li>
             <li>Pushed to GitHub</li>
