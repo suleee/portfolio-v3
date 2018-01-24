@@ -535,7 +535,7 @@ h6 {
     width: 45%; } }
 
 .cha-container .cha-topbanner {
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.45) 50%, rgba(0, 0, 0, 0.45) 50%), url("../img/cha/cha-main-banner1.jpg") no-repeat top;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.6) 70%, rgba(0, 0, 0, 0.6) 70%), url("../img/cha/cha-main-banner1.jpg") no-repeat top;
   background-size: cover;
   height: 80vh; }
 .cha-container .secondrow-img,
