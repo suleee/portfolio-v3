@@ -102,7 +102,7 @@
         </div>
 
         <div class="ninethrow-container">
-        <div class="max-width">
+        <div class="max-width fb-flexbox">
             <div class="forward">forward</div>
             <div class="back">back</div>
         </div>

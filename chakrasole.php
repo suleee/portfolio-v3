@@ -74,16 +74,22 @@
                 strategy and consumer’s point of view are really important to increase the conversion 
                 rate and get people’s interest. 
                  </p>
+                 <ul>
+                    <li>Order page</li>
+                    <li>Mini-popup</li>
+                    <li>Upsell page: <span>show another related product with a special price to induce/lead to purchase another product.</span></li>
+                    <li>Contact form</li>
+                </ul>
             </div>
             <div class="text-container text-container-right">
-            <div class="image-container"><img src="img/cha/cha-img05.jpg"></div>
+            <div class="image-container"><img src="img/cha/cha-img06.jpg"></div>
             </div>
         </div>
         </div>
         </div>
 
         <div class="seventhrow-container">
-        <div class="max-width">
+        <div class="max-width fb-flexbox">
             <div class="forward">forward</div>
             <div class="back">back</div>
         </div>

@@ -77,7 +77,7 @@
         <div class="bottom-info-container">
             <div class="text-container">
             <h3>More About this Project</h3>
-            <p>FPapaya game request to create migration page which helps the users safely 
+            <p>Papaya Game Inc. request to create migration page which helps the users safely 
                 transfer their account to the new game publishing company. The final product 
                 (my design & framework) were developed into a responsive website for viewing 
                 on desktop, mobile or tablet devices.
@@ -87,9 +87,11 @@
             <div class="image-container"><img src="img/latale/latale-workingFlow.png"></div>
             </div>
         </div>
+        </div>
+        </div>
 
         <div class="seventhrow-container">
-        <div class="max-width">
+        <div class="max-width fb-flexbox">
             <div class="forward">forward</div>
             <div class="back">back</div>
         </div>

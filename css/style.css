@@ -511,12 +511,16 @@ h6 {
     .bottom-info-container .text-container-right {
       padding-top: 35px; } }
 
+.fb-flexbox {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 20px; }
+
 .max-width {
   max-width: 920px; }
 
 .aloha-container .aloha-image {
-  text-align: center;
-  margin-bottom: 90px; }
+  text-align: center; }
 .aloha-container .aloha-conatiner {
   background: linear-gradient(to bottom, rgba(0, 0, 0, 0.45) 50%, rgba(0, 0, 0, 0.45) 50%), url("../img/aloha-img.png") no-repeat top;
   background-size: cover;
@@ -528,6 +532,11 @@ h6 {
   padding: 50px 80px; }
 .aloha-container .secondrow-list-par {
   padding: 0 10px 0 35px; }
+  @media all and (min-width: 600px) {
+    .aloha-container .secondrow-list-par {
+      padding: 0 0px 0 35px; } }
+  .aloha-container .secondrow-list-par li {
+    line-height: 30px; }
 
 .fsm-container .fsm-topbanner {
   background: linear-gradient(to bottom, rgba(0, 0, 0, 0.6) 60%, rgba(0, 0, 0, 0.6) 60%), url("../img/fsm/fsm-top03.jpg") no-repeat top;
@@ -556,6 +565,13 @@ h6 {
 .cha-container .fourthrow-container img,
 .cha-container .fifthrow-container img {
   box-shadow: 1px 1px 8px 1px rgba(0, 0, 0, 0.15); }
+.cha-container .bottom-info-container .text-container ul {
+  padding-left: 20px;
+  margin-top: 20px;
+  line-height: 28px; }
+  .cha-container .bottom-info-container .text-container ul span {
+    font-style: italic;
+    color: grey; }
 .cha-container .bottom-info-container .image-container {
   margin: 20px 0; }
   @media all and (min-width: 600px) {
