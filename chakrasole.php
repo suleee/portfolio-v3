@@ -16,7 +16,7 @@
             <div class="max-width">
             <div class="section2-thumb"><img src="img/cha/cha-thumb.png"></div>
             <div class="section2-text">
-            <p>Pre-registration page for Fellow App Game</p>
+            <p>ChakraSole product order page design</p>
 
             <div class="ps-container">
                 <h3>Solution</h3>
