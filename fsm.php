@@ -51,8 +51,13 @@
         </div>
         </div>
 
-    
-            <div class="btn"><a href="https://invis.io/SGCN2AVY5">view prototype</a></div>
-            </section>
+        <div class="fourthrow-container">
+        <div class="max-width">
+            <div class="forward">forward</div>
+            <div class="back">back</div>
+        </div>
+        </div>
+
+</section>
 <!-- footer -->
 <?php include( './pages/footer.php' ); ?>

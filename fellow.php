@@ -68,14 +68,31 @@
         </div>
 
         <div class="sixthrow-container">
-            
-            <div class="bottom-info-container">
+        <div class="max-width">
+        <div class="bottom-info-container">
             <div class="text-container">
-                <h3>More About this Project</h3>
-                <p>description</p>
+            <h3>More About this Project</h3>
+            <p>Fellow which is MMORPG mobile game is going to be launch in North America Area. 
+                Accordingly, my client wants to make a teaser site that people can do pre-register 
+                and get prizes before they start the game. This project is a simple one-page design, 
+                but it contains much information by using tabs and sides function. The graphic 
+                elements on the page, have been designed based on the game style. 
+                 </p>
             </div>
-            <div class=""><p>description</p></div>
+            <div class="text-container text-container-right">
+                <p>To make the game more attractive and interactive, I use the video file on top of the page.
+                I got to get my hands dirty designing the whole look and feel and coding the front end in HTML, 
+                CSS, and jQuery. All work was done on a tight timeline while working.</p>
             </div>
+        </div>
+        </div>
+        </div>
+
+        <div class="seventhrow-container">
+        <div class="max-width">
+            <div class="forward">forward</div>
+            <div class="back">back</div>
+        </div>
         </div>
 
       </section>

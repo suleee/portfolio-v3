@@ -47,16 +47,15 @@
         </div>
         </div>
 
-        <div class="fourthrow-container">
+        <!-- <div class="fourthrow-container">
       
         </div>
 
         <div class="fifthrow-container">
       
-        </div>
+        </div> -->
 
         <div class="sixthrow-container">
-            
             <div class="bottom-info-container">
             <div class="text-container">
                 <h3>More About this Project</h3>
@@ -64,6 +63,13 @@
             </div>
             <div class=""><p>description</p></div>
             </div>
+        </div>
+
+        <div class="seventhrow-container">
+        <div class="max-width">
+            <div class="forward">forward</div>
+            <div class="back">back</div>
+        </div>
         </div>
 
       </section>

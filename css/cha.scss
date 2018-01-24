@@ -15,15 +15,16 @@
     .fifthrow-container img {
         box-shadow: 1px 1px 8px 1px rgba(0, 0, 0, .15)
     }
-    .bottom-info-container{
-        .text-container {
-        padding: 0 10px;
-        @media all and (min-width: 600px) {
-            width: 40%;
+    .bottom-info-container {
+        .image-container {
+            margin: 20px 0;
+            @media all and (min-width: 600px) {
+                margin: 0px 0;
+            }
+            img{
+                width: 100%;
+               
+            }
         }
     }
-    .image-container{
-        margin: 20px 0;
-    }
-}
 }

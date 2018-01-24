@@ -24,4 +24,17 @@
         border-top: 1px solid #dce0e5;
         border-bottom: 1px solid #dce0e5;
     }
+
+    .bottom-info-container {
+        .image-container {
+            margin: 20px 0;
+            @media all and (min-width: 600px) {
+                margin: 0px 0;
+            }
+            img{
+                width: 100%;
+               
+            }
+        }
+    }
 }

@@ -66,24 +66,36 @@
         </div>
         </div>
 
-        <div class="sevnthrow-container">
+        <div class="seventhrow-container">
         <div class="max-width">
             <div class="fifthrow-img"><img src="img/latale/latale-page03.jpg"></div>
         </div>
         </div>
 
         <div class="eighthrow-container">
-            <div class="bottom-info-container">
+        <div class="max-width">
+        <div class="bottom-info-container">
             <div class="text-container">
-                <h3>More About this Project</h3>
-                <p>description</p>
+            <h3>More About this Project</h3>
+            <p>FPapaya game request to create migration page which helps the users safely 
+                transfer their account to the new game publishing company. The final product 
+                (my design & framework) were developed into a responsive website for viewing 
+                on desktop, mobile or tablet devices.
+                 </p>
             </div>
+            <div class="text-container text-container-right">
             <div class="image-container"><img src="img/latale/latale-workingFlow.png"></div>
             </div>
         </div>
 
-    
-            <div class="btn"><a href="https://invis.io/SGCN2AVY5">view prototype</a></div>
-            </section>
+        <div class="seventhrow-container">
+        <div class="max-width">
+            <div class="forward">forward</div>
+            <div class="back">back</div>
+        </div>
+        </div>
+
+ 
+    </section>
 <!-- footer -->
 <?php include( './pages/footer.php' ); ?>
