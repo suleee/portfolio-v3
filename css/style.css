@@ -493,6 +493,8 @@ h6 {
     .bottom-info-container {
       display: flex;
       width: 100%; } }
+  .bottom-info-container .text-container h3 {
+    margin-bottom: 20px; }
   @media all and (min-width: 600px) {
     .bottom-info-container .text-container {
       width: 50%; } }
@@ -542,6 +544,8 @@ h6 {
   width: 100%; }
 .cha-container .secondrow-container img, .cha-container .thirdrow-container img, .cha-container .fourthrow-container img, .cha-container .fifthrow-container img {
   box-shadow: 1px 1px 8px 1px rgba(0, 0, 0, 0.15); }
+.cha-container .text-container {
+  width: 40%; }
 
 .skill-section h3,
 .mainpage-container h3,

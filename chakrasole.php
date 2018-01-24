@@ -16,7 +16,7 @@
             <div class="max-width">
             <div class="section2-thumb"><img src="img/cha/cha-thumb.png"></div>
             <div class="section2-text">
-            <p>ChakraSole  product order page design. ChakraSole is used to message the feet while walk. It is a reflexology treatment in shoes
+            <p>ChakraSole feet message product order page design. ChakraSole is used to message the feet while walk. It is a reflexology treatment in shoes
                </p>
 
             <div class="ps-container">
@@ -62,9 +62,10 @@
             <div class="bottom-info-container">
             <div class="text-container">
                 <h3>More About this Project</h3>
-                <p>description</p>
+                <p>ChakraSole feet message product order page design. ChakraSole is used to message the feet while walk. It is a reflexology treatment in shoes
+               </p>
             </div>
-            <div class=""><p>description</p></div>
+            <div class="image-container"><img src="img/cha/cha-img05.jpg"></div>
             </div>
         </div>
 
