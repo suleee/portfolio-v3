@@ -371,6 +371,7 @@ a {
 @media all and (min-width: 600px) {
   .ws-section2 .max-width {
     display: flex;
+    justify-content: center;
     flex-wrap: wrap;
     margin: 0 auto; } }
 

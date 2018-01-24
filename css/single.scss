@@ -1,6 +1,7 @@
     .ws-section2 .max-width {
         @media all and (min-width: 600px) {
             display: flex;
+            justify-content: center;
             flex-wrap: wrap;
             margin: 0 auto;
         }
