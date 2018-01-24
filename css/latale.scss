@@ -5,6 +5,13 @@
         background-size: cover;
         height: 90vh;
     }
+    .secondrow-container img,
+    .fourthrow-container img,
+    .fifthrow-container img,
+    .sixthrow-container img,
+    .seventhrow-container img  {
+        @include box-shadow;
+    }
 
     .secondrow-img, .thirdrow-img, .fourthrow-img, .fifthrow-img{
         width: 100%;

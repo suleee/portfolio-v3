@@ -79,7 +79,7 @@
                 <a class="btn03" href="war.php">
                 <div class="thumb">
                 <img src="img/war/war-thumb.png" alt="work02">
-                <h3 class="">War Rock Landing page</h3> 
+                <h3 class="">War Rock Signup page</h3> 
                 <p class="p-th-p"><span class="p-th-span">UI, UX, Graphic design</span></p>  
                 </div>
                 </a>

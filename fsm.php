@@ -21,12 +21,12 @@
             <p>Free to Stream App is the online directory that you can watch your favorite tv shows. It really easy to navigate what the user is looking for through easy-to-use filtering menu. Just choose language and the type of media user wants to stream, and the site will give all the reviews and information.</p>
 
             <div class="ps-container">
-                <h3>Solution</h3>
+                <!-- <h3>Solution</h3> -->
              <ul>
-                <li>user experience design</li>
-                <li>user interface design</li> 
-                <li>interaction design</li>
-                <li>branding design</li>
+                <li>User Experience Design</li>
+                <li>User Interface Design</li> 
+                <li>Interaction Design</li>
+                <li>Branding design</li>
             </ul>
             <div>
             </div>

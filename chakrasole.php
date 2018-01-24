@@ -21,10 +21,10 @@
             ,Contact form</p>
 
             <div class="ps-container">
-                <h3>Solution</h3>
+                <!-- <h3>Solution</h3> -->
              <ul>
-                <li>interaction design</li>
-                <li>graphic: banner design</li>
+                <li>Interaction Design</li>
+                <li>Graphic: banner design</li>
             </ul>
             <div>
             </div>

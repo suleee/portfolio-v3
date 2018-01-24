@@ -19,13 +19,13 @@
             <p>Pre-registration page for Fellow App Game</p>
 
             <div class="ps-container">
-                <h3>Solution</h3>
+                <!-- <h3>Solution</h3> -->
              <ul>
-                <li>user experience design</li>
-                <li>user interface design</li> 
-                <li>interaction design</li>
-                <li>graphic: banner design</li>
-                <li>web development</li>
+                <li>User Experience Design</li>
+                <li>User Interface Design</li> 
+                <li>Interaction Design</li>
+                <li>Graphic: banner design</li>
+                <li>Web Development</li>
             </ul>
             <div>
             </div>

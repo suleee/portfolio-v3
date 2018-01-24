@@ -21,10 +21,11 @@
             I gave them a direction and constantly created banner based on the Data.</p>
 
             <div class="ps-container">
-                <h3>Solution</h3>
+                <!-- <h3>Solution</h3> -->
              <ul>
-                <li>graphic design</li>
-                <li>marketing strategy</li> 
+                <li>Graphic Design</li>
+                <li>Design Direction</li> 
+                <li>Marketing Strategy</li> 
             </ul>
             <div>
             </div>

@@ -1,4 +1,3 @@
-
 .fellow-container {
     .fellow-topbanner {
         background: linear-gradient(to bottom, rgba(0, 0, 0, 0.6) 60%, rgba(0, 0, 0, 0.6) 60%), url('../img/fellow/fellow-mainbanner.jpg') no-repeat top;
@@ -12,25 +11,33 @@
             max-width: 700px;
             margin: 0 auto;
             padding-bottom: 30px;
-        
         }
-        
     }
-    .secondrow-img, .thirdrow-img, .fourthrow-img, .fifthrow-img{
+    .secondrow-img,
+    .fourthrow-img,
+    .fifthrow-img {
+        @include box-shadow;
+    }
+    .fellow-gif{
+        margin-top: 40px;
+    }
+    .secondrow-img,
+    .thirdrow-img,
+    .fourthrow-img,
+    .fifthrow-img {
         width: 100%;
         margin: 0 auto;
         @media all and (min-width: 600px) {
             width: 80%;
         }
-        img{
+        img {
             width: 100%;
         }
     }
-    .fellow-gif{
+    .fellow-gif {
         min-width: 260px;
-        img{
+        img {
             width: 100%;
         }
     }
-    
 }

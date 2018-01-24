@@ -7,6 +7,15 @@
     .sp-sub-title{
         padding-top: 203px;
     }
+    h5{
+        margin: 30px 0 25px 0px;
+    }
+    .secondrow-img,
+    .thirdrow-img,
+    .fifthrow-img,
+    .sixthrow-img {
+        @include box-shadow;
+    }
     .secondrow-img,
     .thirdrow-img,
     .fourthrow-img,

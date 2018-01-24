@@ -7,6 +7,9 @@
     .sp-sub-title{
         padding-top: 203px;
     }
+    .thirdrow-img{
+        @include box-shadow;
+    }
     .secondrow-img, .thirdrow-img, .fourthrow-img, .fifthrow-img{
         width: 100%;
         margin: 0 auto;

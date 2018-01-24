@@ -25,11 +25,11 @@
             <p>Strong Current needed a vibrant update to their aging website to strengthen their online presence.</p>
              
             <div class="ps-container">
-                <h3>Solution</h3>
+                <!-- <h3>Solution</h3> -->
              <ul>
-                <li>user experience design</li>
-                <li>user interface design</li> 
-                <li> interaction design</li>
+                <li>User Experience Design</li>
+                <li>User Interface Design</li> 
+                <li>Interaction Design</li>
             </ul>
             <div>
             <!-- <ul class="main-text-list">

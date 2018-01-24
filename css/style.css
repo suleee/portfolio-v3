@@ -374,6 +374,17 @@ a {
     flex-wrap: wrap;
     margin: 0 auto; } }
 
+.ws-section2 ul {
+  color: grey;
+  line-height: 24px; }
+  @media all and (min-width: 600px) {
+    .ws-section2 ul {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: flex-start; } }
+  .ws-section2 ul li {
+    margin-right: 45px; }
+
 .section2-text {
   padding: 0 20px; }
   @media all and (min-width: 600px) {
@@ -836,6 +847,12 @@ h5 {
   background: linear-gradient(to bottom, rgba(0, 0, 0, 0.6) 60%, rgba(0, 0, 0, 0.6) 60%), url("../img/latale/latle-mainbanner.jpg") no-repeat top;
   background-size: cover;
   height: 90vh; }
+.latle-container .secondrow-container img,
+.latle-container .fourthrow-container img,
+.latle-container .fifthrow-container img,
+.latle-container .sixthrow-container img,
+.latle-container .seventhrow-container img {
+  box-shadow: 1px 1px 8px 1px rgba(0, 0, 0, 0.15); }
 .latle-container .secondrow-img, .latle-container .thirdrow-img, .latle-container .fourthrow-img, .latle-container .fifthrow-img {
   width: 100%;
   margin: 0 auto; }
@@ -869,13 +886,28 @@ h5 {
     max-width: 700px;
     margin: 0 auto;
     padding-bottom: 30px; }
-.fellow-container .secondrow-img, .fellow-container .thirdrow-img, .fellow-container .fourthrow-img, .fellow-container .fifthrow-img {
+.fellow-container .secondrow-img,
+.fellow-container .fourthrow-img,
+.fellow-container .fifthrow-img {
+  box-shadow: 1px 1px 8px 1px rgba(0, 0, 0, 0.15); }
+.fellow-container .fellow-gif {
+  margin-top: 40px; }
+.fellow-container .secondrow-img,
+.fellow-container .thirdrow-img,
+.fellow-container .fourthrow-img,
+.fellow-container .fifthrow-img {
   width: 100%;
   margin: 0 auto; }
   @media all and (min-width: 600px) {
-    .fellow-container .secondrow-img, .fellow-container .thirdrow-img, .fellow-container .fourthrow-img, .fellow-container .fifthrow-img {
+    .fellow-container .secondrow-img,
+    .fellow-container .thirdrow-img,
+    .fellow-container .fourthrow-img,
+    .fellow-container .fifthrow-img {
       width: 80%; } }
-  .fellow-container .secondrow-img img, .fellow-container .thirdrow-img img, .fellow-container .fourthrow-img img, .fellow-container .fifthrow-img img {
+  .fellow-container .secondrow-img img,
+  .fellow-container .thirdrow-img img,
+  .fellow-container .fourthrow-img img,
+  .fellow-container .fifthrow-img img {
     width: 100%; }
 .fellow-container .fellow-gif {
   min-width: 260px; }
@@ -888,6 +920,8 @@ h5 {
   height: 70vh; }
 .disney-container .sp-sub-title {
   padding-top: 203px; }
+.disney-container .thirdrow-img {
+  box-shadow: 1px 1px 8px 1px rgba(0, 0, 0, 0.15); }
 .disney-container .secondrow-img, .disney-container .thirdrow-img, .disney-container .fourthrow-img, .disney-container .fifthrow-img {
   width: 100%;
   margin: 0 auto; }
@@ -907,6 +941,13 @@ h5 {
   height: 80vh; }
 .war-container .sp-sub-title {
   padding-top: 203px; }
+.war-container h5 {
+  margin: 30px 0 25px 0px; }
+.war-container .secondrow-img,
+.war-container .thirdrow-img,
+.war-container .fifthrow-img,
+.war-container .sixthrow-img {
+  box-shadow: 1px 1px 8px 1px rgba(0, 0, 0, 0.15); }
 .war-container .secondrow-img,
 .war-container .thirdrow-img,
 .war-container .fourthrow-img,

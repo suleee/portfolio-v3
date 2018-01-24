@@ -5,7 +5,7 @@
 <section class="war-container">
 <div class="ws-section1 war-topbanner">
             <div class="sp-sub-title">
-            <h6>War Rock Landing page</h6>
+            <h6>War Rock Signup page</h6>
             <div class="ws-lang"><p>Photoshop, InVision, Working Flow Chart</p></div>
             </div>
             <div class="ws-btns">
@@ -21,11 +21,11 @@
             I gave them a direction and constantly created banner based on the Data.</p>
 
             <div class="ps-container">
-                <h3>Solution</h3>
+                <!-- <h3>Solution</h3> -->
              <ul>
-                <li>Graphic design</li>
-                <li>Marketing strategy</li>
-                <li>Game branding</li>
+                <li>Graphic Design</li>
+                <li>Marketing Strategy</li>
+                <li>Game Branding</li>
 
             </ul>
             <div>
@@ -64,21 +64,21 @@
         <div class="fifthrow-container">
         <div class="max-width">
         <h5>FAQ and Support page</h5>
-            <div class=""><img src="img/war/war-img03.jpg" alt=""></div>
+            <div class="fifthrow-img"><img src="img/war/war-img03.jpg" alt=""></div>
         </div>
         </div>
 
         <div class="sixthrow-container">
         <div class="max-width">
         <h5>Landing page</h5>
-            <div class=""><img src="img/war/war-img05.jpg" alt=""></div>
+            <div class="sixthrow-img"><img src="img/war/war-img05.jpg" alt=""></div>
         </div>
         </div>
 
         <div class="seventhrow-container ">
         <div class="max-width">
         <h5>Game Interface UI Design</h5>
-            <div class=""><img src="img/war/war-img04.jpg" alt=""></div>
+            <div class="seventhrow-img"><img src="img/war/war-img04.jpg" alt=""></div>
         </div>
         </div>
 
