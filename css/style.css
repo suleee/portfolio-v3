@@ -532,6 +532,17 @@ h6 {
   .fsm-container .thirdrow-img {
     width: 45%; } }
 
+.cha-container .cha-topbanner {
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.45) 50%, rgba(0, 0, 0, 0.45) 50%), url("../img/cha/cha-main-banner1.jpg") no-repeat top;
+  background-size: cover;
+  height: 80vh; }
+.cha-container .secondrow-img,
+.cha-container .fifthrow-container img,
+.cha-container .fourthrow-img img {
+  width: 100%; }
+.cha-container .secondrow-container img, .cha-container .thirdrow-container img, .cha-container .fourthrow-container img, .cha-container .fifthrow-container img {
+  box-shadow: 1px 1px 8px 1px rgba(0, 0, 0, 0.15); }
+
 .skill-section h3,
 .mainpage-container h3,
 .aboutme-container h3, .works-container h3 {

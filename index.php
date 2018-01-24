@@ -56,6 +56,16 @@
                 </div>
 
                 <div class="dp-thumb-con">
+                <a class="btn03" href="chakrasole.php">
+                <div class="thumb">
+                <img src="img/cha/cha-thumb.png" alt="work02">
+                <h3 class="">ChakraSole Orderpage</h3> 
+                <p class="p-th-p"><span class="p-th-span">UI, UX, Product design</span></p>  
+                </div>
+                </a>
+                </div>
+
+                <div class="dp-thumb-con">
                 <a class="btn03" href="aloha.php">
                 <div class="thumb">
                 <img src="img/aloha-imac.png" alt="work02">

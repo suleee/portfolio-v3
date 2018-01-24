@@ -1,0 +1,16 @@
+.cha-container {
+    .cha-topbanner{
+        background: linear-gradient(to bottom, rgba(0, 0, 0, 0.45) 50%, rgba(0, 0, 0, 0.45) 50%), url('../img/cha/cha-main-banner1.jpg') no-repeat top;
+        background-size: cover;
+        height: 80vh;
+    }
+    .secondrow-img, 
+    .fifthrow-container img,
+    .fourthrow-img img {
+        width: 100%;
+    }
+
+    .secondrow-container img, .thirdrow-container img, .fourthrow-container img, .fifthrow-container img {
+        box-shadow: 1px 1px 8px 1px rgba(0,0,0,.15)
+    }
+}
