@@ -21,11 +21,8 @@
             <div class="ps-container">
                 <h3>Solution</h3>
              <ul>
-                <li>user experience design</li>
-                <li>user interface design</li> 
                 <li>interaction design</li>
                 <li>graphic: banner design</li>
-                <li>web development</li>
             </ul>
             <div>
             </div>
