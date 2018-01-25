@@ -50,13 +50,49 @@
             <div class="carousel" data-flickity='{ "lazyLoad": true, "autoPlay": true }'>
             <div class="carousel-cell">
                 <img class="carousel-cell-image"
-                data-flickity-lazyload="img/disney/d-banner01.jpg" alt="tulip" />
+                data-flickity-lazyload="img/disney/banners/image01.jpg" alt="tulip" />
             </div>
             <div class="carousel-cell">
                 <img class="carousel-cell-image"
-                data-flickity-lazyload="img/disney/d-banner01.jpg" alt="tulip" />
+                data-flickity-lazyload="img/disney/banners/image02.jpg" alt="tulip" />
             </div>
+            <div class="carousel-cell">
+                <img class="carousel-cell-image"
+                data-flickity-lazyload="img/disney/banners/image03.jpg" alt="tulip" />
             </div>
+            <div class="carousel-cell">
+                <img class="carousel-cell-image"
+                data-flickity-lazyload="img/disney/banners/image04.jpg" alt="tulip" />
+            </div>
+            <div class="carousel-cell">
+                <img class="carousel-cell-image"
+                data-flickity-lazyload="img/disney/banners/image05.jpg" alt="tulip" />
+            </div>
+            <div class="carousel-cell">
+                <img class="carousel-cell-image"
+                data-flickity-lazyload="img/disney/banners/image06.jpg" alt="tulip" />
+            </div>
+            <div class="carousel-cell">
+                <img class="carousel-cell-image"
+                data-flickity-lazyload="img/disney/banners/image07.jpg" alt="tulip" />
+            </div>
+            <div class="carousel-cell">
+                <img class="carousel-cell-image"
+                data-flickity-lazyload="img/disney/banners/image08.jpg" alt="tulip" />
+            </div>
+            <div class="carousel-cell">
+                <img class="carousel-cell-image"
+                data-flickity-lazyload="img/disney/banners/image09.jpg" alt="tulip" />
+            </div>
+            <div class="carousel-cell">
+                <img class="carousel-cell-image"
+                data-flickity-lazyload="img/disney/banners/image10.jpg" alt="tulip" />
+            </div>
+            <div class="carousel-cell">
+                <img class="carousel-cell-image"
+                data-flickity-lazyload="img/disney/banners/image11.jpg" alt="tulip" />
+            </div>
+        </div>
         </div>
         </div>
 
