@@ -101,8 +101,8 @@
 
         <div class="eighthrow-container">
         <div class="max-width pb-flexbox">
-            <a href="aloha.php" class="pb-tag"><div class="previous">previous</div></a>
-            <a href="fellow.php" class="pb-tag"><div class="back">back</div></a>
+            <a href="aloha.php" class="pb-tag"><div class="previous"><i class="fa fa-angle-left" aria-hidden="true"></i> previous</div></a>
+            <a href="fellow.php" class="pb-tag"><div class="back">back <i class="fa fa-angle-right" aria-hidden="true"></i></div></a>
         </div>
         </div>
            

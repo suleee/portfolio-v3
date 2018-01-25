@@ -683,6 +683,8 @@ h6 {
   padding: 0 20px; }
   .pb-flexbox .pb-tag {
     color: black; }
+    .pb-flexbox .pb-tag:hover {
+      color: grey; }
 
 .max-width {
   max-width: 920px; }
@@ -1160,7 +1162,7 @@ body {
 
 .rotationbanner-container .max-width {
   margin: 0 auto;
-  margin: 40px auto;
+  margin: 50px auto;
   padding: 20px 0; }
 .rotationbanner-container h1 {
   text-align: center;

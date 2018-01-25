@@ -188,6 +188,9 @@
         padding: 0 20px;
         .pb-tag{
             color: black;
+            &:hover{
+                color:grey;
+            }
         }
     }
 
