@@ -1162,6 +1162,9 @@ body {
   margin: 0 auto;
   margin: 40px auto;
   padding: 20px 0; }
+.rotationbanner-container h1 {
+  text-align: center;
+  padding-bottom: 20px; }
 
 .section05 .main-section {
   text-align: center;
