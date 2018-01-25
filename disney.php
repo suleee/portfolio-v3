@@ -43,16 +43,19 @@
         </div>
         
 
-        <div class="thirdrow-container">
+        <div class="rotationbanner-container">
         <div class="max-width">
             <h1>Social Network Marketing Banners</h1>
             <!-- Flickity HTML init -->
-            <div class="carousel" data-flickity='{ "autoPlay": true }'>
-            <div class="carousel-cell"></div>
-            <div class="carousel-cell"></div>
-            <div class="carousel-cell"></div>
-            <div class="carousel-cell"></div>
-            <div class="carousel-cell"></div>
+            <div class="carousel" data-flickity='{ "lazyLoad": true, "autoPlay": true }'>
+            <div class="carousel-cell">
+                <img class="carousel-cell-image"
+                data-flickity-lazyload="img/disney/d-banner01.jpg" alt="tulip" />
+            </div>
+            <div class="carousel-cell">
+                <img class="carousel-cell-image"
+                data-flickity-lazyload="img/disney/d-banner01.jpg" alt="tulip" />
+            </div>
             </div>
         </div>
         </div>
