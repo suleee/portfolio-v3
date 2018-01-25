@@ -7,15 +7,39 @@
         /* Create the parallax scrolling effect */
         background-attachment: fixed;
         background-size: cover;
-        height: 120px;
+        height: 62vh;
+        height: 62vh;
     }
 }
+
+.aboutme-header-img {
+    padding-top: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 800px;
+    margin: 0 auto;
+    h1 {
+        font-size: 24px;
+        color: white;
+        margin-top: 138px;
+        padding-left: 20px;
+        @media all and (min-width: 600px) {
+            font-size: 45px;
+            color: white;
+            margin-top: 138px;
+            padding-left: 80px;
+        }
+        @media all and (min-width: 900px) {
+            padding-left: 180px;
+        }
+    }
+}
+
 
 h5 {
     font-weight: 700;
     margin: 30px 0 10px 0px;
 }
-
 .profile-pic {
     display: flex;
     justify-content: space-between;
@@ -23,37 +47,29 @@ h5 {
     margin: auto;
     padding-bottom: 35px;
 }
-
 .am-main-section {
     text-align: center;
     margin: 160px 0;
 }
-
 .ex-section {
     padding: 90px 0;
     background: #f0f0f0;
 }
-
 .about-me {
     max-width: 750px;
     margin: 20px auto;
-
 }
-
 .about-me p {
     line-height: 24px;
 }
-
 .linked-logo {
     width: 96px;
     padding-right: 20px;
 }
-
 .wix-logo {
     width: 85px;
     padding-left: 20px;
 }
-
 .ror-container {
     background: white;
     max-width: 900px;
@@ -61,34 +77,27 @@ h5 {
     padding: 20px 30px;
     box-shadow: 3px 3px 4px rgba(0, 0, 0, .2);
 }
-
 .ror-container li {
     line-height: 24px;
 }
-
 .date {
     font-size: 14px;
     font-weight: 700;
 }
-
 .company {
     font-size: 14px;
 }
-
 .position {
     font-family: 'Merriweather', serif;
     font-size: 20px;
     color: #3195C2;
 }
-
 .wp {
     width: 30px;
 }
-
 .in {
     width: 22px;
 }
-
 .web-p-container {
     width: 100%;
     min-width: 260px;
@@ -100,7 +109,6 @@ h5 {
         justify-content: center;
     }
 }
-
 .web-p-single-container {
     min-width: 300px;
     padding: 30px 30px;
@@ -110,16 +118,13 @@ h5 {
         padding: 50px 20px;
     }
 }
-
 .web-p-single-container span {
     font-weight: 700;
     color: black;
 }
-
 .web-title {
     text-align: center;
 }
-
 .text {
     height: 180px;
     line-height: 24px;
@@ -127,70 +132,59 @@ h5 {
         height: 250px;
     }
 }
-
 // .logo {
 //     margin-top: 35px;
 // }
 .des-me-section {
     // background: #f0f0f0;
-    padding: 90px 0;
+    padding: 10px 10px 50px 10px;
     @media all and (min-width: 600px) {
         display: flex;
         justify-content: space-between;
         max-width: 920px;
         margin: auto;
     }
-    .des-me-part{
+
+    .des-me-part {
         @media all and (min-width: 600px) {
             width: 45%;
         }
-
     }
-    h3{
+
+    h3 {
         text-align: left;
     }
-
 }
-
 .am-skill-section {
     background: white;
     padding-bottom: 60px;
 }
-
 .role {
     max-width: 800px;
     margin: auto;
     padding: 0 20px 30px 20px;
 }
-
 .job-title {
-    max-width: 855px;
-    // margin: auto;
+    max-width: 855px; // margin: auto;
     padding-top: 20px;
 }
-
 .job-title p {
     padding-bottom: 20px;
 }
-
 .am-wp-bar {
     margin-bottom: 20px;
 }
-
 .lang {
     margin-top: 20px;
     font-size: 14px;
 }
-
 .accordion {
     overflow: hidden;
 }
-
 .accordion-section-content {
     padding: 15px;
     display: none;
 }
-
 .accordion-section a {
     border: 1px solid #8a939a;
     color: #8a939a;
@@ -198,32 +192,25 @@ h5 {
     border-radius: 5px;
     font-size: 14px;
 }
-
 .view-btn {
     margin: 11px 0;
 }
-
 .view-btn img {
     width: 10px;
 }
-
 .down-arrow {
     transform: scaleY(-1);
 }
-
 .aboutme-container {
     .bar {
         border-bottom: 2px solid black;
-        width: 30px;
-        // margin: 0 auto;
+        width: 30px; // margin: 0 auto;
         padding-bottom: 10px;
     }
-
 }
-.skill-section, .ex-section{
+.skill-section,
+.ex-section {
     .bar {
-     
         margin: 0 auto;
-      
     }
 }

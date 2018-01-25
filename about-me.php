@@ -3,8 +3,11 @@
 
 
 <section class="aboutme-container">
-<div class="main-section">
-         
+        <div class="main-section">
+         <div class="aboutme-header-img">
+             <img src="img/character.png">
+            <h1>Hello!</h1>
+        </div>
         </div>
             
         <div class="des-me-section">

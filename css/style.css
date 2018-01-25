@@ -805,7 +805,29 @@ h6 {
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
   background-size: cover;
-  height: 120px; }
+  height: 62vh;
+  height: 62vh; }
+
+.aboutme-header-img {
+  padding-top: 100px;
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 800px;
+  margin: 0 auto; }
+  .aboutme-header-img h1 {
+    font-size: 24px;
+    color: white;
+    margin-top: 138px;
+    padding-left: 20px; }
+    @media all and (min-width: 600px) {
+      .aboutme-header-img h1 {
+        font-size: 45px;
+        color: white;
+        margin-top: 138px;
+        padding-left: 80px; } }
+    @media all and (min-width: 900px) {
+      .aboutme-header-img h1 {
+        padding-left: 180px; } }
 
 h5 {
   font-weight: 700;
@@ -904,7 +926,7 @@ h5 {
       height: 250px; } }
 
 .des-me-section {
-  padding: 90px 0; }
+  padding: 10px 10px 50px 10px; }
   @media all and (min-width: 600px) {
     .des-me-section {
       display: flex;
@@ -968,7 +990,8 @@ h5 {
   width: 30px;
   padding-bottom: 10px; }
 
-.skill-section .bar, .ex-section .bar {
+.skill-section .bar,
+.ex-section .bar {
   margin: 0 auto; }
 
 .e-commerce-container .e-commerce-topbanner {
