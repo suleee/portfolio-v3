@@ -919,7 +919,10 @@ h5 {
   background-size: cover;
   height: 70vh; }
 .disney-container .sp-sub-title {
-  padding-top: 203px; }
+  padding-top: 200px;
+  line-height: 50px; }
+  .disney-container .sp-sub-title h6 {
+    margin: 22px 0; }
 .disney-container .thirdrow-img {
   box-shadow: 1px 1px 8px 1px rgba(0, 0, 0, 0.15); }
 .disney-container .secondrow-img, .disney-container .thirdrow-img, .disney-container .fourthrow-img, .disney-container .fifthrow-img {
@@ -940,7 +943,7 @@ h5 {
   background-size: cover;
   height: 80vh; }
 .war-container .sp-sub-title {
-  padding-top: 203px; }
+  padding-top: 180px; }
 .war-container h5 {
   margin: 30px 0 25px 0px; }
 .war-container .secondrow-img,

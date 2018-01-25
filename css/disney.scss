@@ -5,7 +5,11 @@
         height: 70vh;
     }
     .sp-sub-title{
-        padding-top: 203px;
+        padding-top: 200px;
+        line-height: 50px;
+        h6{
+            margin: 22px 0;
+        }
     }
     .thirdrow-img{
         @include box-shadow;
