@@ -16,9 +16,8 @@
             <div class="max-width">
             <div class="section2-thumb"><img src="img/war/war-thumb.png"></div>
             <div class="section2-text">
-            <p>Disney create App game called Magical Dice with Netmarble which is Game development 
-            the company in Korea. I created the Social network Advertisement banners. 
-            I gave them a direction and constantly created banner based on the Data.</p>
+            <p>War Rock is FPS (First-person shooter) game created by Korean development company and SmileGate West published the
+                game in North America and Brazil.</p>
 
             <div class="ps-container">
                 <!-- <h3>Solution</h3> -->
@@ -87,8 +86,8 @@
         <div class="bottom-info-container">
             <div class="text-container">
             <h3>More About this Project</h3>
-            <p>War Rock is FPT pc game, and in 2014 Smile Gate launched the game in North America and Brazil. 
-                At that time I was creating the website, landing page, Sign up page, support pages, 
+            <p>War Rock is FPS pc game, and in 2014 Smile Gate launched the game in North America and Brazil. 
+                At that time, I was creating the website, landing page, sign up page, support pages, 
                 game interface UI elements, marketing banners, etc.
                  </p>
             </div>
