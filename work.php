@@ -43,16 +43,6 @@
                 </div>
 
                 <div class="dp-thumb-con">
-                <a class="btn03" href="latale.php">
-                <div class="thumb">
-                <img src="img/latale/latale-thumb.png" alt="latale-thumb">
-                <h3 class="">LaTale Migration page</h3> 
-                <p class="p-th-p"><span class="p-th-span">UI, UX, Web development</span></p>  
-                </div>
-                </a>
-                </div>
-
-                <div class="dp-thumb-con">
                 <a class="btn03" href="chakrasole.php">
                 <div class="thumb">
                 <img src="img/cha/cha-thumb.png" alt="work02">
@@ -62,12 +52,22 @@
                 </a>
                 </div>
 
-                <div class="dp-thumb-con">        
-                <a class="btn03" href="aloha.php">
-                    <div class="thumb">
-                    <img src="img/aloha-imac.png" alt="aloha-thumb">
-                    <h3 class="">Aloha website</h3> 
-                    <p class="p-th-p"><span class="p-th-span">UI, UX, Web Development</span></p>  
+                <div class="dp-thumb-con">
+                <a class="btn03" href="disney.php">
+                <div class="thumb">
+                <img src="img/disney/d-thumb.png" alt="work02">
+                <h3 class="">Disney Magical Dice Marketing Creative</h3> 
+                <p class="p-th-p"><span class="p-th-span">Graphic design, Marketing strategy</span></p>  
+                </div>
+                </a>
+                </div>
+
+                <div class="dp-thumb-con">
+                <a class="btn03" href="latale.php">
+                <div class="thumb">
+                <img src="img/latale/latale-thumb.png" alt="latale-thumb">
+                <h3 class="">LaTale Migration page</h3> 
+                <p class="p-th-p"><span class="p-th-span">UI, UX, Web development</span></p>  
                 </div>
                 </a>
                 </div>
@@ -82,12 +82,12 @@
                 </a>
                 </div>
 
-                <div class="dp-thumb-con">
-                <a class="btn03" href="disney.php">
-                <div class="thumb">
-                <img src="img/disney/d-thumb.png" alt="work02">
-                <h3 class="">Disney Magical Dice Social network Ad</h3> 
-                <p class="p-th-p"><span class="p-th-span">Graphic design, Marketing strategy</span></p>  
+                <div class="dp-thumb-con">        
+                <a class="btn03" href="aloha.php">
+                    <div class="thumb">
+                    <img src="img/aloha-imac.png" alt="aloha-thumb">
+                    <h3 class="">Aloha website</h3> 
+                    <p class="p-th-p"><span class="p-th-span">UI, UX, Web Development</span></p>  
                 </div>
                 </a>
                 </div>

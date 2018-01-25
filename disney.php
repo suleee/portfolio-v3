@@ -5,7 +5,7 @@
 <section class="disney-container">
 <div class="ws-section1 disney-topbanner">
             <div class="sp-sub-title">
-            <h6>Disney Magical Dice Social network AD</h6>
+            <h6>Disney Magical Dice Marketing Creative</h6>
             <div class="ws-lang"><p>Photoshop</p></div>
             </div>
             <div class="ws-btns">
@@ -18,7 +18,7 @@
             <div class="section2-text">
             <p>Disney create App game called Magical Dice with Netmarble which is Game development 
             the company in Korea. I created the Social network Advertisement banners. 
-            I gave them a direction and constantly created banner based on the Data.</p>
+            I gave them a design direction, and constantly created banners based on creative marketing Data.</p>
 
             <div class="ps-container">
                 <!-- <h3>Solution</h3> -->
@@ -38,32 +38,33 @@
     <!-- <div class="ws-section3 sc-images"> -->
         <div class="secondrow-container">
         <div class="max-width">
-            <div class="secondrow-img"><img src="img/disney/d-img03.png" class="" alt=""></div>
+            <div class="secondrow-img"><img src="img/disney/d-img01.jpg" class="" alt=""></div>
         </div>
         </div>
         
         <div class="thirdrow-container">
         <div class="max-width">
-            <div class="thirdrow-img"><img src="img/disney/d-img01.jpg" alt=""></div>
+            <div class="thirdrow-img"><img src="img/disney/d-eventpage.jpg" alt=""></div>
         </div>
         </div>
-
-        <!-- <div class="fourthrow-container">
-      
-        </div>
-
-        <div class="fifthrow-container">
-      
-        </div> -->
 
         <div class="sixthrow-container">
-            <div class="bottom-info-container">
+        <div class="max-width">
+        <div class="bottom-info-container">
             <div class="text-container">
-                <h3>More About this Project</h3>
-                <p>description</p>
+            <h3>More About this Project</h3>
+            <p>Global Marketing company where I worked is helping the clients to get the user tracking, 
+                high conversion, and high performance. Accordingly, the company is running a campaign management a
+                nd providing a high-quality performance marketing creative. 
+                 </p>
             </div>
-            <div class=""><p>description</p></div>
-            </div>
+            <div class="text-container text-container-right">
+            <p>Our huge clients NetMarble and Disney launched Disney Magical Dice in Korea. Once 
+                they launched the game in America, our company get involved and provided marketing 
+                creative. At that time, I proposed the different type of directions and marketing creatives.</p>
+        </div>
+        </div>
+        </div>
         </div>
 
         <div class="seventhrow-container">
