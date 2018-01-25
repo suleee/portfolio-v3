@@ -122,7 +122,7 @@
         </div>
         </div>
 
-        <div class="seventhrow-container">
+        <div class="sixthrow-container">
         <div class="max-width pb-flexbox">
             <a href="chakrasole.php" class="pb-tag"><div class="previous">previous</div></a>
             <a href="latale.php" class="pb-tag"><div class="back">back</div></a>
