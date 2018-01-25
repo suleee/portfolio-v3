@@ -523,10 +523,12 @@ h6 {
     .bottom-info-container .text-container-right {
       padding-top: 35px; } }
 
-.fb-flexbox {
+.pb-flexbox {
   display: flex;
   justify-content: space-between;
   padding: 0 20px; }
+  .pb-flexbox .pb-tag {
+    color: black; }
 
 .max-width {
   max-width: 920px; }

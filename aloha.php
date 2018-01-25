@@ -57,9 +57,9 @@
             </div> -->
 
             <div class="fourthrow-container">
-                <div class="max-width fb-flexbox">
-                    <div class="forward">forward</div>
-                    <div class="back">back</div>
+                <div class="max-width pb-flexbox">
+                    <a href="war.php" class="pb-tag"><div class="previous">previous</div></a>
+                    <a href="ecom-web.php" class="pb-tag"><div class="back">back</div></a>
                 </div>
             </div>
 
