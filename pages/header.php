@@ -9,7 +9,8 @@
     <!-- reset.css, style.css and flickity-->
     <link rel="shortcut icon" type="image/ico" href="img/favicon.ico" />
     <link rel="stylesheet" type=text/css href="css/reset.css">
-	<link rel="stylesheet" type=text/css href="css/style.css">
+    <link rel="stylesheet" type=text/css href="css/style.css">
+    <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
 
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Merriweather:300,300i,400,400i,700,700i,900,900i" rel="stylesheet">
@@ -55,12 +56,6 @@
         </div> -->
     </nav>
  
-
-
-
-
-
-
 
     <nav class=" menu-bg desktop-menu menu-container">
         <div class="meun-list menu">

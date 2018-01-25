@@ -42,13 +42,29 @@
         </div>
         </div>
         
+
         <div class="thirdrow-container">
+        <div class="max-width">
+            <h1>Social Network Marketing Banners</h1>
+            <!-- Flickity HTML init -->
+            <div class="carousel" data-flickity='{ "autoPlay": true }'>
+            <div class="carousel-cell"></div>
+            <div class="carousel-cell"></div>
+            <div class="carousel-cell"></div>
+            <div class="carousel-cell"></div>
+            <div class="carousel-cell"></div>
+            </div>
+        </div>
+        </div>
+
+
+        <div class="fourthrow-container">
         <div class="max-width">
             <div class="thirdrow-img"><img src="img/disney/d-eventpage.jpg" alt=""></div>
         </div>
         </div>
 
-        <div class="sixthrow-container">
+        <div class="fifthrow-container">
         <div class="max-width">
         <div class="bottom-info-container">
             <div class="text-container">

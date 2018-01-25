@@ -40,7 +40,7 @@
                 <div class="thumb">
                 <img src="img/fsm/fsm-imac.png" alt="work02">
                 <h3 class="">Free TO Stream App Website</h3> 
-                <p class="p-th-p"><span class="p-th-span">UI, UX, web development</span></p>  
+                <p class="p-th-p"><span class="p-th-span">UI, UX, Web Development</span></p>  
                 </div>
                 </a>
                 </div>
@@ -49,8 +49,8 @@
                 <a class="btn03" href="chakrasole.php">
                 <div class="thumb">
                 <img src="img/cha/cha-thumb.png" alt="work02">
-                <h3 class="">Chakra Sole Order page</h3> 
-                <p class="p-th-p"><span class="p-th-span">UI, UX, Product design</span></p>  
+                <h3 class="">Chakra Sole Order Page</h3> 
+                <p class="p-th-p"><span class="p-th-span">UI, Marketing Strategy, Product Design</span></p>  
                 </div>
                 </a>
                 </div>
@@ -60,7 +60,7 @@
                 <div class="thumb">
                 <img src="img/disney/d-thumb.png" alt="work02">
                 <h3 class="">Disney Magical Dice Marketing Creative</h3> 
-                <p class="p-th-p"><span class="p-th-span">Graphic design, Marketing strategy</span></p>  
+                <p class="p-th-p"><span class="p-th-span">Graphic Design, Marketing Direction/Strategy</span></p>  
                 </div>
                 </a>
                 </div>
@@ -70,7 +70,7 @@
                 <div class="thumb">
                 <img src="img/latale/latale-thumb.png" alt="latale-thumb">
                 <h3 class="">LaTale Migration page</h3> 
-                <p class="p-th-p"><span class="p-th-span">UI, UX, Web development</span></p>  
+                <p class="p-th-p"><span class="p-th-span">UI, UX, Web Development</span></p>  
                 </div>
                 </a>
                 </div>
@@ -80,7 +80,7 @@
                 <div class="thumb">
                 <img src="img/war/war-thumb.png" alt="work02">
                 <h3 class="">War Rock Signup page</h3> 
-                <p class="p-th-p"><span class="p-th-span">UI, UX, Graphic design</span></p>  
+                <p class="p-th-p"><span class="p-th-span">UI, UX, Graphic Design, Marketing Strategy</span></p>  
                 </div>
                 </a>
                 </div>
