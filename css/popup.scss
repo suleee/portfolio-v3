@@ -7,11 +7,52 @@
 }
 
 .featherlight-content {
-    width: 90%;
-    height: 400px;
-    max-height: 100%;
-    @media all and (min-width: 600px) {
-        width: 50%;
+    height: 70% !important;
+    margin-bottom: 0 !important;
+    background-image: linear-gradient(#88ccb4, #6fbebc, ) !important;
+    .featherlight-inner {
+        margin-top: 50px;
+        color: white;
+        @media all and (min-width: 600px) {
+            width: 500px;
+        }
+   
+        @media all and (min-width: 600px) {
+            padding: 0 54px;
+        }
+    }
+    .submit-btn {
+        width: 326px;
+        height: 30px;
+        border-radius: 3px;
+        background: #0a6550;
+        color: white;
+        border: 1px solid #0a604c;
+        &:hover{
+            background: #0d9189;
+        }
+    }
+    #contact-form {
+        margin: 0 20px;
+    }
+    div {
+        margin-bottom: 20px;
+        p {
+            font-size: 14px;
+            color: white;
+        }
+        input {
+            @media all and (min-width: 600px) {
+                width: 326px;
+            }
+            height: 31px;
+        }
+        textarea {
+            @media all and (min-width: 600px) {
+                width: 326px;
+            }
+            height: 85px;
+        }
     }
     .thankyou-logo {
         text-align: center;
@@ -20,20 +61,21 @@
     .bar {
         width: 162px;
         height: 3px;
-        background: #7f7f7f;
+        // background: #7f7f7f;
+        background: white;
         margin: 20px auto;
     }
     h2 {
-        color: #1a1a1a;
+        // color: #1a1a1a;
         font-weight: 500;
         font-size: 24px;
         text-transform: uppercase;
         text-align: center;
     }
-    p {
-        color: #7f7f7f;
+    .thank-you-p {
+        color: white;
         font-size: 18px;
-        font-weight: 400;
+        font-weight: 400; 
         text-align: center;
     }
     span {

@@ -5,26 +5,29 @@
     <!-- <script src="../js/popup.js"></script> -->
 
     <form method="post" id="contact-form">
-        <p>
-            Name: <input type="text" name="name">
-        </p>
-        <p>
-            Email: <input type="text" name="email">
-        </p>
-        <p>
-            Message: <textarea name="message"></textarea>
-        </p>
-        <p>
+        <div>Contact Me</div>
+        
+        <div>
+            <p>Name</p> 
+            <input type="text" name="name">
+        </div>
+        <div>
+            <p>Email</p> <input type="text" name="email">
+        </div>
+        <div>
+            <p>Message</p> <textarea name="message"></textarea>
+        </div>
+        <div>
             <button class="submit-btn">Send!</button>
-        </p>
+        </div>
         <div class="please-fill-form" style="display:none">Please fill form</div>
     </form> 
     <!-- <div class="thank-you">Thank you!</div>    -->
         <div class="thank-you" id="email-thankyou">
-        <div class="thankyou-logo"> <img src="img/thankyou-logo.jpg" alt="fellow-logo"></div>
+        <div class="thankyou-logo"> <img src="img/thankyou-logo.png" alt="fellow-logo"></div>
         <h2>Thank you!</h2>
         <div class="bar"></div>
-        <p>Your email is <span>successfully submited.</span></p>
+        <p class="thank-you-p">Your email is <span>successfully submited.</span></p>
     </div> 
 
 </div>

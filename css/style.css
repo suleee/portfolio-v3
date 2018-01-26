@@ -1306,28 +1306,59 @@ body {
   padding: 0 !important; }
 
 .featherlight-content {
-  width: 90%;
-  height: 400px;
-  max-height: 100%; }
-  @media all and (min-width: 600px) {
-    .featherlight-content {
-      width: 50%; } }
+  height: 70% !important;
+  margin-bottom: 0 !important;
+  background-image: linear-gradient(#88ccb4, #6fbebc) !important; }
+  .featherlight-content .featherlight-inner {
+    margin-top: 50px;
+    color: white; }
+    @media all and (min-width: 600px) {
+      .featherlight-content .featherlight-inner {
+        width: 500px; } }
+    @media all and (min-width: 600px) {
+      .featherlight-content .featherlight-inner {
+        padding: 0 54px; } }
+  .featherlight-content .submit-btn {
+    width: 326px;
+    height: 30px;
+    border-radius: 3px;
+    background: #0a6550;
+    color: white;
+    border: 1px solid #0a604c; }
+    .featherlight-content .submit-btn:hover {
+      background: #0d9189; }
+  .featherlight-content #contact-form {
+    margin: 0 20px; }
+  .featherlight-content div {
+    margin-bottom: 20px; }
+    .featherlight-content div p {
+      font-size: 14px;
+      color: white; }
+    .featherlight-content div input {
+      height: 31px; }
+      @media all and (min-width: 600px) {
+        .featherlight-content div input {
+          width: 326px; } }
+    .featherlight-content div textarea {
+      height: 85px; }
+      @media all and (min-width: 600px) {
+        .featherlight-content div textarea {
+          width: 326px; } }
   .featherlight-content .thankyou-logo {
     text-align: center;
     margin: 20px 0 20px 0; }
   .featherlight-content .bar {
     width: 162px;
     height: 3px;
-    background: #7f7f7f;
+    background: white;
     margin: 20px auto; }
   .featherlight-content h2 {
-    color: #1a1a1a;
     font-weight: 500;
     font-size: 24px;
     text-transform: uppercase;
     text-align: center; }
-  .featherlight-content p {
-    color: #7f7f7f;
+  .featherlight-content .thank-you-p {
+    color: white;
     font-size: 18px;
     font-weight: 400;
     text-align: center; }
