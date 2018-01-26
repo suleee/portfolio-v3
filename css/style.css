@@ -1319,12 +1319,14 @@ body {
       .featherlight-content .featherlight-inner {
         padding: 0 54px; } }
   .featherlight-content .submit-btn {
-    width: 326px;
     height: 30px;
     border-radius: 3px;
     background: #0a6550;
     color: white;
     border: 1px solid #0a604c; }
+    @media all and (min-width: 600px) {
+      .featherlight-content .submit-btn {
+        width: 326px; } }
     .featherlight-content .submit-btn:hover {
       background: #0d9189; }
   .featherlight-content #contact-form {
