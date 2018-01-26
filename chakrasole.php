@@ -65,14 +65,14 @@
             <div class="text-container">
             <h3>More About this Project</h3>
             <p>This is the order page to sale the Chakra Sole feet message product. Before I 
-                start the project, campaign manager and I have research which country are 
-                we targeting and which devices most of the people use. Meanwhile, 
-                I was researching the information, I found the interesting article that pointing out 
+                start the project, campaign manager and I have researched who we are targeting 
+                and which devices most of the people use. 
+                When I was researching the information, I found the interesting article that pointing out 
                 that “people would browse on their phones, but would not purchase on their phones” 
                 and most of the people prefer to purchase the product with a computer. I agree with
-                this opinion because I also prefer to buy something on a computer not mobile. The marketing 
-                strategy and consumer’s point of view are really important to increase the conversion 
-                rate and get people’s interest. 
+                this opinion because I also prefer to purchase something on a computer not mobile. 
+                The marketing strategy and consumer’s point of view are really effect to increase the conversion 
+                rate and get people’s interest. Therefore, the pages are created based on this research and informations.  
                  </p>
                  <ul>
                     <li>Order page</li>
