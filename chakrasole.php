@@ -17,8 +17,8 @@
             <div class="section2-thumb"><img src="img/cha/cha-thumb.png"></div>
             <div class="section2-text">
             <p>ChakraSole feet message product order page design. ChakraSole is used to message the feet while walk. It is a reflexology treatment in shoes.</p>
-            <p>To sale the product I created Order page, Mini-popup, Upsell page: show another related product with a special price to induce/lead to purchase another product.
-            ,Contact form</p>
+            <p>To sale the product, I created Order page, Mini-popup, Contact form, and Upsell page: show another related product with a special price to induce/lead to purchase another product.
+           </p>
 
             <div class="ps-container">
                 <!-- <h3>Solution</h3> -->
