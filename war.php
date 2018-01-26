@@ -93,8 +93,8 @@
             </div>
             <div class="text-container text-container-right">
             <p>I played the game to comprehended the game and user’s mind. Once I played, it 
-                reminds me of mission impossible, and hologram. Therefore, I created the graphic 
-                elements with hologram style. </p>
+                reminds me of Mission Impossible. That is how I came up with hologram idea, so 
+                the theme of graphic elements were hologram style. </p>
         </div>
         </div>
         </div>
