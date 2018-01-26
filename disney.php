@@ -26,6 +26,7 @@
                 <li>Graphic Design</li>
                 <li>Design Direction</li> 
                 <li>Marketing Strategy</li> 
+                <li>Marketing Creatives</li> 
             </ul>
             <div>
             </div>

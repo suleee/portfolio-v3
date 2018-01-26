@@ -25,7 +25,7 @@
                 <li>Graphic Design</li>
                 <li>Marketing Strategy</li>
                 <li>Game Branding</li>
-
+                <li>Graphic Design and Marketing Design</li>
             </ul>
             <div>
             </div>
@@ -86,7 +86,7 @@
         <div class="bottom-info-container">
             <div class="text-container">
             <h3>More About this Project</h3>
-            <p>War Rock is FPS pc game, and in 2014 Smile Gate launched the game in North America and Brazil. 
+            <p>War Rock is FPS pc game, and it was launched in North America and Brazil in 2014 by Smile Gate West Inc. 
                 At that time, I was creating the website, landing page, sign up page, support pages, 
                 game interface UI elements, marketing banners, etc.
                  </p>
