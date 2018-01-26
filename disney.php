@@ -109,8 +109,8 @@
             <div class="text-container">
             <h3>More About this Project</h3>
             <p>Global Marketing company where I worked is helping the clients to get the user tracking, 
-                high conversion, and high performance. Accordingly, the company is running a campaign management a
-                nd providing a high-quality performance marketing creative. 
+                high conversion, and high performance. Accordingly, the company is running a campaign management and 
+                providing a high-quality performance marketing creative. 
                  </p>
             </div>
             <div class="text-container text-container-right">

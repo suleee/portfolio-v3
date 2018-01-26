@@ -78,8 +78,8 @@
             <div class="text-container">
             <h3>More About this Project</h3>
             <p>Papaya Game Inc. request to create migration page which helps the users safely 
-                transfer their account to the new game publishing company. The final product 
-                (my design & framework) were developed into a responsive website for viewing 
+                transfer their account to the new game publishing company. The final product were 
+                developed into a responsive website for viewing 
                 on desktop, mobile or tablet devices.
                  </p>
             </div>
