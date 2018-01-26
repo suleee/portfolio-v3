@@ -83,14 +83,14 @@
             <div class="bottom-info-container">
                 <div class="text-container">
                 <h3>More About this Project</h3>
-                <p>Strong current is an e-commerce website targeting the company who are looking to build an 
+                <p>This is an e-commerce website targeting the company who are looking to build an 
                     international e-commerce enterprise. Strong Current is looking for manufacturing partners 
                     who utilize the most technologically advanced facilities and equipment. Strong Current provides 
                     quality packaging and branding to turn an ordinary product into top-notch best sellers. 
                      </p>
                 </div>
                 <div class="text-container text-container-right">
-                    <p>They want to renew the site to make it clear and responsive. 
+                    <p>They want to renew the site to make it clear what they do and mobile friendly website. 
                     I went to work on a responsive approach which lends itself to viewing on mobile devices. 
                     Aesthetically, I chose a simple design that spoke to e-commerce with a professional 
                     polish that works to enhance the existing brand.</p>

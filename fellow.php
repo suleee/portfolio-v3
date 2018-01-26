@@ -16,7 +16,7 @@
             <div class="max-width">
             <div class="section2-thumb"><img src="img/fellow/fellow-thumb.png"></div>
             <div class="section2-text">
-            <p>Pre-registration page for Fellow App Game</p>
+            <p>Pre-registration page for Fellow (MMORPG APP Game).</p>
 
             <div class="ps-container">
                 <!-- <h3>Solution</h3> -->
@@ -24,7 +24,7 @@
                 <li>User Experience Design</li>
                 <li>User Interface Design</li> 
                 <li>Interaction Design</li>
-                <li>Graphic: banner design</li>
+                <li>Graphic Design and Marketing Design</li>
                 <li>Web Development</li>
             </ul>
             <div>
@@ -75,7 +75,7 @@
             <p>Fellow which is MMORPG mobile game is going to be launch in North America Area. 
                 Accordingly, my client wants to make a teaser site that people can do pre-register 
                 and get prizes before they start the game. This project is a simple one-page design, 
-                but it contains much information by using tabs and sides function. The graphic 
+                but it contains much information by using tabs and rotation banners. The graphic 
                 elements on the page, have been designed based on the game style. 
                  </p>
             </div>
