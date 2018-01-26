@@ -17,7 +17,7 @@
             <div class="section2-thumb"><img src="img/aloha-imac.png" alt=""></div>
             <div class="section2-text">
             <p>This is a responsive website for the client: the Aloha Apparel Co. The website build with HTML, CSS components, and interactive JS. A responsive web design implemented using the mobile first approach. Languages: HTML5, CSS3, JavaScript & jQuery </p>
-            <p class="sub-title">Goal Point</p>
+            <!-- <p class="sub-title">Goal Point</p> -->
 
             <div class="ps-container">
             <!-- <h3>Solution</h3> -->
