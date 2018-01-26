@@ -24,7 +24,8 @@
                 <!-- <h3>Solution</h3> -->
              <ul>
                 <li>Interaction Design</li>
-                <li>Graphic: banner design</li>
+                <li>Marketing Strategy</li>
+                <li>Graphic Design</li>
             </ul>
             <div>
             </div>
