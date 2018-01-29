@@ -801,33 +801,27 @@ h6 {
   text-align: center;
   line-height: 24px;
   margin: 0px 0 50px 0;
-  background: url("../img/main-bg02.png") no-repeat center;
-  /* Create the parallax scrolling effect */
-  background-attachment: fixed;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.25) 0%, rgba(0, 0, 0, 0.25) 100%), url("../img/jisulee-p.jpg");
   background-size: cover;
-  height: 62vh;
-  height: 62vh; }
+  /* <------ */
+  background-repeat: no-repeat;
+  background-position: center center;
+  height: 90vh; }
 
 .aboutme-header-img {
-  padding-top: 100px;
+  padding-top: 180px;
   display: flex;
   flex-wrap: wrap;
   max-width: 800px;
   margin: 0 auto; }
   .aboutme-header-img h1 {
-    font-size: 24px;
+    font-size: 45px;
     color: white;
     margin-top: 138px;
     padding-left: 20px; }
     @media all and (min-width: 600px) {
       .aboutme-header-img h1 {
-        font-size: 45px;
-        color: white;
-        margin-top: 138px;
-        padding-left: 80px; } }
-    @media all and (min-width: 900px) {
-      .aboutme-header-img h1 {
-        padding-left: 180px; } }
+        padding-right: 80px; } }
 
 h5 {
   font-weight: 700;
