@@ -13,6 +13,8 @@
                 <div class="bar"></div>
             </div> -->
             <div class="web-p-container">
+ 
+
             <!-- <div class="web-p-single-container">
                     <div class="web-title"><img src="img/wordpress-icon-color.png" class="wp" alt="wordpress">
                     <h4>TR Canada | Word Press</h4>
@@ -27,6 +29,17 @@
                 </div>
                     <div class="git-btn"><a href="https://github.com/suleee/trcanada" class="git-link git-link-b">View in GitHub</a></div>
                 </div> -->
+
+                <div class="web-p-single-container">
+                    <div class="web-title"><img src="img/resp-icon-color.png" class="wp" alt="responsiceweb">
+                    <h4>Fellow Tesear Site | Responsive Web</h4></div>
+                    <!-- <div class="pink-bar am-wp-bar"></div> -->
+                    <div class="text"><p> This is Fellow Tesear site. The website build with HTML, CSS/SASS components, and interactive JS. A responsive web design implemented using the mobile first approach. 
+                    </p>
+                    <p class="lang"><span>language:</span> HTML5, CSS3, JavaScript and jQuery</p></div>
+                    <div class="git-btn">
+                        <a href="https://github.com/suleee/fellow-teaser" class="git-link git-link-pp"> View in GitHub</a></div>
+                </div>
 
                 <div class="web-p-single-container">
                     <div class="web-title"><img src="img/wordpress-icon-color.png" class="wp" alt="wordpress">
@@ -84,7 +97,7 @@
                     <div class="web-title"><img src="img/resp-icon-color.png" class="wp" alt="responsiceweb">
                     <h4>Aloha | Responsive Web</h4></div>
                     <!-- <div class="pink-bar am-wp-bar"></div> -->
-                    <div class="text"><p> The Aloha Apparel Co. The website build with HTML, CSS components, and interactive JS.A responsive web design implemented using the mobile first approach. 
+                    <div class="text"><p> The Aloha Apparel Co. The website build with HTML, CSS components, and interactive JS. A responsive web design implemented using the mobile first approach. 
                     </p>
                     <p class="lang"><span>language:</span> HTML5, CSS3, JavaScript and jQuery</p></div>
                     <div class="git-btn">
