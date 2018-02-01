@@ -32,7 +32,7 @@
 
                 <div class="web-p-single-container">
                     <div class="web-title"><img src="img/resp-icon-color.png" class="wp" alt="responsiceweb">
-                    <h4>Fellow Tesear Site | Responsive Web</h4></div>
+                    <h4>Fellow Teaser Site | Responsive Web</h4></div>
                     <!-- <div class="pink-bar am-wp-bar"></div> -->
                     <div class="text"><p> This is Fellow Tesear site. The website build with HTML, CSS/SASS components, and interactive JS. A responsive web design implemented using the mobile first approach. 
                     </p>
