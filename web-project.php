@@ -13,7 +13,7 @@
                 <div class="bar"></div>
             </div> -->
             <div class="web-p-container">
-            <div class="web-p-single-container">
+            <!-- <div class="web-p-single-container">
                     <div class="web-title"><img src="img/wordpress-icon-color.png" class="wp" alt="wordpress">
                     <h4>TR Canada | Word Press</h4>
                     </div>
@@ -26,7 +26,7 @@
                     </p>
                 </div>
                     <div class="git-btn"><a href="https://github.com/suleee/trcanada" class="git-link git-link-b">View in GitHub</a></div>
-                </div>
+                </div> -->
 
                 <div class="web-p-single-container">
                     <div class="web-title"><img src="img/wordpress-icon-color.png" class="wp" alt="wordpress">
