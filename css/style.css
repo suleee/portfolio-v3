@@ -73,15 +73,16 @@ li a:hover {
   margin-left: 20px;
   margin-top: 10px;
   padding: 10px 20px;
-  background: #00d08c;
+  background: white;
+  color: black;
   border-radius: 20px; }
   @media all and (min-width: 600px) {
     .contact-container a {
       margin-left: 0px; } }
 
 .contact-container a:hover {
-  background: white;
-  color: black; }
+  background: #00d08c;
+  color: white; }
 
 nav.active {
   width: 100%;
