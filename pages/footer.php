@@ -9,7 +9,7 @@
 		<a href="https://www.behance.net/jisuelee"><div class="f-sns behance"><i class="fa fa-behance" aria-hidden="true"></i></div></a>
 		<a href="https://www.linkedin.com/in/jisu-lee-02834364/"><div class="f-sns linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i></div></a>
 	</div>
-	 <small class="">HTML5 & CSS3 website by Jisu Lee © 2017 - 2018 <span><a href="mailto:ejisuleegmail.com?Subject=Hello%20again" target="_top">ejisulee@gmail.com</a></span></small>
+	 <small class="">PHP & SASS/CSS3 website by Jisu Lee © 2017 - 2018 <span><a href="mailto:ejisuleegmail.com?Subject=Hello%20again" target="_top">ejisulee@gmail.com</a></span></small>
 
 </footer>
 	
