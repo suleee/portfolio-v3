@@ -120,9 +120,11 @@
         <div class="max-width">
             <h5>Process & Approach</h5>
             <div class="process-approach-contianer">
-            <div class=""><img src="img/sc/sitemap.jpg" class="sc-map" alt=""></div>
-            <div class=""><img src="img/sc/wireframe-strongCurrent-login.jpg" class="sc-map" alt=""></div>
-            <div class=""><img src="img/sc/wireframe-strongCurrent-main.jpg" class="sc-map" alt=""></div>
+            <div class="process-first"><img src="img/sc/sitemap.jpg" class="sc-map" alt=""></div>
+            <div class="process-second">
+                <div class=""><img src="img/sc/wireframe-strongCurrent-login.jpg" class="sc-map" alt=""></div>
+                <div class=""><img src="img/sc/wireframe-strongCurrent-main.jpg" class="sc-map" alt=""></div>
+            </div>
             </div>
       
         </div>

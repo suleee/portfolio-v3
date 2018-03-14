@@ -48,8 +48,11 @@
   .process-approach-contianer{
       display: flex;
       justify-content: space-around;
-      div{
-          width: 30%;
+      .process-first, .process-second{
+          width: 50%;
       }
+  }
+  .process-second{
+    display: flex;
   }
 }
