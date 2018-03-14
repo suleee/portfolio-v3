@@ -22,21 +22,11 @@
             <div class="max-width">
             <div class="section2-thumb"><img src="img/sc/sc-imac.png"></div>
             <div class="section2-text">
-            <p>Strong Current needed a vibrant update to their aging website to strengthen their online presence.</p>
+            <p>Strong Current needed a vibrant update to their aging website to strengthen their online presence. This is an e-commerce website targeting the clients who want to sell the products on online or the clients who want to do the marketing on online. Currently, the site does not have enough information and clear direction to the clients, so they want to renew the website.</p>
              
             <div class="ps-container">
-                <!-- <h3>Solution</h3> -->
-             <ul>
-                <li>User Experience Design</li>
-                <li>User Interface Design</li> 
-                <li>Interaction Design</li>
-            </ul>
+          
             <div>
-            <!-- <ul class="main-text-list">
-            <li>Strategic Direction</li>
-            <li>UX</li>
-            <li>UI</li>
-            </ul> -->
             </div>
             </div>
             </div>
@@ -47,37 +37,53 @@
     <!-- <div class="ws-section3 sc-images"> -->
         <div class="secondrow-container">
         <div class="max-width">
-            <div class="secondrow-img"><img src="img/sc/sitemap.jpg" class="sc-map" alt=""></div>
-            <div class="secondrow-img"><img src="img/sc/style_guide.jpg" class="sc-style" alt=""></div>
+        <h3>problems</h3>
+            <ul>
+            <li>Unorganized </li>
+            <li>Does not have enough functionality the user can do</li>
+            <li>Website does not contain enough content</li>
+            <li>Some functionality is broken</li>
+            <li>Not responsive</li>
+            <li>Does not have a price&plan page</li>
+            </ul>
+
+            <h3>Solution</h3>
+             <ul>
+                <li>User Experience Design</li>
+                <li>User Interface Design</li> 
+                <li>Interaction Design</li>
+            </ul>
+        
         </div>
         </div>
         
         <div class="thirdrow-container">
         <div class="max-width">
-            <div class="thirdrow-img"><img src="img/sc/wireframe-strongCurrent-login.jpg"></div>
-            <div class="thirdrow-img"><img src="img/sc/wireframe-strongCurrent-main.jpg"></div>
+           
         </div>
         </div>
 
-        <div class="fourthrow-container">
+        <!-- <div class="fourthrow-container">
         <div class="max-width">
             <div class="fourthrow-img"><img src="img/sc/sc-color.png"></div>
             <div class="fourthrow-img"><img src="img/sc/sc-tablet.png"></div>
         </div>
-        </div>
+        </div> -->
 
-        <div class="fifthrow-container">
+        <div class="fourthrow-container">
         <div class="max-width">
-            <div><img src="img/sc/sc-mobile.jpg" alt=""></div>
+            <h5>Process & Approach</h5>
+            <div class="secondrow-img"><img src="img/sc/sitemap.jpg" class="sc-map" alt=""></div>
+      
         </div>
         </div>
 
-        <div class="ws-section4 sixthrow-container sc-images">
+        <div class="ws-section4 fifthrow-container sc-images">
         <div class="max-width">
             <div><img src="img/sc/sc-img03.png" alt=""></div>
         </div>
         </div>
-
+<!-- 
         <div class="seventhrow-container">
             <div class="max-width">
             <div class="bottom-info-container">
@@ -97,9 +103,9 @@
                 </div>
             </div>
             </div>
-        </div>
+        </div> -->
 
-        <div class="eighthrow-container">
+        <div class="sixthrow-container">
         <div class="max-width pb-flexbox">
             <a href="aloha.php" class="pb-tag"><div class="previous"><i class="fa fa-angle-left" aria-hidden="true"></i> previous</div></a>
             <a href="fellow.php" class="pb-tag"><div class="back">back <i class="fa fa-angle-right" aria-hidden="true"></i></div></a>
