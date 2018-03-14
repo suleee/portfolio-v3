@@ -48,31 +48,31 @@
         </div>
         </div>
 
-        <div class="fourthrow-container">
+        <!-- <div class="fourthrow-container">
         <div class="max-width">
             <div class="fourthrow-img"><img src="img/latale/latale-popup.png"></div>
         </div>
-        </div>
+        </div> -->
 
-        <div class="fifthrow-container">
+        <div class="fourthrow-container">
         <div class="max-width">
             <div class="fifthrow-img"><img src="img/latale/latale-signup.png"></div>
         </div>
         </div>
 
-        <div class="sixthrow-container">
+        <div class="fifthrow-container">
         <div class="max-width">
             <div class="fifthrow-img"><img src="img/latale/latale-page02.jpg"></div>
         </div>
         </div>
 
-        <div class="seventhrow-container">
+        <div class="sixthrow-container">
         <div class="max-width">
             <div class="fifthrow-img"><img src="img/latale/latale-page03.jpg"></div>
         </div>
         </div>
 
-        <div class="eighthrow-container">
+        <div class="seventhrow-container">
         <div class="max-width">
         <div class="bottom-info-container">
             <div class="text-container">
@@ -90,7 +90,7 @@
         </div>
         </div>
 
-        <div class="seventhrow-container">
+        <div class="eighthrow-container">
         <div class="max-width pb-flexbox">
             <a href="disney.php" class="pb-tag"><div class="previous"><i class="fa fa-angle-left" aria-hidden="true"></i> previous</div></a>
             <a href="war.php" class="pb-tag"><div class="back">back <i class="fa fa-angle-right" aria-hidden="true"></i></div></a>
