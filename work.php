@@ -67,7 +67,7 @@
                 <div class="thumb">
                 <img src="img/latale/latale-thumb.png" alt="latale-thumb">
                 <h3 class="">LaTale Migration page</h3> 
-                <p class="p-th-p"><span class="p-th-span">UI, UX, Web dDvelopment</span></p>  
+                <p class="p-th-p"><span class="p-th-span">UI, UX, Web Dvelopment</span></p>  
                 </div>
                 </a>
                 </div>
