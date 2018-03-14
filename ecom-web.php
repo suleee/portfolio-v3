@@ -23,7 +23,11 @@
             <div class="section2-thumb"><img src="img/sc/sc-imac.png"></div>
             <div class="section2-text">
             <p>Strong Current needed a vibrant update to their aging website to strengthen their online presence. This is an e-commerce website targeting the clients who want to sell the products on online or the clients who want to do the marketing on online. Currently, the site does not have enough information and clear direction to the clients. Therefore, they decide to renew the website.</p>
-             
+            <ul>
+                <li>User Experience Design</li>
+                <li>User Interface Design</li> 
+                <li>Interaction Design</li>
+            </ul>
             <div class="ps-container">
           
             <div>
@@ -49,9 +53,11 @@
 
             <h3>Solution</h3>
              <ul>
-                <li>User Experience Design</li>
-                <li>User Interface Design</li> 
-                <li>Interaction Design</li>
+                <li>Organize the content</li>
+                <li>add more contents</li>
+                <li>Create a price and plan page</li>
+                <li>Fixed the broken functions and roots</li>
+                <li>Create table and mobile verison</li>
             </ul>
         
         </div>
