@@ -80,7 +80,7 @@
 
         <div class="ws-section4 fifthrow-container sc-images">
         <div class="max-width">
-            <div><img src="img/sc/sc-img03.png" alt=""></div>
+            <div><img src="img/sc/final.png" alt=""></div>
         </div>
         </div>
 <!-- 
