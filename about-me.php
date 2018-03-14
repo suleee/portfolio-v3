@@ -99,6 +99,7 @@
                     <ul class="role accordion-section-content" id="accordion-1">
                         <li>Create wireframes, storyboards, user flows, process flows, interaction prototypes, and site maps
                             to communicate interaction and design ideas.</li>
+                        <li>look at user's behavior and do research to eliminate problems and creat solution to improve the sale performance and improve the internal software.</li>
                         <li>Use Photoshop and illustrator to design interactive assets</li>
                         <li>Evaluate content and sales flows to determine the strategy best suited to sell products.</li>
                         <li> Co-ordinate all aspects of production for print, audio-visual or electronic materials, such as Web
@@ -135,7 +136,7 @@
                        
                         <h5>Clients</h5>
                         
-                            <p>Catalyst Community Developments, Gradusone, Papaya play , Goboogie Games, TR Canada, etc.</p>
+                            <p>JnD Education Center, Catalyst Community Developments, Gradusone, Papaya play , Goboogie Games, TR Canada, etc.</p>
                     
                     </ul>
                 </div>
@@ -162,7 +163,7 @@
                   
 
                         <h5> Clients</h5>
-                        <p>Nexon, Disney, Marvel, MachineZone, Septeni Global, Nine Five, etc</p>
+                        <p>Nexon, Disney, Marvel, MachineZone, Septeni Global, Nine Five,  Papaya play, TrCanada, JnD Education Center, Fellow Game, Goboogie Games, Sandol Fellowship Church</p>
                         <!-- <ul>
                             <li>In charge of Disney Magical Dice marketing banners for North America </li>
                             <li>In charge of Game of War and Mobile Strike (Machine zone)</li>
@@ -171,7 +172,33 @@
                     </ul>
                 </div>
 
+
                 <div class="accordion-section ror-container" id="accordion-5">
+                <div class="job-title">
+                <p class="position">Creative Director</p>
+                    <p class="date"> Nov. 2015 - Sept. 2016 </p>
+                    <p class="company">Septeni Global</p>
+                   
+                    </div>
+                    <div class="view-btn"><a href="#accordion-5" class="accordion-section-title ep-btn" >View More</a></div>
+                    <ul class="role accordion-section-content" id="accordion-5">
+                        <li>Directs the activities of subordinates to maintain the agency’s standards of creative excellence, timeliness, and profitability</li>
+                        <li>Insurance the timely development and execution of plan, campaigns, and projects to assure earnings, growth, and profit goals are achieved</li>
+                        <li>Support and collaborate the projects with other directors who are in San Francisco</li>
+                        
+                        <li>Manage multiple projects from concept through completion</li>
+                        <li>Establish creative direction</li>
+                        <li>Design and create the valuable visual assets that reinforce the distinctive game brand and consistent visual identity throughout the site</li>
+                        
+                        <li>Provide quality control over concepts and projects</li>
+                        <li>Gather UX requirements from customer input, user research, and other sources. </li>
+                        <li>Create storyboards and presentations of the user experience Mockups and wireframes.</li>
+                        <li>Create Task flows, an information, wire-frames and specifications with detailed design flows. </li>
+                    </ul>
+                </div>
+
+
+                <div class="accordion-section ror-container" id="accordion-6">
                 <div class="job-title">
                 <p class="position">Web Designer</p>
                     <p class="date">March 2013 - Jan. 2015 </p>
@@ -207,7 +234,7 @@
                     </ul>
                 </div>
 
-                <div class="accordion-section ror-container" id="accordion-6">
+                <div class="accordion-section ror-container" id="accordion-7">
                 <div class="job-title">
                 <p class="position">Web Designer</p>
                     <p class="date">Jan. 2012 - March 2013</p>
