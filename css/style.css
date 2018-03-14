@@ -1018,6 +1018,11 @@ h5 {
     width: 45%; } }
 .e-commerce-container .fifthrow-container img {
   width: 100%; }
+.e-commerce-container .process-approach-contianer {
+  display: flex;
+  justify-content: space-around; }
+  .e-commerce-container .process-approach-contianer div {
+    width: 30%; }
 
 .latle-container .latle-topbanner {
   background: linear-gradient(to bottom, rgba(0, 0, 0, 0.6) 60%, rgba(0, 0, 0, 0.6) 60%), url("../img/latale/latle-mainbanner.jpg") no-repeat top;

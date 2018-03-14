@@ -84,7 +84,7 @@
                  </p>
             </div>
             <div class="text-container text-container-right">
-            <div class="image-container"><img src="img/latale/latale-workingFlow.png"></div>
+            <div class="image-container"><img src="img/latale/latale-workingFlow.png" alt="flow-chart"></div>
             </div>
         </div>
         </div>

@@ -56,12 +56,58 @@
         
         </div>
         </div>
-        
-        <div class="thirdrow-container">
+
+
+
+
+
+
+
+               <div class="rotationbanner-container">
+        <div class="max-width">
+            <h1></h1>
+            <!-- Flickity HTML init -->
+            <div class="carousel" data-flickity='{ "lazyLoad": true, "autoPlay": true }'>
+            <div class="carousel-cell">
+                <img class="carousel-cell-image"
+                data-flickity-lazyload="img/sc/image01.png" alt="tulip" />
+            </div>
+            <div class="carousel-cell">
+                <img class="carousel-cell-image"
+                data-flickity-lazyload="img/sc/image02.png" alt="tulip" />
+            </div>
+            <div class="carousel-cell">
+                <img class="carousel-cell-image"
+                data-flickity-lazyload="img/sc/image03.png" alt="tulip" />
+            </div>
+            <div class="carousel-cell">
+                <img class="carousel-cell-image"
+                data-flickity-lazyload="img/sc/image04.png" alt="tulip" />
+            </div>
+            <div class="carousel-cell">
+                <img class="carousel-cell-image"
+                data-flickity-lazyload="img/sc/image05.png" alt="tulip" />
+            </div>
+            <div class="carousel-cell">
+                <img class="carousel-cell-image"
+                data-flickity-lazyload="img/sc/image06.png" alt="tulip" />
+            </div>
+            <div class="carousel-cell">
+                <img class="carousel-cell-image"
+                data-flickity-lazyload="img/sc/image07.png" alt="tulip" />
+            </div>
+            <div class="carousel-cell">
+                <img class="carousel-cell-image"
+                data-flickity-lazyload="imgsc/image08.png" alt="tulip" />
+            </div>
+        </div>
+        </div>
+        </div> 
+        <!-- <div class="thirdrow-container">
         <div class="max-width">
            
         </div>
-        </div>
+        </div> -->
 
         <!-- <div class="fourthrow-container">
         <div class="max-width">
@@ -73,7 +119,11 @@
         <div class="fourthrow-container">
         <div class="max-width">
             <h5>Process & Approach</h5>
-            <div class="secondrow-img"><img src="img/sc/sitemap.jpg" class="sc-map" alt=""></div>
+            <div class="process-approach-contianer">
+            <div class=""><img src="img/sc/sitemap.jpg" class="sc-map" alt=""></div>
+            <div class=""><img src="img/sc/wireframe-strongCurrent-login.jpg" class="sc-map" alt=""></div>
+            <div class=""><img src="img/sc/wireframe-strongCurrent-main.jpg" class="sc-map" alt=""></div>
+            </div>
       
         </div>
         </div>

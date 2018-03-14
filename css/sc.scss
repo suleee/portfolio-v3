@@ -45,5 +45,11 @@
             width: 100%;
         }
     }
- 
+  .process-approach-contianer{
+      display: flex;
+      justify-content: space-around;
+      div{
+          width: 30%;
+      }
+  }
 }
