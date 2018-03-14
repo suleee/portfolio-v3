@@ -22,7 +22,7 @@
             <div class="max-width">
             <div class="section2-thumb"><img src="img/sc/sc-imac.png"></div>
             <div class="section2-text">
-            <p>Strong Current needed a vibrant update to their aging website to strengthen their online presence. This is an e-commerce website targeting the clients who want to sell the products on online or the clients who want to do the marketing on online. Currently, the site does not have enough information and clear direction to the clients, so they want to renew the website.</p>
+            <p>Strong Current needed a vibrant update to their aging website to strengthen their online presence. This is an e-commerce website targeting the clients who want to sell the products on online or the clients who want to do the marketing on online. Currently, the site does not have enough information and clear direction to the clients. Therefore, they decide to renew the website.</p>
              
             <div class="ps-container">
           
