@@ -1004,11 +1004,13 @@ h5 {
   color: black;
   font-weight: 500; }
 @media all and (min-width: 600px) {
-  .e-commerce-container .thirdrow-container .max-width, .e-commerce-container .fourthrow-container .max-width {
+  .e-commerce-container .thirdrow-container .max-width,
+  .e-commerce-container .fourthrow-container .max-width {
     display: flex;
     justify-content: space-around;
     margin: 0 auto; } }
-.e-commerce-container .thirdrow-container .max-width img, .e-commerce-container .fourthrow-container .max-width img {
+.e-commerce-container .thirdrow-container .max-width img,
+.e-commerce-container .fourthrow-container .max-width img {
   width: 100%; }
 @media all and (min-width: 600px) {
   .e-commerce-container .thirdrow-img {
@@ -1033,6 +1035,15 @@ h5 {
   display: flex; }
 .e-commerce-container .fourthrow-container {
   background-color: white; }
+.e-commerce-container .sc-problem {
+  padding-left: 36px;
+  line-height: 24px; }
+  .e-commerce-container .sc-problem h3 {
+    font-weight: 900; }
+  .e-commerce-container .sc-problem ul {
+    margin-left: 20px; }
+  .e-commerce-container .sc-problem .problem {
+    margin-bottom: 20px; }
 
 .latle-container .latle-topbanner {
   background: linear-gradient(to bottom, rgba(0, 0, 0, 0.6) 60%, rgba(0, 0, 0, 0.6) 60%), url("../img/latale/latle-mainbanner.jpg") no-repeat top;

@@ -39,25 +39,29 @@
 
     <!-- <div class="ws-section3 sc-images"> -->
         <div class="secondrow-container">
-        <div class="max-width">
-        <h3>problems</h3>
-            <ul>
-            <li>Unorganized </li>
-            <li>Does not have enough functionality the user can do</li>
-            <li>Website does not contain enough content</li>
-            <li>Some functionality is broken</li>
-            <li>Not responsive</li>
-            <li>Does not have a price&plan page</li>
-            </ul>
+        <div class="max-width sc-problem">
+            <div class="problem">
+                <h3>problems</h3>
+                <ul>
+                <li>Unorganized </li>
+                <li>Does not have enough functionality the user can do</li>
+                <li>Website does not contain enough content</li>
+                <li>Some functionality is broken</li>
+                <li>Not responsive</li>
+                <li>Does not have a price&plan page</li>
+                </ul>
+                </div>
 
-            <h3>Solution</h3>
-             <ul>
-                <li>Organize the content</li>
-                <li>add more contents</li>
-                <li>Create a price and plan page</li>
-                <li>Fixed the broken functions and roots</li>
-                <li>Create table and mobile verison</li>
-            </ul>
+            <div class="solution">
+                <h3>Solution</h3>
+                <ul>
+                    <li>Organize the content</li>
+                    <li>add more contents</li>
+                    <li>Create a price and plan page</li>
+                    <li>Fixed the broken functions and roots</li>
+                    <li>Create table and mobile verison</li>
+                </ul>
+            </div>
         
         </div>
         </div>
