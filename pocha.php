@@ -16,20 +16,45 @@
             <div class="max-width">
             <div class="section2-thumb"><img src="img/pocha/pocha-mac01.png"></div>
             <div class="section2-text">
-            <p>BB Poccha restaurant needed renew their aging menu to update their new menu and the design. I help them to solve the problems they have and add content that they want.</p>
+            <p>BB Poccha is a Korean style cart bar/restaurant which located in Downtown Vancovuer. They needed renew their aging menu to update their new menu and the design. I help them to solve the problems they have and add content that they want.</p>
             <div class="ps-container">
                 <!-- <h3>Solution</h3> -->
              <ul>
-                <li>User experience Design</li>
                 <li>User interface Design</li> 
-                <li>Interaction Design</li>
                 <li>Graphic: banner design</li>
-                <li>Web Development</li>
             </ul>
             <div>
             </div>
             </div>
             </div>
+            </div>
+            </div>
+
+
+            <div class="secondrow-container">
+             <div class="max-width pocha-problem">
+                    <div class="problem">
+                    <h3>problems</h3>
+                    <ul>
+                    <li>Unorganized </li>
+                    <li>The menu does not match with the restaurant theme</li>
+                    <li>Design is ageing</li>
+                    <li>Need more images to preview the food</li>
+                    <li>Need language variation for foreign</li>
+                    </ul>
+                    </div>
+
+                <div class="solution">
+                    <h3>Solution</h3>
+                    <ul>
+                        <li>Organize the content</li>
+                        <li>Come up with the design related to the restaurant</li>
+                        <li>PoCha is Korean which means cart bar, so I add the theme of cart bar so if Korean see the menu they instantly understand it is PoCha</li>
+                        <li>Add more energetic feeling</li>
+                        <li>Use emoji and food images to attractive customers</li>
+                    </ul>
+                </div>
+        
             </div>
             </div>
 

@@ -1120,6 +1120,8 @@ h5 {
   background: linear-gradient(to bottom, rgba(0, 0, 0, 0.4) 40%, rgba(0, 0, 0, 0.4) 40%), url("../img/ad/adbuyer-bg.jpg") no-repeat top;
   background-size: cover;
   height: 90vh; }
+.adbuyer-container span {
+  font-weight: 900; }
 @media all and (min-width: 600px) {
   .adbuyer-container .secondrow-container .secondrow-img {
     width: 30%; } }
@@ -1143,6 +1145,19 @@ h5 {
 .pocha-container .rotate-banner-bg {
   background: linear-gradient(to bottom, rgba(0, 0, 0, 0.4) 0%, rgba(0, 0, 0, 0.4) 0%), url("../img/pocha/image2-bg.jpg") no-repeat top;
   background-size: cover; }
+.pocha-container .pocha-problem {
+  padding-left: 36px;
+  line-height: 24px; }
+  .pocha-container .pocha-problem h3 {
+    font-weight: 900; }
+  .pocha-container .pocha-problem ul {
+    margin-left: 20px; }
+  .pocha-container .pocha-problem .problem {
+    margin-bottom: 20px; }
+.pocha-container .rotationbanner-container .max-width {
+  margin: 0 auto; }
+.pocha-container .pocha-problem .problem, .pocha-container .pocha-problem .solution {
+  width: 50%; }
 
 .disney-container .disney-topbanner {
   background: linear-gradient(to bottom, rgba(0, 0, 0, 0.6) 60%, rgba(0, 0, 0, 0.6) 60%), url("../img/disney/d-topbanner.jpg") no-repeat top;

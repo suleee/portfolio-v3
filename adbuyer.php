@@ -16,9 +16,10 @@
             <div class="max-width">
             <div class="section2-thumb"><img src="img/ad/image2.png"></div>
             <div class="section2-text">
-            <p>This is the print and digital media design for AD Buyer meetup. 
-            Print media design: Sponsor Pamphlet, flyers, LED screen, table, Step and Repeat banner
-            Digital media: website, email template, Facebook Newsfeed and Facebook cover.
+            <p>This is the print and digital media design for AD Buyer meetup. AD Buyer Meetup is a event...
+
+            <p><span>Print media design:</span> Sponsor Pamphlet, flyers, LED screen, table, Step and Repeat banner</p>
+            <p><span>Digital media:</span> website, email template, Facebook Newsfeed and Facebook cover</p>
             
        
             <div class="ps-container">
