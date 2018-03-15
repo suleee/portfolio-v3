@@ -31,6 +31,15 @@
                 </a>
                 </div>
 
+                <div class="dp-thumb-con">
+                <a class="btn03" href="adbuyer.php">
+                <div class="thumb">
+                <img src="img/ad/ad-mac01.png" alt="fsm-thumb">
+                <h3 class="">Ad Buyer Meetup</h3> 
+                <p class="p-th-p"><span class="p-th-span">UX, Print Media</span></p>  
+                </div>
+                </a>
+                </div>
 
                 <div class="dp-thumb-con">
                 <a class="btn03" href="fsm.php">
@@ -48,6 +57,16 @@
                 <img src="img/cha/cha-thumb.png" alt="work02">
                 <h3 class="">Chakra Sole Order page</h3> 
                 <p class="p-th-p"><span class="p-th-span">UI, Marketing Strategy, Product Design</span></p>  
+                </div>
+                </a>
+                </div>
+
+                <div class="dp-thumb-con">
+                <a class="btn03" href="adbuyer.php">
+                <div class="thumb">
+                <img src="img/ad/ad-mac01.png" alt="pocha-thumb">
+                <h3 class="">Pocha menu Design</h3> 
+                <p class="p-th-p"><span class="p-th-span">UX, Print Media</span></p>  
                 </div>
                 </a>
                 </div>

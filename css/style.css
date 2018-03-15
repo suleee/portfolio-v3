@@ -1116,6 +1116,58 @@ h5 {
   .fellow-container .fellow-gif img {
     width: 100%; }
 
+.adbuyer-container .latle-topbanner {
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.4) 40%, rgba(0, 0, 0, 0.4) 40%), url("../img/ad/adbuyer-bg.jpg") no-repeat top;
+  background-size: cover;
+  height: 90vh; }
+.adbuyer-container .secondrow-img, .adbuyer-container .thirdrow-img, .adbuyer-container .fourthrow-img, .adbuyer-container .fifthrow-img {
+  width: 100%;
+  margin: 0 auto; }
+  @media all and (min-width: 600px) {
+    .adbuyer-container .secondrow-img, .adbuyer-container .thirdrow-img, .adbuyer-container .fourthrow-img, .adbuyer-container .fifthrow-img {
+      width: 80%; } }
+  .adbuyer-container .secondrow-img img, .adbuyer-container .thirdrow-img img, .adbuyer-container .fourthrow-img img, .adbuyer-container .fifthrow-img img {
+    width: 100%; }
+.adbuyer-container .thirdrow-img {
+  width: 100%; }
+.adbuyer-container .eighthrow-container {
+  background: #F6F6F6;
+  border-top: 1px solid #dce0e5;
+  border-bottom: 1px solid #dce0e5; }
+.adbuyer-container .bottom-info-container .image-container {
+  margin: 20px 0; }
+  @media all and (min-width: 600px) {
+    .adbuyer-container .bottom-info-container .image-container {
+      margin: 0px 0; } }
+  .adbuyer-container .bottom-info-container .image-container img {
+    width: 100%; }
+
+.adbuyer-container .latle-topbanner {
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.4) 40%, rgba(0, 0, 0, 0.4) 40%), url("../img/print/print-bg.png") no-repeat top;
+  background-size: cover;
+  height: 90vh; }
+.adbuyer-container .secondrow-img, .adbuyer-container .thirdrow-img, .adbuyer-container .fourthrow-img, .adbuyer-container .fifthrow-img {
+  width: 100%;
+  margin: 0 auto; }
+  @media all and (min-width: 600px) {
+    .adbuyer-container .secondrow-img, .adbuyer-container .thirdrow-img, .adbuyer-container .fourthrow-img, .adbuyer-container .fifthrow-img {
+      width: 80%; } }
+  .adbuyer-container .secondrow-img img, .adbuyer-container .thirdrow-img img, .adbuyer-container .fourthrow-img img, .adbuyer-container .fifthrow-img img {
+    width: 100%; }
+.adbuyer-container .thirdrow-img {
+  width: 100%; }
+.adbuyer-container .eighthrow-container {
+  background: #F6F6F6;
+  border-top: 1px solid #dce0e5;
+  border-bottom: 1px solid #dce0e5; }
+.adbuyer-container .bottom-info-container .image-container {
+  margin: 20px 0; }
+  @media all and (min-width: 600px) {
+    .adbuyer-container .bottom-info-container .image-container {
+      margin: 0px 0; } }
+  .adbuyer-container .bottom-info-container .image-container img {
+    width: 100%; }
+
 .disney-container .disney-topbanner {
   background: linear-gradient(to bottom, rgba(0, 0, 0, 0.6) 60%, rgba(0, 0, 0, 0.6) 60%), url("../img/disney/d-topbanner.jpg") no-repeat top;
   background-size: cover;
