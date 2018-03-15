@@ -1,41 +1,16 @@
 
-.adbuyer-container {
-    .latle-topbanner {
-        background: linear-gradient(to bottom, rgba(0, 0, 0, 0.4) 40%, rgba(0, 0, 0, 0.4) 40%), url('../img/print/print-bg.png') no-repeat top;
+.pocha-container {
+    .pocha-topbanner {
+        background: linear-gradient(to bottom, rgba(0, 0, 0, 0.4) 40%, rgba(0, 0, 0, 0.4) 40%), url('../img/pocha/pocha-bg.jpg') no-repeat top;
         background-size: cover;
         height: 90vh;
     }
  
 
-    .secondrow-img, .thirdrow-img, .fourthrow-img, .fifthrow-img{
-        width: 100%;
-        margin: 0 auto;
-        @media all and (min-width: 600px) {
-            width: 80%;
-        }
-        img{
-            width: 100%;
-        }
-    }
-    .thirdrow-img{
-        width: 100%;
-    }
-    .eighthrow-container{
-        background: #F6F6F6;
-        border-top: 1px solid #dce0e5;
-        border-bottom: 1px solid #dce0e5;
-    }
-
-    .bottom-info-container {
-        .image-container {
-            margin: 20px 0;
-            @media all and (min-width: 600px) {
-                margin: 0px 0;
-            }
-            img{
-                width: 100%;
-               
-            }
-        }
-    }
+.rotate-banner-bg{
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.4) 0%, rgba(0, 0, 0, 0.4) 0%), url('../img/pocha/image2-bg.jpg') no-repeat top;
+    background-size: cover;
+}
+ 
+    
 }

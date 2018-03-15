@@ -1,41 +1,31 @@
-
 .adbuyer-container {
-    .latle-topbanner {
+    .adbuyer-topbanner {
         background: linear-gradient(to bottom, rgba(0, 0, 0, 0.4) 40%, rgba(0, 0, 0, 0.4) 40%), url('../img/ad/adbuyer-bg.jpg') no-repeat top;
         background-size: cover;
         height: 90vh;
     }
- 
-
-    .secondrow-img, .thirdrow-img, .fourthrow-img, .fifthrow-img{
-        width: 100%;
-        margin: 0 auto;
-        @media all and (min-width: 600px) {
-            width: 80%;
-        }
-        img{
-            width: 100%;
-        }
-    }
-    .thirdrow-img{
-        width: 100%;
-    }
-    .eighthrow-container{
-        background: #F6F6F6;
-        border-top: 1px solid #dce0e5;
-        border-bottom: 1px solid #dce0e5;
-    }
-
-    .bottom-info-container {
-        .image-container {
-            margin: 20px 0;
+    .secondrow-container {
+        .secondrow-img {
             @media all and (min-width: 600px) {
-                margin: 0px 0;
+                width: 30%;
             }
-            img{
+            img {
                 width: 100%;
-               
             }
+        }
+    }
+    .header-text {
+        width: 500px;
+        padding-bottom: 30px;
+        margin: 0 auto;
+        text-align: center;
+    }
+    .thirdrow-img {
+        @media all and (min-width: 600px) {
+            width: 30%;
+        }
+        img {
+            width: 100%;
         }
     }
 }

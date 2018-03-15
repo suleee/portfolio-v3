@@ -72,46 +72,46 @@
 
 
 
-               <div class="rotationbanner-container">
-        <div class="max-width">
-            <h1></h1>
-            <!-- Flickity HTML init -->
-            <div class="carousel" data-flickity='{ "lazyLoad": true, "autoPlay": true }'>
-            <div class="carousel-cell">
-                <img class="carousel-cell-image"
-                data-flickity-lazyload="img/sc/image01.png" alt="tulip" />
-            </div>
-            <div class="carousel-cell">
-                <img class="carousel-cell-image"
-                data-flickity-lazyload="img/sc/image02.png" alt="tulip" />
-            </div>
-            <div class="carousel-cell">
-                <img class="carousel-cell-image"
-                data-flickity-lazyload="img/sc/image03.png" alt="tulip" />
-            </div>
-            <div class="carousel-cell">
-                <img class="carousel-cell-image"
-                data-flickity-lazyload="img/sc/image04.png" alt="tulip" />
-            </div>
-            <div class="carousel-cell">
-                <img class="carousel-cell-image"
-                data-flickity-lazyload="img/sc/image05.png" alt="tulip" />
-            </div>
-            <div class="carousel-cell">
-                <img class="carousel-cell-image"
-                data-flickity-lazyload="img/sc/image06.png" alt="tulip" />
-            </div>
-            <div class="carousel-cell">
-                <img class="carousel-cell-image"
-                data-flickity-lazyload="img/sc/image07.png" alt="tulip" />
-            </div>
-            <div class="carousel-cell">
-                <img class="carousel-cell-image"
-                data-flickity-lazyload="img/sc/image08.png" alt="tulip" />
-            </div>
-        </div>
-        </div>
-        </div> 
+            <div class="rotationbanner-container">
+                <div class="max-width">
+                    <h1></h1>
+                    <!-- Flickity HTML init -->
+                    <div class="carousel" data-flickity='{ "lazyLoad": true, "autoPlay": true }'>
+                    <div class="carousel-cell">
+                        <img class="carousel-cell-image"
+                        data-flickity-lazyload="img/sc/image01.png" alt="tulip" />
+                    </div>
+                    <div class="carousel-cell">
+                        <img class="carousel-cell-image"
+                        data-flickity-lazyload="img/sc/image02.png" alt="tulip" />
+                    </div>
+                    <div class="carousel-cell">
+                        <img class="carousel-cell-image"
+                        data-flickity-lazyload="img/sc/image03.png" alt="tulip" />
+                    </div>
+                    <div class="carousel-cell">
+                        <img class="carousel-cell-image"
+                        data-flickity-lazyload="img/sc/image04.png" alt="tulip" />
+                    </div>
+                    <div class="carousel-cell">
+                        <img class="carousel-cell-image"
+                        data-flickity-lazyload="img/sc/image05.png" alt="tulip" />
+                    </div>
+                    <div class="carousel-cell">
+                        <img class="carousel-cell-image"
+                        data-flickity-lazyload="img/sc/image06.png" alt="tulip" />
+                    </div>
+                    <div class="carousel-cell">
+                        <img class="carousel-cell-image"
+                        data-flickity-lazyload="img/sc/image07.png" alt="tulip" />
+                    </div>
+                    <div class="carousel-cell">
+                        <img class="carousel-cell-image"
+                        data-flickity-lazyload="img/sc/image08.png" alt="tulip" />
+                    </div>
+                </div>
+                </div>
+                </div> 
         <!-- <div class="thirdrow-container">
         <div class="max-width">
            

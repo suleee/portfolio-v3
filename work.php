@@ -52,6 +52,17 @@
                 </div>
 
                 <div class="dp-thumb-con">
+                <a class="btn03" href="pocha.php">
+                <div class="thumb">
+                <img src="img/pocha/pocha-mac01.png" alt="pocha-thumb">
+                <h3 class="">BB Pocha menu Design</h3> 
+                <p class="p-th-p"><span class="p-th-span">UX, Print Media</span></p>  
+                </div>
+                </a>
+                </div>
+
+                
+                <div class="dp-thumb-con">
                 <a class="btn03" href="chakrasole.php">
                 <div class="thumb">
                 <img src="img/cha/cha-thumb.png" alt="work02">
@@ -61,15 +72,6 @@
                 </a>
                 </div>
 
-                <div class="dp-thumb-con">
-                <a class="btn03" href="adbuyer.php">
-                <div class="thumb">
-                <img src="img/ad/ad-mac01.png" alt="pocha-thumb">
-                <h3 class="">Pocha menu Design</h3> 
-                <p class="p-th-p"><span class="p-th-span">UX, Print Media</span></p>  
-                </div>
-                </a>
-                </div>
 
                 <div class="dp-thumb-con">
                 <a class="btn03" href="disney.php">

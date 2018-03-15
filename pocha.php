@@ -2,11 +2,11 @@
 <?php include( './pages/header.php' );?>
 
 
-<section class="latle-container">
-<div class="ws-section1 latle-topbanner">
+<section class="pocha-container">
+<div class="ws-section1 pocha-topbanner">
             <div class="sp-sub-title">
-            <h6>Latale Migration page</h6>
-            <div class="ws-lang"><p>Photoshop, Illustrator, InVision, Sketch, HTML, CSS, JS </p></div>
+            <h6>BB Pocha Menu Design</h6>
+            <div class="ws-lang"><p>Photoshop, Illustrator, InDesign</p></div>
             </div>
             <div class="ws-btns">
             </div>
@@ -14,10 +14,9 @@
 
             <div class="ws-section2">
             <div class="max-width">
-            <div class="section2-thumb"><img src="img/latale/latale-thumb.png"></div>
+            <div class="section2-thumb"><img src="img/pocha/pocha-mac01.png"></div>
             <div class="section2-text">
-            <p>Papaya game request to create migration page which helps the users safely transfer their account to the new game publisher company.</p>
-
+            <p>BB Poccha restaurant needed renew their aging menu to update their new menu and the design. I help them to solve the problems they have and add content that they want.</p>
             <div class="ps-container">
                 <!-- <h3>Solution</h3> -->
              <ul>
@@ -36,61 +35,35 @@
 
 
     <!-- <div class="ws-section3 sc-images"> -->
-        <div class="secondrow-container">
-        <div class="max-width">
-            <div class="secondrow-img"><img src="img/latale/latale-page01.png" alt=""></div>
+  
+    <div class="rotationbanner-container rotate-banner-bg">
+    <div class="max-width">
+        <h1></h1>
+        <!-- Flickity HTML init -->
+        <div class="carousel" data-flickity='{ "lazyLoad": true, "autoPlay": true }'>
+        <div class="carousel-cell">
+            <img class="carousel-cell-image"
+            data-flickity-lazyload="img/pocha/image2.png" alt="tulip" />
         </div>
+        <div class="carousel-cell">
+            <img class="carousel-cell-image"
+            data-flickity-lazyload="img/pocha/image1.png" alt="tulip" />
         </div>
+    </div>
+    </div>
+    </div> 
+
         
         <div class="thirdrow-container">
         <div class="max-width">
-            <div class="thirdrow-img"><img src="img/latale/latale-tablet.jpg"></div>
+        <h5>Process & Approach</h5>
+            <div class="process-approach-contianer">
+          
+            </div>
         </div>
         </div>
-
-        <!-- <div class="fourthrow-container">
-        <div class="max-width">
-            <div class="fourthrow-img"><img src="img/latale/latale-popup.png"></div>
-        </div>
-        </div> -->
 
         <div class="fourthrow-container">
-        <div class="max-width">
-            <div class="fifthrow-img"><img src="img/latale/latale-signup.png"></div>
-        </div>
-        </div>
-
-        <div class="fifthrow-container">
-        <div class="max-width">
-            <div class="fifthrow-img"><img src="img/latale/latale-page02.jpg"></div>
-        </div>
-        </div>
-
-        <div class="sixthrow-container">
-        <div class="max-width">
-            <div class="fifthrow-img"><img src="img/latale/latale-page03.jpg"></div>
-        </div>
-        </div>
-
-        <div class="seventhrow-container">
-        <div class="max-width">
-        <div class="bottom-info-container">
-            <div class="text-container">
-            <h3>More About this Project</h3>
-            <p>Papaya Game Inc. request to create migration page which helps the users safely 
-                transfer their account to the new game publishing company. The final product were 
-                developed into a responsive website for viewing 
-                on desktop, mobile or tablet devices.
-                 </p>
-            </div>
-            <div class="text-container text-container-right">
-            <div class="image-container"><img src="img/latale/latale-workingFlow.png" alt="flow-chart"></div>
-            </div>
-        </div>
-        </div>
-        </div>
-
-        <div class="eighthrow-container">
         <div class="max-width pb-flexbox">
             <a href="disney.php" class="pb-tag"><div class="previous"><i class="fa fa-angle-left" aria-hidden="true"></i> previous</div></a>
             <a href="war.php" class="pb-tag"><div class="back">back <i class="fa fa-angle-right" aria-hidden="true"></i></div></a>
