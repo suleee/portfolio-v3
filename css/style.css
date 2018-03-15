@@ -1018,13 +1018,21 @@ h5 {
     width: 45%; } }
 .e-commerce-container .fifthrow-container img {
   width: 100%; }
-.e-commerce-container .process-approach-contianer {
-  display: flex;
-  justify-content: space-around; }
-  .e-commerce-container .process-approach-contianer .process-first, .e-commerce-container .process-approach-contianer .process-second {
-    width: 50%; }
-.e-commerce-container .process-second {
+@media all and (min-width: 600px) {
+  .e-commerce-container .process-approach-contianer {
+    display: flex;
+    justify-content: space-around; }
+    .e-commerce-container .process-approach-contianer .process-first {
+      width: 70%; }
+    .e-commerce-container .process-approach-contianer .process-second {
+      width: 30%; }
+      .e-commerce-container .process-approach-contianer .process-second img {
+        width: 100%;
+        height: 100%; } }
+.e-commerce-container .process-approach-contianer .process-second {
   display: flex; }
+.e-commerce-container .fourthrow-container {
+  background-color: white; }
 
 .latle-container .latle-topbanner {
   background: linear-gradient(to bottom, rgba(0, 0, 0, 0.6) 60%, rgba(0, 0, 0, 0.6) 60%), url("../img/latale/latle-mainbanner.jpg") no-repeat top;

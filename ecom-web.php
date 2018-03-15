@@ -103,7 +103,7 @@
             </div>
             <div class="carousel-cell">
                 <img class="carousel-cell-image"
-                data-flickity-lazyload="imgsc/image08.png" alt="tulip" />
+                data-flickity-lazyload="img/sc/image08.png" alt="tulip" />
             </div>
         </div>
         </div>
@@ -126,10 +126,8 @@
             <h5>Process & Approach</h5>
             <div class="process-approach-contianer">
             <div class="process-first"><img src="img/sc/sitemap.jpg" class="sc-map" alt=""></div>
-            <div class="process-second">
-                <div class=""><img src="img/sc/wireframe-strongCurrent-login.jpg" class="sc-map" alt=""></div>
-                <div class=""><img src="img/sc/wireframe-strongCurrent-main.jpg" class="sc-map" alt=""></div>
-            </div>
+                <div class="process-second"><img src="img/sc/wireframe-strongCurrent-main.jpg" class="sc-map" alt=""></div>
+     
             </div>
       
         </div>

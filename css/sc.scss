@@ -46,13 +46,24 @@
         }
     }
   .process-approach-contianer{
+    @media all and (min-width: 600px) {
       display: flex;
       justify-content: space-around;
-      .process-first, .process-second{
-          width: 50%;
+      .process-first
+      {width: 70%;
+
+      }.process-second{
+          width: 30%;
+          img{
+              width: 100%;
+              height: 100%;
+            }
       }
   }
   .process-second{
     display: flex;
-  }
+  }}
+.fourthrow-container{
+    background-color: white;
+}
 }
