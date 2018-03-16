@@ -1044,6 +1044,13 @@ h5 {
     margin-left: 20px; }
   .e-commerce-container .sc-problem .problem {
     margin-bottom: 20px; }
+.e-commerce-container .header-text {
+  padding-bottom: 30px;
+  margin: 0 auto;
+  text-align: center; }
+  @media all and (min-width: 600px) {
+    .e-commerce-container .header-text {
+      width: 500px; } }
 
 .latle-container .latle-topbanner {
   background: linear-gradient(to bottom, rgba(0, 0, 0, 0.6) 60%, rgba(0, 0, 0, 0.6) 60%), url("../img/latale/latle-mainbanner.jpg") no-repeat top;
@@ -1121,17 +1128,19 @@ h5 {
   background-size: cover;
   height: 90vh; }
 .adbuyer-container span {
-  font-weight: 900; }
+  font-weight: 600; }
 @media all and (min-width: 600px) {
   .adbuyer-container .secondrow-container .secondrow-img {
     width: 30%; } }
 .adbuyer-container .secondrow-container .secondrow-img img {
   width: 100%; }
 .adbuyer-container .header-text {
-  width: 500px;
   padding-bottom: 30px;
   margin: 0 auto;
   text-align: center; }
+  @media all and (min-width: 600px) {
+    .adbuyer-container .header-text {
+      width: 800px; } }
 @media all and (min-width: 600px) {
   .adbuyer-container .thirdrow-img {
     width: 30%; } }
@@ -1158,6 +1167,18 @@ h5 {
   margin: 0 auto; }
 .pocha-container .pocha-problem .problem, .pocha-container .pocha-problem .solution {
   width: 50%; }
+.pocha-container .process-approach-contianer {
+  display: flex;
+  justify-content: space-around; }
+  .pocha-container .process-approach-contianer .thirdrow-img {
+    width: 30%; }
+.pocha-container .header-text {
+  padding-bottom: 30px;
+  margin: 0 auto;
+  text-align: center; }
+  @media all and (min-width: 600px) {
+    .pocha-container .header-text {
+      width: 500px; } }
 
 .disney-container .disney-topbanner {
   background: linear-gradient(to bottom, rgba(0, 0, 0, 0.6) 60%, rgba(0, 0, 0, 0.6) 60%), url("../img/disney/d-topbanner.jpg") no-repeat top;

@@ -41,7 +41,7 @@
                 <div class="thumb">
                 <img src="img/ad/ad-mac01.png" alt="fsm-thumb">
                 <h3 class="">Ad Buyer Meetup</h3> 
-                <p class="p-th-p"><span class="p-th-span">UX, Print Media</span></p>  
+                <p class="p-th-p"><span class="p-th-span">UX, Print Media, Design</span></p>  
                 </div>
                 </a>
                 </div>
@@ -57,13 +57,13 @@
                 </a>
                 </div>
 
-                
+
                 <div class="dp-thumb-con">
                 <a class="btn03" href="pocha.php">
                 <div class="thumb">
                 <img src="img/pocha/pocha-mac01.png" alt="pocha-thumb">
                 <h3 class="">BB Pocha menu Design</h3> 
-                <p class="p-th-p"><span class="p-th-span">UX, Print Media</span></p>  
+                <p class="p-th-p"><span class="p-th-span">UX, Print Media, Design</span></p>  
                 </div>
                 </a>
                 </div>

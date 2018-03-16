@@ -16,10 +16,10 @@
             <div class="max-width">
             <div class="section2-thumb"><img src="img/ad/image2.png"></div>
             <div class="section2-text">
-            <p>This is the print and digital media design for AD Buyer meetup. AD Buyer Meetup is a event...
+            <p>The project is about creating the print and digital media designs for AD Buyer meetup. AD Buyer Meetup is a professional meetup for AD media buyers. </p>
 
-            <p><span>Print media design:</span> Sponsor Pamphlet, flyers, LED screen, table, Step and Repeat banner</p>
-            <p><span>Digital media:</span> website, email template, Facebook Newsfeed and Facebook cover</p>
+            <p><span>Print media design:</span> Sponsor Pamphlet, Flyers, LED screen, Table sign, and Step and Repeat banner</p>
+            <p><span>Digital media:</span> Website, Email Template, Facebook Newsfeed and Facebook Cover</p>
             
        
             <div class="ps-container">
@@ -43,7 +43,9 @@
         <div class="secondrow-container">
             <div class="header-text">
                 <h5>Before the event</h5>
-                <p>Digitial Marketing: website, email, Facebook</p>
+                <p>Create the announcement/AD banners to let people know about the meetup.</P>
+                <p>Digitial Marketing: Website, Email-template, Facebook, etc.</p>
+                <p>Print Media: Flyers, etc.</p>
             </div>
             <div class="max-width">
                 
@@ -57,8 +59,8 @@
         <div class="thirdrow-container">
             <div class="header-text">
                 <h5>On the event day</h5>
-                <p>Print Media: table flyer and Step and Repeat banner</p>
-                <p>Digital Media: LED screen</p>
+                <p>Print Media: Table Flyers and Step and Repeat banner which customize backdrop</p>
+                <p>Digital Media: LED Screens</p>
             </div>
         <div class="max-width">
             <div class="thirdrow-img"><img src="img/ad/image7.png"></div>

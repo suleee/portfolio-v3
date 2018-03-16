@@ -32,4 +32,19 @@
             width: 50%;
         }
     }
+    .process-approach-contianer{
+        display: flex;
+        justify-content: space-around;
+        .thirdrow-img{
+            width: 30%;
+        }
+    }
+    .header-text {
+        @media all and (min-width: 600px) {
+            width: 500px;
+        }
+        padding-bottom: 30px;
+        margin: 0 auto;
+        text-align: center;
+    }
 }

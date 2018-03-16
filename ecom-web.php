@@ -41,14 +41,14 @@
         <div class="secondrow-container">
         <div class="max-width sc-problem">
             <div class="problem">
-                <h3>problems</h3>
+                <h3>Problems</h3>
                 <ul>
                 <li>Unorganized </li>
                 <li>Does not have enough functionality the user can do</li>
                 <li>Website does not contain enough content</li>
                 <li>Some functionality is broken</li>
                 <li>Not responsive</li>
-                <li>Does not have a price&plan page</li>
+                <li>Does not have a price & plan page</li>
                 </ul>
                 </div>
 
@@ -56,10 +56,11 @@
                 <h3>Solution</h3>
                 <ul>
                     <li>Organize the content</li>
-                    <li>add more contents</li>
+                    <li>Interface design with a focus on content layout</li>
+                    <li>Add more contents</li>
                     <li>Create a price and plan page</li>
                     <li>Fixed the broken functions and roots</li>
-                    <li>Create table and mobile verison</li>
+                    <li>Create tablet and mobile version</li>
                 </ul>
             </div>
         
@@ -127,7 +128,11 @@
 
         <div class="fourthrow-container">
         <div class="max-width">
-            <h5>Process & Approach</h5>
+        
+            <div class="header-text">
+                <h5>Process & Approach</h5>
+                <p>Site map -> Wireframe -> Final Design</p>
+            </div>
             <div class="process-approach-contianer">
             <div class="process-first"><img src="img/sc/sitemap.jpg" class="sc-map" alt=""></div>
                 <div class="process-second"><img src="img/sc/wireframe-strongCurrent-main.jpg" class="sc-map" alt=""></div>
@@ -142,27 +147,6 @@
             <div><img src="img/sc/final.png" alt="final-ecom-pages"></div>
         </div>
         </div>
-<!-- 
-        <div class="seventhrow-container">
-            <div class="max-width">
-            <div class="bottom-info-container">
-                <div class="text-container">
-                <h3>More About this Project</h3>
-                <p>This is an e-commerce website targeting the company who are looking to build an 
-                    international e-commerce enterprise. Strong Current is looking for manufacturing partners 
-                    who utilize the most technologically advanced facilities and equipment. Strong Current provides 
-                    quality packaging and branding to turn an ordinary product into top-notch best sellers. 
-                     </p>
-                </div>
-                <div class="text-container text-container-right">
-                    <p>They want to renew the site to make it clear what they do and mobile friendly website. 
-                    I went to work on a responsive approach which lends itself to viewing on mobile devices. 
-                    Aesthetically, I chose a simple design that spoke to e-commerce with a professional 
-                    polish that works to enhance the existing brand.</p>
-                </div>
-            </div>
-            </div>
-        </div> -->
 
         <div class="sixthrow-container">
         <div class="max-width pb-flexbox">
