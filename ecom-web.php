@@ -131,7 +131,7 @@
         
             <div class="header-text">
                 <h5>Process & Approach</h5>
-                <p>Site map -> Wireframe -> Final Design</p>
+                <p>Research -> Site Map -> Wireframe -> Final Design</p>
             </div>
             <div class="process-approach-contianer">
                 <div class="process-first"><img src="img/sc/sitemap.jpg" class="sc-map" alt=""></div>
