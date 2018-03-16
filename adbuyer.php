@@ -72,8 +72,8 @@
 
         <div class="fourthrow-container">
         <div class="max-width pb-flexbox">
-            <a href="disney.php" class="pb-tag"><div class="previous"><i class="fa fa-angle-left" aria-hidden="true"></i> previous</div></a>
-            <a href="war.php" class="pb-tag"><div class="back">back <i class="fa fa-angle-right" aria-hidden="true"></i></div></a>
+            <a href="fellow.php" class="pb-tag"><div class="previous"><i class="fa fa-angle-left" aria-hidden="true"></i> previous</div></a>
+            <a href="fsm.php" class="pb-tag"><div class="back">back <i class="fa fa-angle-right" aria-hidden="true"></i></div></a>
         </div>
         </div>
 
