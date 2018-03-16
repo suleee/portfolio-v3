@@ -51,14 +51,17 @@
             display: flex;
             justify-content: space-around;
             .process-first {
-                width: 70%;
+                width: 45%;
             }
             .process-second {
-                width: 30%;
+                width: 25%;
                 img {
                     width: 100%;
                     height: 100%;
                 }
+            }
+            .process-third{
+              width: 25%;
             }
         }
         .process-second {
@@ -67,6 +70,7 @@
     }
     .fourthrow-container {
         background-color: white;
+        border-bottom: 0;
     }
     .sc-problem {
         padding-left: 36px;

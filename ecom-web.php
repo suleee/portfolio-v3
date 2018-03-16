@@ -134,17 +134,11 @@
                 <p>Site map -> Wireframe -> Final Design</p>
             </div>
             <div class="process-approach-contianer">
-            <div class="process-first"><img src="img/sc/sitemap.jpg" class="sc-map" alt=""></div>
+                <div class="process-first"><img src="img/sc/sitemap.jpg" class="sc-map" alt=""></div>
                 <div class="process-second"><img src="img/sc/wireframe-strongCurrent-main.jpg" class="sc-map" alt=""></div>
-     
+                <div class="process-third"><img src="img/sc/final.png" alt="final-ecom-pages"></div>
             </div>
       
-        </div>
-        </div>
-
-        <div class="ws-section4 fifthrow-container sc-images">
-        <div class="max-width">
-            <div><img src="img/sc/final.png" alt="final-ecom-pages"></div>
         </div>
         </div>
 

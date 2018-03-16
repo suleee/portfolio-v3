@@ -1025,16 +1025,19 @@ h5 {
     display: flex;
     justify-content: space-around; }
     .e-commerce-container .process-approach-contianer .process-first {
-      width: 70%; }
+      width: 45%; }
     .e-commerce-container .process-approach-contianer .process-second {
-      width: 30%; }
+      width: 25%; }
       .e-commerce-container .process-approach-contianer .process-second img {
         width: 100%;
-        height: 100%; } }
+        height: 100%; }
+    .e-commerce-container .process-approach-contianer .process-third {
+      width: 25%; } }
 .e-commerce-container .process-approach-contianer .process-second {
   display: flex; }
 .e-commerce-container .fourthrow-container {
-  background-color: white; }
+  background-color: white;
+  border-bottom: 0; }
 .e-commerce-container .sc-problem {
   padding-left: 36px;
   line-height: 24px; }
