@@ -1148,7 +1148,7 @@ h5 {
   width: 100%; }
 
 .pocha-container .pocha-topbanner {
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.4) 40%, rgba(0, 0, 0, 0.4) 40%), url("../img/pocha/pocha-bg.jpg") no-repeat top;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.6) 60%, rgba(0, 0, 0, 0.6) 40%), url("../img/pocha/pocha-bg.jpg") no-repeat top;
   background-size: cover;
   height: 90vh; }
 .pocha-container .rotate-banner-bg {
