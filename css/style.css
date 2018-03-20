@@ -1279,6 +1279,9 @@ body {
   text-align: center;
   padding-bottom: 20px; }
 
+.flickity-prev-next-button.next, .flickity-prev-next-button.previous {
+  position: absolute !important; }
+
 .section05 .main-section {
   text-align: center;
   line-height: 24px;

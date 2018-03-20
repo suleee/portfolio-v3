@@ -46,3 +46,7 @@ body {
         padding-bottom: 20px;
     }
 }
+
+.flickity-prev-next-button.next, .flickity-prev-next-button.previous{
+    position: absolute !important;
+}
