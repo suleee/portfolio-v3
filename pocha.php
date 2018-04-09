@@ -84,7 +84,7 @@
         <div class="max-width">
             <div class="header-text">
                 <h5>Process & Approach</h5>
-                <p>List of menu -> Brainstorms -> Final Design</p>
+                <p>List of menu  |  Brainstorms  |  Final Design</p>
             </div>
             <div class="process-approach-contianer">
             <div class="thirdrow-img"><img src="img/pocha/menu.jpg"></div>
