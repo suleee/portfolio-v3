@@ -36,7 +36,7 @@
                 </div>
 
 
-                <div class="dp-thumb-con">
+                <!-- <div class="dp-thumb-con">
                 <a class="btn03" href="adbuyer.php">
                 <div class="thumb">
                 <img src="img/ad/ad-mac01.png" alt="fsm-thumb">
@@ -44,7 +44,7 @@
                 <p class="p-th-p"><span class="p-th-span">UX, Print Media, Design</span></p>  
                 </div>
                 </a>
-                </div>
+                </div> -->
 
 
                 <div class="dp-thumb-con">
