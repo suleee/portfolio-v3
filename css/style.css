@@ -1301,12 +1301,13 @@ body {
   text-transform: uppercase;
   margin: auto 0;
   text-align: center; }
-.section05 h4 {
+.section05 .web-title h4 {
   color: #272D35;
   font-size: 16px;
   font-weight: 700;
   margin: 15px 0;
-  line-height: 22px; }
+  line-height: 22px;
+  height: 40px; }
 .section05 .git-link {
   font-size: 14px; }
 .section05 .git-link:hover {

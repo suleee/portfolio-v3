@@ -34,8 +34,9 @@
                     </p>
                     <p class="lang"><span>language:</span> HTML5, CSS3, JavaScript and jQuery</p></div>
                     <div class="git-btn">
-                        <a href="http://felloweternalclash.com/" class="git-link git-link-pp"> Visit site</a>
-                        <a href="https://github.com/suleee/fellow-teaser" class="git-link git-link-pp">GitHub</a></div>
+                        <a href="http://felloweternalclash.com/" class="git-link git-link-pp" target="_blank"> Visit site</a>
+                        <a href="https://github.com/suleee/fellow-teaser" class="git-link git-link-pp">GitHub</a>
+                        </div>
                 </div>
 
                 <div class="web-p-single-container">
@@ -47,10 +48,10 @@
 
                     </p>
                 </div>
-                    
                     <div class="git-btn">
-                    <a href="http://catalystcommdev.org/" class="git-link git-link-b">Visit site</a>
-                    <a href="https://github.com/suleee/catalyst-winter-2017" class="git-link git-link-b">GitHub</a></div>
+                    <a href="http://catalystcommdev.org/" class="git-link git-link-b" target="_blank">Visit site</a>
+                    <a href="https://github.com/suleee/catalyst-winter-2017" class="git-link git-link-b">GitHub</a>
+                    </div>
                 </div>
 
 
@@ -74,7 +75,7 @@
                     </p>
                     <p class="lang"> <span>language:</span> HTML, CSS, Sass, Javascript, jQuery, Wordpress, PHP</p></div>
                     <div class="git-btn">
-                    <a href="http://inhabitant.akkarapaka.com/" class="git-link git-link-b">Visit site</a>
+                    <a href="http://inhabitant.akkarapaka.com/" class="git-link git-link-b" target="_blank">Visit site</a>
                     <a href="https://github.com/suleee/Inhabitent_project4" class="git-link git-link-b">GitHub</a></div>
                 </div>
 
@@ -89,7 +90,7 @@
                     <p class="lang"><span>language:</span> HTML5, CSS3, JavaScript, jQuery and AJAX/JSON API</p></div>
                     
                     <div class="git-btn">
-                    <a href="https://suleee.github.io/Instanews-App/" class="git-link git-link-g">Visit site</a>
+                    <a href="https://suleee.github.io/Instanews-App/" class="git-link git-link-g" target="_blank">Visit site</a>
                     <a href="https://github.com/suleee/Instanews-App" class="git-link git-link-g">GitHub</a></div>
                 </div>
 
@@ -104,7 +105,7 @@
                     <p class="lang"><span>language:</span> HTML5, CSS3, JavaScript and jQuery</p></div>
                   
                   <div class="git-btn">
-                  <a href="https://suleee.github.io/Aloha-Responsive-Website/" class="git-link git-link-pp"> Visit site</a>
+                  <a href="https://suleee.github.io/Aloha-Responsive-Website/" class="git-link git-link-pp" target="_blank"> Visit site</a>
                   <a href="https://github.com/suleee/Aloha-Responsive-Website" class="git-link git-link-pp"> GitHub</a></div>
                 </div>
 
