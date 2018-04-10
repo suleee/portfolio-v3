@@ -1340,6 +1340,42 @@ body {
   color: #FF5163; }
 .section05 .git-link-p:hover {
   background: #FF5163; }
+.section05 .site-link {
+  font-size: 14px; }
+.section05 .site-link {
+  color: white; }
+.section05 .site-btn {
+  text-align: center; }
+.section05 .site-link {
+  width: 135px;
+  text-align: center;
+  margin: auto;
+  border-radius: 2px;
+  padding: 8px 20px; }
+.section05 .site-link-g {
+  background: #8a939a; }
+.section05 .site-link-g:hover {
+  border: 1px solid #8a939a;
+  background: white;
+  color: #8a939a; }
+.section05 .site-link-b {
+  background: #0ca2ff; }
+.section05 .site-link-b:hover {
+  border: 1px solid #0ca2ff;
+  color: #0ca2ff;
+  background: white; }
+.section05 .site-link-pp {
+  background: #796eff; }
+.section05 .site-link-pp:hover {
+  border: 1px solid #796eff;
+  color: #796eff;
+  background: white; }
+.section05 .site-link-p {
+  background: #FF5163; }
+.section05 .site-link-p:hover {
+  border: 1px solid #FF5163;
+  color: #FF5163;
+  background: white; }
 .section05 .bar {
   border-bottom: 2px solid black;
   width: 30px;
