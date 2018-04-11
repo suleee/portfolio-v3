@@ -64,8 +64,8 @@
                 </div>
             <!-- <div> -->
             <ul class="menu-list">
-                <li class="menu-hover"><a href="work.php">Design Work</a></li>
-                <li class="menu-hover"><a href="web-project.php">Dev. Work</a>
+                <li class="menu-hover"><a href="work.php">Design</a></li>
+                <li class="menu-hover"><a href="web-project.php">Development</a>
                 <!-- <div class="menu-bar-hover" style="display:none"></div></li> -->
                 <li class="menu-hover"><a href="about-me.php">My Story</a>
             </ul>
