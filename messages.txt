@@ -24,3 +24,8 @@ fdf
 wewe - ejisulww@gmail.com
 wew
 ------
+
+
+
+//how to run sass
+sass --watch style.scss:style.css
