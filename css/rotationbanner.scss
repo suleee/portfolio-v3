@@ -48,5 +48,7 @@ body {
 }
 
 .flickity-prev-next-button.next, .flickity-prev-next-button.previous{
+    border: none !important;
+    background: white !important;
     position: absolute !important;
 }

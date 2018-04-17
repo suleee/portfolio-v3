@@ -53,8 +53,7 @@ http://flickity.metafizzy.co
   top: 50%;
   width: 44px;
   height: 44px;
-  border: none !important;
-  border-color: none !important;
+  border: none;
   border-radius: 50%;
   background: white;
   cursor: pointer;
