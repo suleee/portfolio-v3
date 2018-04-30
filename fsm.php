@@ -18,7 +18,7 @@
             <div class="max-width">
             <div class="section2-thumb"><img src="img/fsm/fsm-imac.png"></div>
             <div class="section2-text">
-            <p>Free to Stream App is the online directory that you can watch your favorite tv shows. It really easy to navigate what the user is looking for through easy-to-use filtering menu. Just choose language and the type of media user wants to stream, and the site will give all the reviews and information. This is the Web App targeting TV antenna product. After users purchase the TV antenna product, they can watch TV show through one of the App inside of the Free to Stream App site. </p>
+            <p>Free to Stream App is the online directory and player app, where the user can watch hers/his favorite tv shows. Navigation with filtering functions is designed to be super easy for any type of users. A user can just choose language and type of media she/he wishes to watch and all information and reviews are shown. This app is made for TV Antenna product, after user purchase and receives antenna, a web application can be used right away.</p>
 
             <div class="ps-container">
                 <!-- <h3>Solution</h3> -->
